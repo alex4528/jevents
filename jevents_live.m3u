@@ -1,5 +1,5 @@
 #EXTM3U
-#playlist by @yuvraj824 (tg)
+#playlist by @yuvraj824
 
 #EXTINF:-1 tvg-id="4012627" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/paralympics_live_soman_simran_horizontal_carousel-1725641831911.jpg",Paralympic Games Paris 2024
 #EXTHTTP:{"cookie":"hdnts=st=1725646991~exp=1725654191~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=aee4b334-c646-4768-b6e5-0cb043114151~hmac=c63b3a27b0b37b8775ee55d9f786c4954d7d63736ce5c4d7dd55819f322925ff"}
@@ -8,3 +8,4 @@ https://prod-sportsp-eng.jiocinema.com/hls/live/2100310/hd_akamai_merged_avc_eng
 #EXTINF:-1 tvg-id="4008737" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/dpl_2024_north_delhi_strikers_vs_east_delhi_riders_horizontal_carousel-1725601862638.jpg",Delhi Premier League T20
 #EXTHTTP:{"cookie":"hdnts=st=1725646991~exp=1725654191~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=3d7f5d26-0bb3-4ca7-a645-666dd7331349~hmac=f54c70f7d406a96dfdecaa4f97facadb9ef3047187e8d49dd0f750d602f97683"}
 https://prod-sports-eng-gm.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m1_060924/tv_master.m3u8
+
