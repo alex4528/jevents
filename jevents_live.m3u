@@ -1,1 +1,19 @@
-Error decoding JSON file
+#EXTM3U
+#playlist by @yuvraj824
+
+#EXTINF:-1 tvg-id="4014808" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/m1_a_vs_b_duleep_trohy_live_horizontal_carousel-1725486868231.jpg",IDFC First Bank Duleep Trophy
+#EXTHTTP:{"cookie":"cookieparams=eyJDbG91ZEZyb250LUtleS1QYWlyLUlkIjp7InZhbHVlIjoiSzM2MkRFRU5CR1JCUjE7cGF0aD0vIn0sIkNsb3VkRnJvbnQtUG9saWN5Ijp7InZhbHVlIjoiZXlKVGRHRjBaVzFsYm5RaU9sdDdJbEpsYzI5MWNtTmxJam9pYUhSMGNITTZMeTl3Y205a0xYTndiM0owY3kxbGJtY3RZMll1YW1sdlkybHVaVzFoTG1OdmJTOHFJaXdpUTI5dVpHbDBhVzl1SWpwN0lrUmhkR1ZNWlhOelZHaGhiaUk2ZXlKQlYxTTZSWEJ2WTJoVWFXMWxJam94TnpJMU56YzNPREUxZlgxOVhYMF87cGF0aD0vIn0sIkNsb3VkRnJvbnQtU2lnbmF0dXJlIjp7InZhbHVlIjoiR0tFSlJtRG5NdklNRmJ6Z3l+VnpQR1hFY2R3bTZhVFUwOVpsTTEzcFZER3U1NUdhVUNicE9lUHYtUTZqLTF0MjNaTC1jSFFFeTFvTEpmNjFQVnRad0VlUnJ2ZWItYjlkM1Z6NGwtYmlrQ0VQckhwaWU1TkxpbERZTG9vanFmMVJTSE9IaW5OVlZxOExFZWVxVFN1eTlxVWV0RnlUTEJnSzhuaHViQlhsNWFaYmRNU3VCaC1oUVVPMkgwUlZxcEI0ZlZCVTJkbWJSSUNtNE5KZ2Mta1FVWFBYYUx2ZTNMakh2UnVOU2prOXJhWTNuWTFNYVNISnBJcXYyenRoT1ZRaTdpODFYQlpMemRMOVFVYUZ4NllPbDBCcUtwamhObHJ6alBNM0RYWkNzeVgyNUFETWdDSEs0NHZhYmhocHV2Z1MxZ2U1ZVlaYWlaVVRzb1lIWG9SUGtnX187cGF0aD0vIn19&Expires=1725691715&Signature=JG4USqpVPI56scaMyMOAm9njgRekyCVzeJO0n5ILbrjcfo~EJ3k6tQqgVVVL0jX5RYo6JfEa4r~E0o~fCDN8tG478-C-JTxDy2wwnLPnbdUljTN8q8LGFGzaf21Epg~3q5Fd2JYZ9rhdpwmhkjxYzyxtjFd3vNywjCqGnISoFJdVid3PFjn6kO9fzWZ8hl7njfYsiHm5xV2o1jNMjv9ZShZDNKCBXBPPsytSD4kBMp1eI6KfG2TLjedrVxAN-c-YNmjcM556RuLhlbvspyKTTt7vl2q30ysqmz7gVLAGM2LUw~MX5rbSooi~7LqzY2cke5xl4PFzlN0P26kvX9xTpw__&Key-Pair-Id=K362DEENBGRBR1"}
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100307/hd_akamai_merged_avc_eng_cricket_m4_070924/tv_master.m3u8
+
+#EXTINF:-1 tvg-id="4014810" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/m1_c_vs_d_duleep_trohy_live_horizontal_carousel-1725486436329.jpg",IDFC First Bank Duleep Trophy
+#EXTHTTP:{"cookie":"hdnts=st=1725691415~exp=1725698615~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=2560fa6b-29b5-46e0-b5bc-0367656f5f50~hmac=63e802cf4fab89578ef5d99913ea3854397dc5a04cc65fa1cdc0ee5ca0e051c1"}
+https://prod-sportsp-eng.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m3_070924/tv_master.m3u8
+
+#EXTINF:-1 tvg-id="4014380" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/motogp_san_marino_qualifying_horizontal_carousel-1725679389901.jpg",MotoGP
+#EXTHTTP:{"cookie":"hdnts=st=1725691415~exp=1725698615~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=6054ee50-badb-4683-98d0-d6c1b38358b6~hmac=6d9404e512bece4c73311c8643942cab7a0edaf852472a1fc34a9e0c21828054"}
+https://prod-sportsp-north.jiocinema.com/hls/live/2109759/hd_akamai_merged_avc_eng_motogp_m1_070924/tv_master.m3u8
+
+#EXTINF:-1 tvg-id="4014402" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/taipei_open_live_horizontal_carousel-1725664421154.jpg",BWF
+#EXTHTTP:{"cookie":"hdnts=st=1725691415~exp=1725698615~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=c1ba3fa2-8b17-46b7-a91c-475e071449ac~hmac=4427b474270be4baa8481579dbbc35cfc38482e0841bfc8c40a31808e909446e"}
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109981/hd_akamai_merged_avc_eng_bwf_m1_070924/tv_master.m3u8
+
