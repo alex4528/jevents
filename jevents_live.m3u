@@ -2,10 +2,10 @@
 #playlist by @yuvraj824
 
 #EXTINF:-1 tvg-id="4012627" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/paralympics_live_gavit_navdeep_para_athletics_gold_medal_event_horizontal_carousel-1725731128682.jpg",Paralympic Games Paris 2024
-#EXTHTTP:{"cookie":"hdnts=st=1725733522~exp=1725740722~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=d9ac132f-ec4c-4647-84f3-94d3621125cd~hmac=f28e8d484053246192222924df14a858ef62d450290590d1d13719bcb1d274d2"}
+#EXTHTTP:{"cookie":"hdnts=st=1725735325~exp=1725742525~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=1fcb53d7-60fd-492b-8ef6-18b78358fd3f~hmac=f7bcc62cd2871e4b522a0f1ce4f0938a3ce6311cd30ccf71b5a180e14b5c6cdc"}
 https://prod-sportsp-eng.jiocinema.com/hls/live/2100310/hd_akamai_merged_avc_eng_athletics_m1_070924/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4012628" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/paralympics_live_para_swimming-standalone_gold_horizontal_carousel-1725732078839.jpg",Paralympic Games Paris 2024
-#EXTHTTP:{"cookie":"hdnts=st=1725733522~exp=1725740722~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=c4629139-3fdc-4bea-94f9-daba1da8472f~hmac=771c92c3d305c99f9ba1a1cfb2ab19373f9e61d38cc56f0b93a08529413534d8"}
+#EXTHTTP:{"cookie":"hdnts=st=1725735325~exp=1725742525~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=2cc83b06-c8df-446c-9912-c2adcaa6ff13~hmac=809449c2fd5f969d2c83fdcd826c79ea6dbc6efd930d0184d96717aa9de19a4c"}
 https://prod-sportsp-eng.jiocinema.com/hls/live/2100311/hd_akamai_merged_avc_eng_athletics_m2_070924/tv_master.m3u8
 
