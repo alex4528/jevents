@@ -2,18 +2,18 @@
 #playlist by @yuvraj824
 
 #EXTINF:-1 tvg-id="4012627" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/paralympics_live_wheelchair_fencing-generic_horizontal_carousel-1725713636180.jpg",Paralympic Games Paris 2024
-#EXTHTTP:{"cookie":"hdnts=st=1725714344~exp=1725721544~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=f21daa0f-b260-477d-a887-d61b038a8c3b~hmac=505d36f109d78de8b53c6cd5ec319f9c8ae73781714f5a786b4058a105a42117"}
+#EXTHTTP:{"cookie":"hdnts=st=1725716382~exp=1725723582~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=719a2007-1c9c-4034-99db-112ec793b589~hmac=2d0b512a584f3354b67115a7b50d689e1ae9b9f4bcb64a8d408118bd2c609295"}
 https://prod-sportsp-eng.jiocinema.com/hls/live/2100310/hd_akamai_merged_avc_eng_athletics_m1_070924/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4011658" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/upt20_season_2_noida_kings_vs_kanpur_superstars_horizontal_carousel-1725681416847.jpg",UPT20
-#EXTHTTP:{"cookie":"hdnts=st=1725714344~exp=1725721544~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=8102ae3d-ee03-4c29-a9ca-dbf2209bb178~hmac=c5c2e75ab63b8df970fdf9ccc04ac572b04b1071182e37ddbf017a93dbec94f1"}
+#EXTHTTP:{"cookie":"hdnts=st=1725716383~exp=1725723583~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=c22036e3-5123-434c-91bc-1317a23bb420~hmac=4ba0349f3930f6b09985f3bb304b3d69b3d7942d7d9795b4668973015770d6d1"}
 https://prod-sports-eng-gm.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m2_070924/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4018355" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/utt_live_goa_challengers_vs_dabang_delhi_horizontal_carousel-1725683783890.jpg",Ultimate Table Tennis
-#EXTHTTP:{"cookie":"hdnts=st=1725714344~exp=1725721544~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=3d5ec636-bded-44fd-9c6c-36c79db757dd~hmac=b55cf60b9ae88156567ecb761479cae427c5f8377075a94594e67ee362535982"}
-https://prod-sportsp-eng.jiocinema.com/hls/live/2100311/hd_akamai_merged_avc_eng_athletics_m5_070924/tv_master.m3u8
+#EXTHTTP:{"cookie":"hdnts=st=1725716383~exp=1725723583~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=5fa46e67-351e-4137-bbf3-ac04b17ea3d8~hmac=73cb9547489b2a40ad8bcf096c6650c0cdcf203921670391c99c9983d3e4082a"}
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100311/hd_akamai_merged_avc_eng_athletics_m5_070924/tv_master.m3u8
 
-#EXTINF:-1 tvg-id="4012628" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/paralympics_live_para_powerlifting-generic_horizontal_carousel-1725709546888.jpg",Paralympic Games Paris 2024
-#EXTHTTP:{"cookie":"hdnts=st=1725714344~exp=1725721544~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=c456cbc8-8106-4274-bd5b-7794539d53d2~hmac=5f140938a216d0d415e2a2251eb633e8cd3dccfb249e9f2675a3f90f8d9a00aa"}
+#EXTINF:-1 tvg-id="4012628" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/paralympics_live_para_tt-generic_gold_horizontal_carousel-1725715328464.jpg",Paralympic Games Paris 2024
+#EXTHTTP:{"cookie":"hdnts=st=1725716383~exp=1725723583~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=9766a29a-9f30-44cd-91f2-7f56a2a9849d~hmac=2b938a4d76c52cad8e1f657f9f891e9f63c2fafd6c3a70b69a8419ef056a9958"}
 https://prod-sportsp-eng.jiocinema.com/hls/live/2100311/hd_akamai_merged_avc_eng_athletics_m2_070924/tv_master.m3u8
 
