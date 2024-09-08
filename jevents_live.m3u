@@ -2,10 +2,10 @@
 #playlist by @yuvraj824
 
 #EXTINF:-1 tvg-id="4014808" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/m1_a_vs_b_duleep_trohy_live_horizontal_carousel-1725486868231.jpg",IDFC First Bank Duleep Trophy
-#EXTHTTP:{"cookie":"hdnts=st=1725769902~exp=1725777102~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=cbcd4934-9f27-4f9a-b196-49d1e2d92702~hmac=4d1497676dde957e11fd61e8ae68dcd7a234cd3cab7da8519813bfc79670bba4"}
+#EXTHTTP:{"cookie":"hdnts=st=1725771718~exp=1725778918~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=ca506d5f-3c66-483a-a070-120ea77db9c3~hmac=e886a1834499a34157f261ddd5d09e6cdcb7aaa7f72b146bdfec2206fe423978"}
 https://prod-sports-eng-gm.jiocinema.com/hls/live/2100307/hd_akamai_merged_avc_eng_cricket_m4_080924/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4014401" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/taipei_open_live_horizontal_carousel-1725751212067.jpg",BWF
-#EXTHTTP:{"cookie":"hdnts=st=1725769902~exp=1725777102~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=39f95f7d-cd7f-42bb-a6ca-9f391d5abb98~hmac=d96cf5b63967aded91806382aae4b2d1406df6f1b12a6f9e9f836b96a8e20fae"}
+#EXTHTTP:{"cookie":"hdnts=st=1725771718~exp=1725778918~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=f17dc5f5-c99a-43ba-ba5e-523296714d84~hmac=8ee1ece47fd627085e6c8e15fe1feb8b7ae8c3619afc13d329cd4dfb1bee58a5"}
 https://prod-sports-south-gm.jiocinema.com/hls/live/2109981/hd_akamai_merged_avc_eng_bwf_m1_080924/tv_master.m3u8
 
