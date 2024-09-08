@@ -2,14 +2,14 @@
 #playlist by @yuvraj824
 
 #EXTINF:-1 tvg-id="4011661" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/upt20_season_2_meerut_mavericks_vs_lucknow_falcons_horioznta_carousel-1725767806551.jpg",UPT20
-#EXTHTTP:{"cookie":"hdnts=st=1725809307~exp=1725816507~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=d499e3ef-4a2a-4345-a06e-88a5260ae092~hmac=8f74af42b504a172000ec96ac574252071bb04f0664c301b9856a15ede2ea378"}
-https://prod-sports-eng-gm.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m2_080924/tv_master.m3u8
+#EXTHTTP:{"cookie":"hdnts=st=1725811112~exp=1725818312~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=29aa6286-bc34-4d76-ad9c-18f738d353c6~hmac=064f5a91db0ddf4b8ee863a89a636d4a523ccd4f2d2f17f7908302210c0860b1"}
+https://prod-sportsp-eng.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m2_080924/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4008741" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/dpl_2024_east_delhi_riders_vs_south_delhi_superstarz_horizontal_carousel-1725770652351.jpg",Delhi Premier League T20
-#EXTHTTP:{"cookie":"cookieparams=eyJDbG91ZEZyb250LUtleS1QYWlyLUlkIjp7InZhbHVlIjoiSzM2MkRFRU5CR1JCUjE7cGF0aD0vIn0sIkNsb3VkRnJvbnQtUG9saWN5Ijp7InZhbHVlIjoiZXlKVGRHRjBaVzFsYm5RaU9sdDdJbEpsYzI5MWNtTmxJam9pYUhSMGNITTZMeTl3Y205a0xYTndiM0owY3kxbGJtY3RZMll1YW1sdlkybHVaVzFoTG1OdmJTOHFJaXdpUTI5dVpHbDBhVzl1SWpwN0lrUmhkR1ZNWlhOelZHaGhiaUk2ZXlKQlYxTTZSWEJ2WTJoVWFXMWxJam94TnpJMU9EazFOekEzZlgxOVhYMF87cGF0aD0vIn0sIkNsb3VkRnJvbnQtU2lnbmF0dXJlIjp7InZhbHVlIjoiVlhGYjNzU3JTZ1AtNGRTaFM0ZzdqQ245RzdlbmNMM3pPUUtJZlRpVDNrU0Z0Q0k5MHVvZnFTV2hHdHo5TDhRNTIxdFcwS3VLVzh1OWxyMS1sQmhqd3ljVkJUcE5qSH5xc083MFlrdmRXZjVSOXZJMmRpczI1bnhjZWtqWjBTU3JzZldZb1d6SnM5LU10SDIza1ppQXR0TThVc0dGRjdpM0VVNW83OX5UaUludU1mUDN6U1NjT34yZVJIbld3LUZ1WmVqTUFtN2kwZGxjaDZoZ3FQbX5UZ3VvZ1lsWjU1VnJMaFNXSmtCdk5PcUVVd2pKV2Mxa3hLOFhnUDNxTTFuY0JZYi1vdWJZcHN3fkZKM0hKYjhxcUVhb2FxWkNlWGhYOENQdEdlalVIa2NsMXEyVThieENZamN5S3ZoNUlXVzVtWlIxY1JFbDF0UnNmd1RTfllydWR3X187cGF0aD0vIn19&Expires=1725809607&Signature=PEmb2yl1YSBK2qrI8AfuGEaSGqb1Q8pTZJ4RT3QVKc5f1RpQuXuJDAK62c7Fq-crwKsHQi4EaDJaPOe4YIRGeSB3kKFHICH1uapSfqAaTUTixzylLoWRMEdEZl1kD7cC1SuJ0zVBBZfaNcQmbE~b7Nl9dxHc9Q~bmQ47AzgqEg1C98JOHj-860-Q64xvNj9sAWRuhVv6mNcMLXu6cnb4qrFZEidblNLjj4uyeQvD2Tx7-DGYqpiHrT1ZSCZSB9OeKUr12y6nD9x76VWCcMV-t37G2idXkyDdGFOAtFnID~ApZcvPdVWsEsTfUK2roUqA4vzQUnlE~4i8kleW3DB3Gw__&Key-Pair-Id=K362DEENBGRBR1"}
-https://prod-sports-eng-cf.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m1_080924/tv_master.m3u8
+#EXTHTTP:{"cookie":"hdnts=st=1725811112~exp=1725818312~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=0aeec1f3-1f87-4620-a039-5b07d9b2fb8c~hmac=a4b789cd1c3b4a3189eb93ccf48444638a1ebb5b30b2e3e2251482c015ea6592"}
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m1_080924/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4014403" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/continental_tour_gold_horizontal_carousel-1725776008876.jpg",World Athletics Continental Gold Tour
-#EXTHTTP:{"cookie":"hdnts=st=1725809307~exp=1725816507~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=83774cfc-ccf5-45f5-8b37-b266ccac9e56~hmac=e256648d09d7de4f509294d5184f48b56309d42c457f369029de9bb2c3f7237b"}
-https://prod-sportsp-eng.jiocinema.com/hls/live/2100308/hd_akamai_merged_avc_eng_ctg_m1_080924/tv_master.m3u8
+#EXTHTTP:{"cookie":"hdnts=st=1725811112~exp=1725818312~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=1e747314-998b-41c9-b2c2-3d72e76bc03b~hmac=97c3bcf641fd6ff414a8284877a9926a86ae0919b0e5fffdf79150a59641e20d"}
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100308/hd_akamai_merged_avc_eng_ctg_m1_080924/tv_master.m3u8
 
