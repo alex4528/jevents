@@ -1,11 +1,15 @@
 #EXTM3U
 #playlist by @yuvraj824
 
-#EXTINF:-1 tvg-id="4012627" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/paralympics_live_para_powerlifting-generic_horizontal_carousel-1725796689319.jpg",Paralympic Games Paris 2024
-#EXTHTTP:{"cookie":"hdnts=st=1725803871~exp=1725811071~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=ce47f4eb-11c2-4622-96e3-b191756f0a09~hmac=863f18375cca27a25b2ae03445958292c84320c3ae5babec2a1197d968863be4"}
-https://prod-sportsp-eng.jiocinema.com/hls/live/2100310/hd_akamai_merged_avc_eng_athletics_m1_080924/tv_master.m3u8
+#EXTINF:-1 tvg-id="4011661" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/upt20_season_2_meerut_mavericks_vs_lucknow_falcons_horioznta_carousel-1725767806551.jpg",UPT20
+#EXTHTTP:{"cookie":"cookieparams=eyJDbG91ZEZyb250LUtleS1QYWlyLUlkIjp7InZhbHVlIjoiSzM2MkRFRU5CR1JCUjE7cGF0aD0vIn0sIkNsb3VkRnJvbnQtUG9saWN5Ijp7InZhbHVlIjoiZXlKVGRHRjBaVzFsYm5RaU9sdDdJbEpsYzI5MWNtTmxJam9pYUhSMGNITTZMeTl3Y205a0xYTndiM0owY3kxbGJtY3RZMll1YW1sdlkybHVaVzFoTG1OdmJTOHFJaXdpUTI5dVpHbDBhVzl1SWpwN0lrUmhkR1ZNWlhOelZHaGhiaUk2ZXlKQlYxTTZSWEJ2WTJoVWFXMWxJam94TnpJMU9Ea3lNRGN5ZlgxOVhYMF87cGF0aD0vIn0sIkNsb3VkRnJvbnQtU2lnbmF0dXJlIjp7InZhbHVlIjoiWlRTeVRVT3RwSEI3VEk0eFRZYUpremhhdDNFTUJIeHlmNzhtLXY0SG5kUmNWRk1WaVl+T3VXUXNOeUN0VG5+cDU4YjdyNEs3dGZwc2hDSy1tOHZ4M0l4cE5HR2dZNXk4aEgzZ1d5eFpNSDlBbW5kWVhZV21IOHRwTFhTTmdRcFJXRkRGejJnVHBSTEtSbmRBODl4M2V3VDlUaFJVajlVT2ROajV3OUtEMjJtTk94WXcwSmNyN2FQOHlqLVpqRn5ubUtmMkZFMmkwbkpXbVFJUnpuaXQ5a1NFb0VRbHRpNVBmbVhSUzVvbGpXZFdvZE51b2wyZk81TFF1VzJuNDhsVXNCflhZZ2RXM3htcnFLbzJVT2JYS1M0MHcyVHppWmYyWTZ1Q1lNWGZONTBQbGhsNGZ3QkVXV35OenBPajl6b3llelRwZjdyfnJFbkdmd1R1Vk9XWC1nX187cGF0aD0vIn19&Expires=1725805972&Signature=dFzUqIUyLeSpZBPMQdwV88xy6F-Zq3roMuH9NnOMl5IfRZYNtYIRJdHrM6IsTju4FfGclT4U9Jp-Oof8Rb0xy3FzXC6J3nBvf-TvUFFRuMEr3gDqWGl5sR-XhwyL8uk0xnh1q7~POH53IpWz9xnbhq4RhTFzmbShFBO8beNH3wbfCeJDZW4Lgx-0KdTMy6ulJ-JinPz1ZVWJI0WDXWeAXqM4R99GBXYUk8EmE-HEt-C-oB5cKt9~575w6J0fKsj~Rfkg4rUwM51Bj2fscDKAI2a877e8hxCbhVgPgF3s8KwJaUGDhY0O61hNwZVRc9lQ8~vB5FzWFBvP0Nf78i0YsA__&Key-Pair-Id=K362DEENBGRBR1"}
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m2_080924/tv_master.m3u8
 
 #EXTINF:-1 tvg-id="4008741" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/dpl_2024_east_delhi_riders_vs_south_delhi_superstarz_horizontal_carousel-1725770652351.jpg",Delhi Premier League T20
-#EXTHTTP:{"cookie":"hdnts=st=1725803871~exp=1725811071~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=6d81a15a-090e-41fd-b0d4-34da8b15d1ad~hmac=75b3838a729dd5c33b97fea1af6184d2c2b8ff5589d4d9e8d132b39e57064468"}
+#EXTHTTP:{"cookie":"hdnts=st=1725805672~exp=1725812872~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=3575a0a6-3dea-417e-b747-29a701b2ce09~hmac=5360527b0007e326ccb5f7db32fbc1aa471c31aa33f1f3592c4119d09683545b"}
 https://prod-sportsp-eng.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m1_080924/tv_master.m3u8
+
+#EXTINF:-1 tvg-id="4012627" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/paralympics_live_para_powerlifting-generic_horizontal_carousel-1725796689319.jpg",Paralympic Games Paris 2024
+#EXTHTTP:{"cookie":"hdnts=st=1725805672~exp=1725812872~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=2bff68f6-5476-49e5-b6e6-25e33cb2ca42~hmac=55c292b549f2f5362ff61f664ca9ae336f9f39bcaac591306c6190911f4a2253"}
+https://prod-sportsp-eng.jiocinema.com/hls/live/2100310/hd_akamai_merged_avc_eng_athletics_m1_080924/tv_master.m3u8
 
