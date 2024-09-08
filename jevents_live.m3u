@@ -1,1 +1,19 @@
-Error decoding JSON file
+#EXTM3U
+#playlist by @yuvraj824
+
+#EXTINF:-1 tvg-id="4014808" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/m1_a_vs_b_duleep_trohy_live_horizontal_carousel-1725486868231.jpg",IDFC First Bank Duleep Trophy
+#EXTHTTP:{"cookie":"hdnts=st=1725779239~exp=1725786439~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=55ff9948-6418-43af-9995-cb0312420cee~hmac=aaffe1edfdfb294b416327e530f0cbe83dff2cb56082359284439ae716d9e8ce"}
+https://prod-sportsp-eng.jiocinema.com/hls/live/2100307/hd_akamai_merged_avc_eng_cricket_m4_080924/tv_master.m3u8
+
+#EXTINF:-1 tvg-id="4012627" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/paralympics_live_para_athletics-generic_horizontal_carousel-1725763539395.jpg",Paralympic Games Paris 2024
+#EXTHTTP:{"cookie":"hdnts=st=1725779239~exp=1725786439~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=8b7f075d-f0c0-4cb2-93cc-1ff0811a1391~hmac=a575d89866f2e603680023ecf73ce6c0a6067d67b42015723c0fd1d23c88b325"}
+https://prod-sportsp-eng.jiocinema.com/hls/live/2100310/hd_akamai_merged_avc_eng_athletics_m1_080924/tv_master.m3u8
+
+#EXTINF:-1 tvg-id="4012628" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/paralympics_live_para_powerlifting-generic_horizontal_carousel-1725763801992.jpg",Paralympic Games Paris 2024
+#EXTHTTP:{"cookie":"hdnts=st=1725779239~exp=1725786439~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=35b6682b-46a3-489e-9f71-3fafc1277ed9~hmac=4b4e3cb11688c23b292b8b8a16af344a8946b145d70ea717d979bde63fcb332a"}
+https://prod-sportsp-eng.jiocinema.com/hls/live/2100311/hd_akamai_merged_avc_eng_athletics_m2_080924/tv_master.m3u8
+
+#EXTINF:-1 tvg-id="4014401" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/taipei_open_live_horizontal_carousel-1725751212067.jpg",BWF
+#EXTHTTP:{"cookie":"cookieparams=eyJDbG91ZEZyb250LUtleS1QYWlyLUlkIjp7InZhbHVlIjoiSzM2MkRFRU5CR1JCUjE7cGF0aD0vIn0sIkNsb3VkRnJvbnQtUG9saWN5Ijp7InZhbHVlIjoiZXlKVGRHRjBaVzFsYm5RaU9sdDdJbEpsYzI5MWNtTmxJam9pYUhSMGNITTZMeTl3Y205a0xYTndiM0owY3kxemIzVjBhQzFqWmk1cWFXOWphVzVsYldFdVkyOXRMeW9pTENKRGIyNWthWFJwYjI0aU9uc2lSR0YwWlV4bGMzTlVhR0Z1SWpwN0lrRlhVenBGY0c5amFGUnBiV1VpT2pFM01qVTROalUyTkRCOWZYMWRmUV9fO3BhdGg9LyJ9LCJDbG91ZEZyb250LVNpZ25hdHVyZSI6eyJ2YWx1ZSI6Im9oeWRrQTJ3VH5Rc0ZveTRRMTB1RElndGt+czh0Y0trVkNVU2I3eElmQXhuaGRQQU9uamNFWUgxa2JTUWh+c2t6aEpWWWxWaVRxc0VDcU9Mc3BEZi12UjNzM1lmNmk0am5zVUFhZVZzTUxQc0Z+SU9RQ3B6OGJYQUZZbHdoeGlvYX5CUk53dXZGaU1MTU02NTlMdzNkNVVkN2pyWm5wUERPcnRzR0lDQmxyaXNvMzUwZDBEeEZjbVd2SFRNRlJtNjdvQUdueXVhN3VFQTN6VUt0N3V0QWg4dFVYc1Rmb3lEdUh5U1NEcEFVR2tROVBLQVBmTGRac2VnZVp+Y2F1THVpNkZnQVpJZFVoWHJESDdxVnJybms1LTk5Y3d5ZmFaLWNEREdQaGRVdnVQVjR0VlJpQnZJYVBsdXByUy0zQlF0MGJKVjBVSmZlWFhqaDZwczkwaTM1d19fO3BhdGg9LyJ9fQ==&Expires=1725779540&Signature=JHalI9XgOk1hNPv4w9gGgHWZtdB~V4CwjK~voOEZ0x2FPG~-l4Q1oGq5d3-Hd4kxJBMmfXklbsVpjjIvSyNg3L9Ctl~HGawe8ZCU6dKb72W9bHGq9Ig5HoogPZe8gusHenS4kftmzaTdCxeacvLSt46kWKos08op9ek~aPMJaaJ0xEmXRys4aLwlW03RFXhS1RWsLQQdILAPkmbe8IJ03lou0~373L5j1-BsIqcgsNtatJPj3GbK-dbXtatcuLTmaFssm1gZc4sW4IJWcSNNiBuveL1WQeFA92t9WoIZ42JH-DgcXpw9wTzk2lkdO9-I2DX4mkp1PapTGYVP5FJ8AA__&Key-Pair-Id=K362DEENBGRBR1"}
+https://prod-sports-south-cf.jiocinema.com/hls/live/2109981/hd_akamai_merged_avc_eng_bwf_m1_080924/tv_master.m3u8
+
