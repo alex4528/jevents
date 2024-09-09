@@ -1,7 +1,15 @@
 #EXTM3U
 #playlist by @yuvraj824
 
+#EXTINF:-1 tvg-id="4011662" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/upt20_season_2_kanpur_superstars_vs_gorakhpur_lions_horizontal_carousel-1725858035482.jpg",UPT20
+#EXTHTTP:{"cookie":"hdnts=st=1725889252~exp=1725896452~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=f11149f8-0812-4a25-a513-f17d899c0676~hmac=c6b42a79b7b4eab877b67730cb23820013e2ed41d04a0e3531a666fb32213ec7"}
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m2_090924/tv_master.m3u8
+
+#EXTINF:-1 tvg-id="4014413" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/india_vs_syria_intercontinental_cup_horizontal_carousel_16x9-1725868060307.jpg",Intercontinental Cup
+#EXTHTTP:{"cookie":"hdnts=st=1725889252~exp=1725896452~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=592810c9-d529-4efe-b097-0a509904fd45~hmac=ec8ca8d40edbca54bf87c8e9b40c820af3bff35e86e0987f9f0eefe13e7d5c04"}
+https://prod-sportsp-eng.jiocinema.com/hls/live/2100308/hd_akamai_merged_avc_eng_football_m1_090924/tv_master.m3u8
+
 #EXTINF:-1 tvg-id="4014375" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/day_5_sailing_americas_cup_live_horizontal_carousel-1725766624992.jpg",America's Cup
-#EXTHTTP:{"cookie":"hdnts=st=1725887157~exp=1725894357~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=e8bfbdc0-0e91-4180-a6eb-f20d8daa1903~hmac=2717a2595d1c820c843e4b30b6ef5465ac8044a9e722ab3bf14ffb0ffdd549e1"}
-https://prod-sports-eng-gm.jiocinema.com/hls/live/2100311/hd_akamai_merged_avc_eng_athletics_m3_090924/tv_master.m3u8
+#EXTHTTP:{"cookie":"cookieparams=eyJDbG91ZEZyb250LUtleS1QYWlyLUlkIjp7InZhbHVlIjoiSzM2MkRFRU5CR1JCUjE7cGF0aD0vIn0sIkNsb3VkRnJvbnQtUG9saWN5Ijp7InZhbHVlIjoiZXlKVGRHRjBaVzFsYm5RaU9sdDdJbEpsYzI5MWNtTmxJam9pYUhSMGNITTZMeTl3Y205a0xYTndiM0owY3kxbGJtY3RZMll1YW1sdlkybHVaVzFoTG1OdmJTOHFJaXdpUTI5dVpHbDBhVzl1SWpwN0lrUmhkR1ZNWlhOelZHaGhiaUk2ZXlKQlYxTTZSWEJ2WTJoVWFXMWxJam94TnpJMU9UYzFOalV6ZlgxOVhYMF87cGF0aD0vIn0sIkNsb3VkRnJvbnQtU2lnbmF0dXJlIjp7InZhbHVlIjoidW50YU01Nkk3c0JINUZzdFUwQ1p5VE9iUkxQSkMwazZMR2RpcHIwMUl6MWw3bE9Rc1lKdnROeC1aaURhSmhicHVhUnRRUHlmcWNYWjBHdUthTnVkVldrc2ctMjRaWi1rLTIzTGc4eWM4QTNlNGZjU344cEpoQTRobm1qTmdMNG9paEVHdlVjOHJFbjV0SXNGS3Q3T2lwbUtUTzU3NWpVYTEwZXU3fmdGZDcyT3o0elFGMVcybWY1QWxZUDZZeVhtYnA3T09WNGs0cW1GOHl+NUs1LTM2aFh3bmxHTkhsdHl1Vld+VGJJbEhsUVhWNkdSeXZ0OWpsREMxa2R3SXJiRDR1enpxMHZBVHpWbHl+THBxcE1PTFR1eXIxRm1maVRONktvR3RMaVUzTWU3ZEFndn5ZeXUtMzBFMGozeFBpQUV6dzVqS08xQ085QUNjSjV5bEVUZXlBX187cGF0aD0vIn19&Expires=1725889553&Signature=HOf08lb07bR9dNswHUtK1JNUKA8frM6Gp0q8KWF-c5VhQSfcpBHXpTvXzLCllXuc-u-WswDglWULjhdUHX0YKgbkLdXXRCyMwuPVlui4v48dR1ovCdhnrnwLIUzXSEk0~DpcFjUuad~uB3n~lRAg0eStNAkfCXdpLBqgFMps1Oq17D53TCbKg~qM4mY0hd0xhWq47D2rWTbc7vfKmKNSDGxcwwyTijAsuxcqVnyFWWi2vBk~W3gJHa78rawmsqx4Jw~FMNiz6Cp3dlcDajL-d3hk4qLddBuS5AV9w0h3kuZxBFDmQ92rpaXZhr2XFZd91mMk6PLONra8Y~mAOjTysA__&Key-Pair-Id=K362DEENBGRBR1"}
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100311/hd_akamai_merged_avc_eng_athletics_m3_090924/tv_master.m3u8
 
