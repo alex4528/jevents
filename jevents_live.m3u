@@ -1,3 +1,7 @@
 #EXTM3U
 #playlist by @yuvraj824
 
+#EXTINF:-1 tvg-id="4011664" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/eliminator_upt20_season_2_horioznta_carousel-1726036160913.jpg",UPT20
+#EXTHTTP:{"cookie":"hdnts=st=1726063484~exp=1726070684~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=296e1091-1c4d-4c0b-a3cc-8194e0b27413~hmac=9f969eae1e6820743b5f3d4fbe9177cb25cc67f9aec98754b786f43ece4b9f11"}
+https://prod-sportsp-eng.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m2_110924/tv_master.m3u8
+
