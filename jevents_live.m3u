@@ -2,6 +2,6 @@
 #playlist by @yuvraj824
 
 #EXTINF:-1 tvg-id="4011663" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/upt20_meerut_mavericks_vs_lucknow_falcons_horiozntal_carousel-1726047713846.jpg",UPT20
-#EXTHTTP:{"cookie":"hdnts=st=1726050573~exp=1726057773~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=7e504827-6495-4786-b2ef-f7c567f1c39f~hmac=251bc6e77673e193b7742f8ce7ceb36b98b47730a7694c1c00a9cf68cf9a3503"}
-https://prod-sportsp-eng.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m2_110924/tv_master.m3u8
+#EXTHTTP:{"cookie":"hdnts=st=1726052373~exp=1726059573~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=abf5be4a-0533-446c-8114-03547ab6a1f9~hmac=3215e086f39e412eb327710cd4223e6b468d6e4701291a40567ffd133f61e9ca"}
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m2_110924/tv_master.m3u8
 
