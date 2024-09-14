@@ -2,10 +2,6 @@
 #playlist by @yuvraj824
 
 #EXTINF:-1 tvg-id="4011666" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/upt20_season_2_horioznta_carousel-1726282860097.jpg",UPT20
-#EXTHTTP:{"cookie":"hdnts=st=1726329531~exp=1726336731~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=6cbf7a1e-cbaf-4668-89ff-4ac8a0a1c57b~hmac=c855f45eef87598d1bba5752bfd37a634b66ff0193b1f617c11857fe2e4d524c"}
+#EXTHTTP:{"cookie":"hdnts=st=1726331332~exp=1726338532~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=982a9432-c65d-460f-b870-9b7d471b5b1d~hmac=b78c953ad720caf224eb746ab42f1eb85417b073e98aa1b92d73a27e237397e8"}
 https://prod-sportsp-eng.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m2_140924/tv_master.m3u8
-
-#EXTINF:-1 tvg-id="4018867" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/isl_2024_bfc_vs_ebfc_live_horizontal_carousel-1726288962381.jpg",Indian Super League
-#EXTHTTP:{"cookie":"hdnts=st=1726329531~exp=1726336731~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=f65b75a1-bed3-4200-96f0-bd5398c1b80c~hmac=736cd5e58f99376e49346ce55255c22c3d16a05a85d785bf2fe03a3b9ec55321"}
-https://prod-sportsp-hin.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m2140924/tv_master.m3u8
 
