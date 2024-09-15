@@ -1,7 +1,11 @@
 #EXTM3U
 #playlist by @yuvraj824
 
+#EXTINF:-1 tvg-id="4019729" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/india_a_vs_india_d_duleep_trohy_live_horizontal_carousel-1726056039217.jpg",IDFC First Bank Duleep Trophy
+#EXTHTTP:{"cookie":"hdnts=st=1726372441~exp=1726379641~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=247e470b-c064-444c-93b1-53c117bc6c9f~hmac=9afd564c2969e7968ed277edd89ea9a5ea4616d80e3bb19c92c7c0df249c9e73"}
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m3_150924/tv_master.m3u8
+
 #EXTINF:-1 tvg-id="4020602" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/mxgp_china_horizontal_carousel-1726331891737.jpg",FIM MXGP
-#EXTHTTP:{"cookie":"hdnts=st=1726370641~exp=1726377841~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=f89e230c-f800-4638-b17f-e027434e12f6~hmac=6f8c98a97e665c63d551336e316807a64a4ce08dc0c271c134dfcf8622db24e5"}
-https://prod-sports-north-gm.jiocinema.com/hls/live/2109759/hd_akamai_merged_avc_eng_motogp_m1_150924/tv_master.m3u8
+#EXTHTTP:{"cookie":"hdnts=st=1726372441~exp=1726379641~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=a53312d1-583f-41d2-9338-b80d0f51847a~hmac=22a4b8ae0c30cd7b988e203296b0e1ae787ffdb17482adac89c567e098a92a68"}
+https://prod-sportsp-north.jiocinema.com/hls/live/2109759/hd_akamai_merged_avc_eng_motogp_m1_150924/tv_master.m3u8
 
