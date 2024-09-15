@@ -1,7 +1,3 @@
 #EXTM3U
 #playlist by @yuvraj824
 
-#EXTINF:-1 tvg-id="4019301" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/isl_2024_kerala_blasters_fc_vs_punjab_fc_live_horiozntal_carousel-1726374073208.jpg",Indian Super League
-#EXTHTTP:{"cookie":"hdnts=st=1726416261~exp=1726423461~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=ef0b5606-7480-475f-b66a-1de7b7211676~hmac=f853212311f4495a531efd0e168da4eb43b4adbde0232fc02ac00219aaf7fbd1"}
-https://prod-sports-hin-gm.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1150924/tv_master.m3u8
-
