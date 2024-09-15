@@ -1,3 +1,7 @@
 #EXTM3U
 #playlist by @yuvraj824
 
+#EXTINF:-1 tvg-id="4020602" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/mxgp_china_horizontal_carousel-1726331891737.jpg",FIM MXGP
+#EXTHTTP:{"cookie":"hdnts=st=1726364942~exp=1726372142~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=26632d45-4e48-4a07-8152-280e7922d572~hmac=ca9ef68c15958d96f1b9e2062ad48163892639dbe92f238d9de4b63542915d09"}
+https://prod-sportsp-north.jiocinema.com/hls/live/2109759/hd_akamai_merged_avc_eng_motogp_m1_150924/tv_master.m3u8
+
