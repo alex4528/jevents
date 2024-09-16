@@ -2,6 +2,6 @@
 #playlist by @yuvraj824
 
 #EXTINF:-1 tvg-id="4020593" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/day_5_sailing_americas_cup_live_horizontal_carousel-1725766624992.jpg",America's Cup
-#EXTHTTP:{"cookie":"hdnts=st=1726488973~exp=1726496173~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=86c55179-2b24-4a13-8a1a-91b68d1e3ce6~hmac=7104097dc0ce4a28cdf9600932d1d4c6fa39ea9acb3ef942b46b9d5fac913e8a"}
-https://prod-sportsp-eng.jiocinema.com/hls/live/2100311/hd_akamai_merged_avc_eng_athletics_m3_160924/tv_master.m3u8
+#EXTHTTP:{"cookie":"hdnts=st=1726491072~exp=1726498272~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=b4d69be4-da96-4597-8fa2-cf8e63cceccb~hmac=9f7ea6fdd2973af7a52c6f83e8a0e11774560f12000fbb34d4668e2067a9a040"}
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100311/hd_akamai_merged_avc_eng_athletics_m3_160924/tv_master.m3u8
 
