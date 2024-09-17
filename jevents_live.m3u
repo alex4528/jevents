@@ -1,1 +1,11 @@
-Error decoding JSON file
+#EXTM3U
+#playlist by @yuvraj824
+
+#EXTINF:-1 tvg-id="4019309" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/isl_2024_live_fcg_vs_jfc_horiozntal_carousel-1726554348312.jpg",Indian Super League
+#EXTHTTP:{"cookie":"hdnts=st=1726587091~exp=1726594291~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=f666cc63-2f3e-4fc5-b88c-8bdf7f0481cf~hmac=3ec4955782f07cd5b2205800e5e5fd1645838028435af410c3b1b2af10e0b059"}
+https://prod-sports-hin-gm.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1170924/tv_master.m3u8
+
+#EXTINF:-1 tvg-id="4020594" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/day_5_sailing_americas_cup_live_horizontal_carousel-1725766624992.jpg",America's Cup
+#EXTHTTP:{"cookie":"hdnts=st=1726587091~exp=1726594291~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=3c9c7930-13a4-4f05-b08e-51c5c9d4dc70~hmac=d875a71f7c1d218ac5910db16381cdd7eb91b664df43b3f9b9c5f552ab532d60"}
+https://prod-sportsp-eng.jiocinema.com/hls/live/2100311/hd_akamai_merged_avc_eng_athletics_m3_170924/tv_master.m3u8
+
