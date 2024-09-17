@@ -1,3 +1,7 @@
 #EXTM3U
 #playlist by @yuvraj824
 
+#EXTINF:-1 tvg-id="4020604" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/china_open_live_images_rd_32_horizontal_carousel-1726509230887.jpg",BWF
+#EXTHTTP:{"cookie":"hdnts=st=1726535680~exp=1726542880~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=97f23f04-98eb-4bf9-947a-727df04c7175~hmac=ebe07d2ceb2ac66481bc678d6bf03eb4fd37fbeb960d7feb0cab9dd7c902aa74"}
+https://prod-sportsp-south.jiocinema.com/hls/live/2109981/hd_akamai_merged_avc_eng_bwf_m1_170924/tv_master.m3u8
+
