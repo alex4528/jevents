@@ -1,7 +1,3 @@
 #EXTM3U
 #playlist by @yuvraj824
 
-#EXTINF:-1 tvg-id="4022328" group-title="Sports" tvg-logo="https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/unicredit_youth_america_cup_live_horizontal_carousel-1726648125331.jpg",America's Cup
-#EXTHTTP:{"cookie":"hdnts=st=1726655328~exp=1726662528~acl=/*~id=aaf549ec51984c86b32dd7de3e1334c7~data=rqId=9ba88ade-a2e8-4979-9888-12398cab6274~hmac=f5bdb846600845cfb3c9049242a7a6b7e672fa73adbc72eed1fa2d9855cb66dd"}
-https://prod-sportsp-eng.jiocinema.com/hls/live/2100311/hd_akamai_merged_avc_eng_athletics_m4_180924/tv_master.m3u8
-
