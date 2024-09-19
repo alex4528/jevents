@@ -1,1 +1,50 @@
-Error decoding JSON file
+#EXTM3U
+#playlist by @yuvraj824
+
+#EXTINF:-1 tvg-id="4021328" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ind_vs_ban_test_horizontal_carousel-1726671426502.jpg",India vs Bangladesh - 1st Test - Day 1
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100297/hd_akamai_iosmob_avc_eng_indvsban_190924/master.m3u8
+
+#EXTINF:-1 tvg-id="4022683" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/91f7f1d0-ce4d-4d59-949e-f7fd6b28fef7/00d221af6a384114aec7c4935217e340/1726722725.jpg",India vs Bangladesh - 1st Test - Day 1 - Action Recap
+#EXTHTTP:{"cookie":"hdnts=st=1726725303~exp=1726725903~acl=/jcvod/video/cac/s18_indvsban_test1_day1_hls_eng_19092024_ott/english/fhd/h264/stereo/1726722997/jiocinemanondrmdashiecis-10342a002b2d4afa9921b8916bb68b1d/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=addfc70a-e66c-4d6c-9ab1-23264d09f333~hmac=c5efd43bb2985393c392aa4fab06e3669d60f4864c3a9234223e233c963de77c"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban_test1_day1_hls_eng_19092024_ott/english/fhd/h264/stereo/1726722997/jiocinemanondrmdashiecis-10342a002b2d4afa9921b8916bb68b1d/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4020042" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/india_a_vs_india_c_duleep_trohy_live_horizontal_carousel-1726587594670.jpg",India A vs India C - Day 1
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m3_190924/mobile_master.m3u8
+
+#EXTINF:-1 tvg-id="4022631" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/e2f28e4f-f1e9-4fa0-9a62-14d26bcbbb7d/9c8f89821e554d6f826141955e009ca2/1726692237.jpg",Inside Out ft. Gautam Gambhir - Full Interview
+#EXTHTTP:{"cookie":"hdnts=st=1726725305~exp=1726725905~acl=/jcvod/video/cac/s18_indvsban2024_gambhir_jc_exclusive_eng_vod_18092024_ott/english/fhd/h264/stereo/1726692646/jiocinemanondrmdashiecis-3b6669ed4ea84711b35b9987d8709493/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=336ad23e-a0e1-485e-bc96-d20ed4b25928~hmac=3d2dd3d6c3aed1c86749837c6533582c333daf103261c8456683c6bd18a8c4d6"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban2024_gambhir_jc_exclusive_eng_vod_18092024_ott/english/fhd/h264/stereo/1726692646/jiocinemanondrmdashiecis-3b6669ed4ea84711b35b9987d8709493/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4022678" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/test_ind_vs_ban_fall_of_wickets_horizintal_carousel-1726722631768.jpg",India vs Bangladesh - 1st Test - 1st Innings - India Wickets
+#EXTHTTP:{"cookie":"hdnts=st=1726725306~exp=1726725906~acl=/jcvod/video/cac/s18_indvsban_test1_day1_fow_eng_vod_19092024_ott/english/fhd/h264/stereo/1726722250/jiocinemanondrmdashiecis-8b5362f058924dfcb900fe3dd4945de5/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=611e53e9-f6ae-4878-aaed-bdf24f6f6da4~hmac=d064a2b0705e7e7f554ff82d73b80ccb5cdbcae4e4a31158ca3c89effd78ec34"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban_test1_day1_fow_eng_vod_19092024_ott/english/fhd/h264/stereo/1726722250/jiocinemanondrmdashiecis-8b5362f058924dfcb900fe3dd4945de5/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4022308" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/vod_4_inside_out_horizontal_carousel-1726622623943.jpg",Inside Out - Gambhir On Virat Kohli’s Hunger
+#EXTHTTP:{"cookie":"hdnts=st=1726725307~exp=1726725907~acl=/jcvod/video/cac/s18_indvsban2024_insideout_gg_onkohli_eng_vod_18092024_ott/english/fhd/h264/stereo/1726608873/jiocinemanondrmdashiecis-655e9733db474703ad059d580aa5582e/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=850caa9d-8ab1-4043-a4b1-93dc41d1ebdf~hmac=871122af4ec5bc04226dfce7760d7dc51ff6c27eab91ce02be68ad3f8fa734d2"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban2024_insideout_gg_onkohli_eng_vod_18092024_ott/english/fhd/h264/stereo/1726608873/jiocinemanondrmdashiecis-655e9733db474703ad059d580aa5582e/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4022373" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ind_vs_ban_gambhir_horizontal_carousel-1726653856132.jpg",India vs Bangladesh Tests - Gautam Gambhir - Press Conference
+#EXTHTTP:{"cookie":"hdnts=st=1726725308~exp=1726725908~acl=/jcvod/video/cac/s18_indvsban2024_gautam_gambhir_pc_eng_vod_18092024_ott/english/fhd/h264/stereo/1726651512/jiocinemanondrmdashiecis-976b2efb4b6246e4bc30c10dd448eb59/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=3089f674-facc-4505-99e7-3d9d6d97a7fd~hmac=8bd0ae2ea2a3db1c35f88e8335f66163e2cdfaf52dacd929f1af94b1758e9c33"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban2024_gautam_gambhir_pc_eng_vod_18092024_ott/english/fhd/h264/stereo/1726651512/jiocinemanondrmdashiecis-976b2efb4b6246e4bc30c10dd448eb59/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4022301" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/56629305-66f9-437c-96d0-f70410342281/dfb442b03e30433bb1204f8cb1d34d38/1726597410.jpg",ISL - Top Goals - Matchweek 1 ft. Thaer Krouma
+#EXTHTTP:{"cookie":"hdnts=st=1726725310~exp=1726725910~acl=/jcvod/video/cac/s18_isl2024_matchweek1_topgoals_eng_17092024_ott/english/fhd/h264/stereo/1726666207/jiocinemanondrmdashiecis-a6c69d76b33e41f58bff3a847879d0e5/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=93842d12-6949-47b9-b499-0206300f7113~hmac=4adb5da66fe7c8b2c0be4faf5ae32241e52a751fc2cf79d99d7a2fd1b37c3ed0"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_isl2024_matchweek1_topgoals_eng_17092024_ott/english/fhd/h264/stereo/1726666207/jiocinemanondrmdashiecis-a6c69d76b33e41f58bff3a847879d0e5/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4022341" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/vod_3_inside_out_horizontal_carousel-1726642099866.jpg",Inside Out - Rohit On Working With Gautam Gambhir
+#EXTHTTP:{"cookie":"hdnts=st=1726725310~exp=1726725910~acl=/jcvod/video/cac/s18_indvsban2024_rohitsharma_workingwithgg_eng_vod_18092024_ott/english/fhd/h264/stereo/1726638228/jiocinemanondrmdashiecis-560258b9d39e413daecaf28e8bc053d6/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=351e02d7-4343-4e3a-a35d-4d7cc0fe3f5f~hmac=159f6cb273e8ec1c726dcab28d319664e043c95fea5d7e752741c7efb14ee8a9"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban2024_rohitsharma_workingwithgg_eng_vod_18092024_ott/english/fhd/h264/stereo/1726638228/jiocinemanondrmdashiecis-560258b9d39e413daecaf28e8bc053d6/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="3900834" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/top_10_boundary_saves_carousel-1706791243678.jpg",IPL Mega Comps - Top 10 Boundary Saves
+#EXTHTTP:{"cookie":"hdnts=st=1726725311~exp=1726725911~acl=/bpkvod/jcsports/default/65b8f66908d748928bdeaca1_v2/65b8f66908d748928bdeaca1_v2/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=c534b53b-e573-4719-8cbb-3cdc15f52ee2~hmac=a52a00d7a95768f078609eea162b533cccd7f3255e7a5a99998589288e72e6db"}
+https://ak-mediavod.jiocinema.com/bpkvod/jcsports/default/65b8f66908d748928bdeaca1_v2/65b8f66908d748928bdeaca1_v2/index_sjc_web_premium.m3u8
+
+#EXTINF:-1 tvg-id="4020608" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/china_open_horizontal_carousel_c1-1726670230477.jpg",BWF China Open - Round Of 16 - Court 1
+https://prod-sportsp-south.jiocinema.com/hls/live/2109981/hd_akamai_merged_avc_eng_bwf_m1_190924/mobile_master.m3u8
+
+#EXTINF:-1 tvg-id="4020609" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/china_open_horizontal_carousel_c2-1726671948265.jpg",BWF China Open - Round Of 16 - Court 2
+https://prod-sportsp-south.jiocinema.com/hls/live/2109981/hd_akamai_merged_avc_eng_bwf_m2_190924/mobile_master.m3u8
+
+#EXTINF:-1 tvg-id="4021330" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ind_vs_ban_test_horizontal_carousel-1726671426502.jpg",India vs Bangladesh - 1st Test - Day 1
+https://prod-sportsp-hin.jiocinema.com/hls/live/2100322/hd_akamai_iosmob_avc_hin_indvsban_190924/master.m3u8
+
