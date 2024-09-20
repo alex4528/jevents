@@ -1,1 +1,51 @@
-Error decoding JSON file
+#EXTM3U
+#playlist by @yuvraj824
+
+#EXTINF:-1 tvg-id="4019319" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/isl_2024_live_pfc_vs_ofc_horizontal_carouel-1726834681929.jpg",Punjab FC vs Odisha FC
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2112600/hd_akamai_merged_avc_isl_eng_m1200924/mobile_master.m3u8
+
+#EXTINF:-1 tvg-id="4023246" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/2_day_hl_test_ind_vs_ban_horizontal_carousel-1726832618477.jpg",India vs Bangladesh - 1st Test - Day 2 Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1726842714~exp=1726843314~acl=/jcvod/video/cac/s18_indvsban_test1_day2_hls_eng_20092024_ott/english/fhd/h264/stereo/1726833619/jiocinemanondrmdashiecis-c36f6a8ab32c4d25b5e364ee2996e4a4/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=5bf9e064-b730-480c-abd8-4515d8695183~hmac=83e465b9ef6b11c8feaa7929e257634c847094d44ad70ad371f34ccc9de88474"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban_test1_day2_hls_eng_20092024_ott/english/fhd/h264/stereo/1726833619/jiocinemanondrmdashiecis-c36f6a8ab32c4d25b5e364ee2996e4a4/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4023386" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/68684a86-0759-49c9-a054-33d41a5616c2/0dfa74dd5eb14434a14ea48b08125f07/1726828706.jpg",India vs Bangladesh - Bumrah's 4-50 vs Bangladesh In 1st Test
+#EXTHTTP:{"cookie":"hdnts=st=1726842715~exp=1726843315~acl=/jcvod/video/cac/s18_indvsban_test1_1stinng_bumrah_spell_vod_eng_20092024_ott/english/fhd/h264/stereo/1726828853/jiocinemanondrmdashiecis-e68cc8b3c1e54abfbb60baa0d4680032/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=288b6c3b-0d3e-4fec-90ad-b3194138ac20~hmac=c99c8f8c6944644f763b19bc068b2637796b7feee715d1a40dad26052d7dec5f"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban_test1_1stinng_bumrah_spell_vod_eng_20092024_ott/english/fhd/h264/stereo/1726828853/jiocinemanondrmdashiecis-e68cc8b3c1e54abfbb60baa0d4680032/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4022857" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/70103084-9b25-4956-af28-96b67e2fbd44/8f023cf3107947e39adaf31f455a5eb4/1726747625.jpg",India vs Bangladesh - Ashwin's 113 vs Bangladesh In 1st Test
+#EXTHTTP:{"cookie":"hdnts=st=1726842716~exp=1726843316~acl=/jcvod/video/cac/s18_indvsban_test1_day1_ash_knock_vod_eng_19092024_ott/english/fhd/h264/stereo/1726809887/jiocinemanondrmdashiecis-fee8d5ec89e04a779f5fa9cbab9283c4/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=939ce1e5-dcb2-4ee5-bf68-fa64f0be76aa~hmac=4cb7eb56dcce17bc893e7a51bae2fef83b60e831d27715c12f81ad07b96f1ccd"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban_test1_day1_ash_knock_vod_eng_19092024_ott/english/fhd/h264/stereo/1726809887/jiocinemanondrmdashiecis-fee8d5ec89e04a779f5fa9cbab9283c4/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4023461" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/match_center_live_pc_ind_vs_ban_test_horizontal_carousel-1726835980729.jpg",India vs Bangladesh - Bumrah Post-Match Interview
+#EXTHTTP:{"cookie":"hdnts=st=1726842717~exp=1726843317~acl=/jcvod/video/cac/s18_indvsban2024_test1_intv_bumrah_post_vod_eng_19092024_ott/english/fhd/h264/stereo/1726834997/jiocinemanondrmdashiecis-0584735dfbe041deac92a22fe23cb722/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=e0451c95-e4a5-4a77-b36a-c4b6af0867dd~hmac=c52ce5e6d2dff52be81bba5fa3627ce285240a532ee09637aededee9535ba254"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban2024_test1_intv_bumrah_post_vod_eng_19092024_ott/english/fhd/h264/stereo/1726834997/jiocinemanondrmdashiecis-0584735dfbe041deac92a22fe23cb722/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4023467" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/6b9227bd-8911-48b7-ae89-87e2af826fdf/78c414c795ef432c9cefa8e232340bdb/1726835429.jpg",India A vs India C - Day 2 - Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1726842719~exp=1726843319~acl=/jcvod/video/cac/s18_dth2024_inda_indc_day2_hls_eng_20092024_ott/english/fhd/h264/stereo/1726837770/jiocinemanondrmdashiecis-844d82d231e3431eb7c4067e3e8c311c/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=7c634211-052d-49f0-bc24-111507453ae6~hmac=7793d20c6556e0d554c0cbda8415acf6826865ab781ae0f16ffaec4e14e60962"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_dth2024_inda_indc_day2_hls_eng_20092024_ott/english/fhd/h264/stereo/1726837770/jiocinemanondrmdashiecis-844d82d231e3431eb7c4067e3e8c311c/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4022336" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/inside_out_rohit_interview_horizontal_carousel-1726638156060.jpg",Inside Out ft. Rohit Sharma - Full Interview
+#EXTHTTP:{"cookie":"hdnts=st=1726842720~exp=1726843320~acl=/jcvod/video/cac/s18_indvsban2024_rohitsharma_interview_eng_vod_18092024_ott/english/fhd/h264/stereo/1726637885/jiocinemanondrmdashiecis-557b24fc825047e880abd5e1b845d898/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=c9990f3f-cc51-42d9-b642-4aa3a7c142c4~hmac=0f2de98af8d9486e9d53372f130911d117bf952e39e424936a0943ad3a63d158"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban2024_rohitsharma_interview_eng_vod_18092024_ott/english/fhd/h264/stereo/1726637885/jiocinemanondrmdashiecis-557b24fc825047e880abd5e1b845d898/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4023281" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/b9969086-4556-45ba-a2df-044034ac6137/c5f3f8c5447d40608ac28adbcd38cec9/1726813467.jpg",India vs Bangladesh - 1st Test - 1st Innings - Bangladesh Wickets
+#EXTHTTP:{"cookie":"hdnts=st=1726842722~exp=1726843322~acl=/jcvod/video/cac/s18_indvsban_test1_1stinng_ban_fow_vod_eng_20092024_ott/english/fhd/h264/stereo/1726826638/jiocinemanondrmdashiecis-5167b020bcde4cddac0c94ca2a17a4e3/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=e820d89e-a20d-41dc-a239-735d54d3b995~hmac=04150f546456c139d5620393b286f42db3adafa615f7b19e8e46a438302c8b12"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban_test1_1stinng_ban_fow_vod_eng_20092024_ott/english/fhd/h264/stereo/1726826638/jiocinemanondrmdashiecis-5167b020bcde4cddac0c94ca2a17a4e3/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4023104" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/isl_highlights_bfc_vs_hfc_horizontal_carousel-1726763427425.jpg",Bengaluru FC vs Hyderabad FC - Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1726842724~exp=1726843324~acl=/jcvod/video/cac/s18_isl_m7_bfc_hfc_hls_eng_19092024_ott/english/fhd/h264/stereo/1726767388/jiocinemanondrmdashiecis-50b2378ef11249a6be2adc5e55ec1f82/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=1c9c0728-37d4-44b8-8901-90ccd5ddeb85~hmac=9dcedf16c7adb2fca6b786cd835cf967f3d3624eeb2b20162e4700b9ea1bc545"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_isl_m7_bfc_hfc_hls_eng_19092024_ott/english/fhd/h264/stereo/1726767388/jiocinemanondrmdashiecis-50b2378ef11249a6be2adc5e55ec1f82/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4022631" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/e2f28e4f-f1e9-4fa0-9a62-14d26bcbbb7d/9c8f89821e554d6f826141955e009ca2/1726692237.jpg",Inside Out ft. Gautam Gambhir - Full Interview
+#EXTHTTP:{"cookie":"hdnts=st=1726842725~exp=1726843325~acl=/jcvod/video/cac/s18_indvsban2024_gambhir_jc_exclusive_eng_vod_18092024_ott/english/fhd/h264/stereo/1726739858/jiocinemanondrmdashiecis-dabc0651fc334539b5e9ffef3292bc5b/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=8a7e3226-7cdd-4daa-b5bd-e1ae500ff6e2~hmac=98c7ed5b00694e8532dca62dbb470b64510df3987c4dbb511161bd9eff838e54"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban2024_gambhir_jc_exclusive_eng_vod_18092024_ott/english/fhd/h264/stereo/1726739858/jiocinemanondrmdashiecis-dabc0651fc334539b5e9ffef3292bc5b/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4019317" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/isl_2024_live_pfc_vs_ofc_horizontal_carouel-1726834681929.jpg",Punjab FC vs Odisha FC
+https://prod-sportsp-hin.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1200924/mobile_master.m3u8
+
+#EXTINF:-1 tvg-id="4020610" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/china_open_qf_court1_horizontal_carousel-1726764721000.jpg",BWF China Open - Quarter-finals - Court 1
+https://prod-sportsp-south.jiocinema.com/hls/live/2109981/hd_akamai_merged_avc_eng_bwf_m1_200924/mobile_master.m3u8
+
+#EXTINF:-1 tvg-id="4020646" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/unicredit_youth_america_cup_live_horizontal_carousel-1726648125331.jpg",UniCredit Youth America's Cup
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100311/hd_akamai_merged_avc_eng_athletics_m3_200924/mobile_master.m3u8
+
