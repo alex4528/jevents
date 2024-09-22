@@ -1,43 +1,147 @@
-#EXTM3U
-#playlist by @yuvraj824
 
-#EXTINF:-1 tvg-id="4024319" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/test_ind_vs_ban_day_4_horizontal_carousel-1726984221285.jpg",India vs Bangladesh - 1st Test - Day 4 - Highlights
-#EXTHTTP:{"cookie":"hdnts=st=1727044457~exp=1727045057~acl=/jcvod/video/cac/s18_indvsban_test1_day4_hls_eng_22092024_ott/english/uhd/h264/stereo/1726995659/jiocinemauhdnondrmdashiecis-af578a01352f49c69e264ba61e71f384/dash-web-premium-plain-cc645a983d7242e9bf32537ff9b769e4/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=a60c8d25-2c4b-4913-9812-30398a7f37cc~hmac=add29fff6b493160157cd5a6c9552c8bf33fb0e47eaad4e657d2ed41f4c29b11"}
-https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban_test1_day4_hls_eng_22092024_ott/english/uhd/h264/stereo/1726995659/jiocinemauhdnondrmdashiecis-af578a01352f49c69e264ba61e71f384/dash-web-premium-plain-cc645a983d7242e9bf32537ff9b769e4/master.mpd
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link rel="icon" href="data:,">
+  <title>One moment, please...</title>
+  <style>
+    
+.spinner {
+    -webkit-animation: spin 1s ease-out;
+    animation: spin 1s ease-out;
+}
+@keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+#outer-container {
+    text-align: center;
+}
+#container {
+        display: inline-block;
+        height: 100px;
+    }
+#text {
+    float: left;
+    height: 100px;
+    line-height: 100px;
+    font-size: 3rem;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    padding: 0 .4em 0 .2em;
+    letter-spacing: 0.06em;
+    color: rgba(38, 122, 72, 0.86);
+}
+@media (min-height: 180px) {
+    #outer-container {
+        margin-top: 0;
+    }
+}
+@media (min-height: 360px) {
+    #outer-container {
+        margin-top: 5%;
+    }
+}
+@media (min-height: 540px) {
+    #outer-container {
+        margin-top: 10%;
+    }
+}
+@media (min-height: 720px) {
+    #outer-container {
+        margin-top: 20%;
+    }
+}
+@media (min-width: 1450px) {
+    .throbber {
+        width: 90px;
+        height: 90px;
+        float: left;
+        padding: 5px 0 5px 5px;
+        opacity: 0.86;
+    }
+    #container {
+        display: inline-block;
+        border: 3px solid rgb(38, 122, 72, 0.86);
+        border-radius: 51px;
+        height: 100px;
+    }
+}
 
-#EXTINF:-1 tvg-id="4024378" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/a3fdae72-f9e3-4a93-bc7c-b5bca674416d/876334558d694ca8943d00fbc805e362/1726995007.jpg",India vs Bangladesh - 1st Test - Player Of The Match - Ashwin's 113 & 6-88
-#EXTHTTP:{"cookie":"hdnts=st=1727044458~exp=1727045058~acl=/jcvod/video/cac/s18_indvsban_test1_day4_potd_ashwin_vod_eng_22092024_ott/english/fhd/h264/stereo/1726995218/jiocinemanondrmdashiecis-0843dcce651b46b1b293dacc3299c244/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=db6ca510-faa2-43d2-9ca2-c79f15530c84~hmac=dc7e7b65cf3db201de7edda7b02b1e44d1a0f2a629eab68bbbf761b8cb263f2b"}
-https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban_test1_day4_potd_ashwin_vod_eng_22092024_ott/english/fhd/h264/stereo/1726995218/jiocinemanondrmdashiecis-0843dcce651b46b1b293dacc3299c244/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+  </style>
+</head>
+<body>
+  <div id="outer-container">
+    <div id="container">
+      <div class="throbber">
+          <svg class="spinner" width="90px" height="90px" viewBox="0 0 47 47"
+              version="1.1"
+              xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink">
+              <title>Loader</title>
+              <defs>
+                  <polygon id="path-1"
+                          points="0 0.375484146 0 15.7255695 15.7013244 15.7255695 15.7013244 0.375484146 0 0.375484146"></polygon>
+              </defs>
+              <g id="Page-1" stroke="none" stroke-width="1" fill="none"
+              fill-rule="evenodd">
+                  <g id="Logo" transform="translate(-5.000000, -2.000000)">
+                      <g id="Group-2" transform="translate(5.000000, 2.000000)">
+                          <path d="M22.6150244,4.52988293 C23.1538049,3.06256585 23.6031707,1.59582195 24.231939,0.158882927 C25.1902805,2.22459024 25.8190488,4.43989512 26.7768171,6.47579756 C29.1417195,7.40376098 31.7164024,7.7929439 34.1116829,8.69110244 C28.9623171,11.2663585 23.7229634,13.7510537 18.4836098,16.176139 C19.7709512,12.2545049 21.2382683,8.4217122 22.6150244,4.52988293 L22.6150244,4.52988293 Z"
+                              id="Fill-1" fill="#467C45"></path>
+                          <path d="M13.7718598,8.94461585 C16.1424939,7.68077439 18.4500793,6.28968902 20.8207134,5.02527439 C18.9240915,10.8412378 16.7747012,16.5614817 14.8465549,22.3774451 C12.7292622,18.3950549 10.895689,14.2544695 8.9044939,10.2090305 C8.27228659,8.85004268 7.5455061,7.55353049 7.00844512,6.16359146 C9.31545732,6.95342073 11.4648476,8.24935976 13.7718598,8.94461585"
+                              id="Fill-3" fill="#467C45"></path>
+                          <path d="M24.2134256,15.0745049 C29.4602305,12.4969561 34.7379866,9.91940732 40.0157427,7.4031878 C39.1565598,9.61276098 38.1747183,11.7300537 37.2232549,13.9086756 C38.4504134,16.2099561 39.9544134,18.388578 41.0898646,20.7511878 C35.4435598,18.9405415 29.8287793,17.0381878 24.2134256,15.0745049"
+                              id="Fill-5" fill="#467C45"></path>
+                          <g id="Group-9"
+                          transform="translate(0.000000, 11.919659)">
+                              <mask id="mask-2" fill="white">
+                                  <use xlink:href="#path-1"></use>
+                              </mask>
+                              <g id="Clip-8"></g>
+                              <path d="M8.34869024,0.375484146 C9.93064146,3.33419146 11.2781659,6.43963049 12.7426171,9.45622805 C13.7387878,11.5362646 14.793422,13.5876427 15.7013244,15.7255695 C10.4579585,13.9091915 5.21401951,12.03435 -0.000114634146,10.0718134 C2.05069024,9.1341061 4.21842195,8.4898622 6.29845854,7.61119146 C6.97193415,5.17980122 7.67521463,2.77706951 8.34869024,0.375484146"
+                                  id="Fill-7" fill="#467C45"
+                                  mask="url(#mask-2)"></path>
+                          </g>
+                          <path d="M29.1793195,18.0496049 C33.5600634,19.4670561 37.9081366,21.0776659 42.2888805,22.5593122 C43.6742341,23.0745927 45.1558805,23.4609098 46.5085634,24.1372512 C44.2216122,25.039422 41.9025634,25.9100683 39.6477098,26.8110927 C38.8103073,29.4195927 38.2302585,32.1261049 37.3607585,34.7346049 C35.5890878,31.4497634 34.0432463,28.0353854 32.3684415,24.6852024 C31.3052098,22.4945439 30.1456854,20.3044585 29.1793195,18.0496049"
+                              id="Fill-10" fill="#467C45"></path>
+                          <path d="M28.9972232,29.3489207 C29.5789915,27.69475 30.0684793,26.0113476 30.7419549,24.3887012 C31.538089,25.7660305 32.1811866,27.2356402 32.9154183,28.6444939 C34.7220524,32.4709817 36.68115,36.205189 38.4568329,40.0316768 C36.2827963,39.1449817 34.1402841,38.1654329 31.9364427,37.2460671 C29.6403207,38.4709329 27.4662841,39.9405427 25.1094061,41.1035061 C26.3033207,37.1549329 27.7419793,33.2671159 28.9972232,29.3489207"
+                              id="Fill-12" fill="#467C45"></path>
+                          <path d="M4.97133902,25.64555 C9.93385122,27.1873793 14.7737049,29.036428 19.6748878,30.6705378 C20.4148512,30.9170012 21.1542415,31.1944159 21.8328756,31.5337329 C16.5304732,33.9685622 11.3214976,36.6498549 5.95776585,38.99355 C6.82096098,36.8355622 7.89966829,34.7698549 8.7319122,32.581489 C7.68358293,30.1764646 6.11194878,28.01905 4.97133902,25.64555"
+                              id="Fill-14" fill="#467C45"></path>
+                          <path d="M15.4549183,35.8770488 C19.4671134,33.9317073 23.4483573,31.8952317 27.4915037,30.0433171 C26.4110768,33.6542927 25.0222841,37.203939 23.8186256,40.8143415 C23.1090402,42.7275854 22.5530646,44.7033049 21.7511988,46.5855976 C20.7630524,44.4866463 20.0534671,42.2650366 19.1277963,40.1351341 C16.6276256,39.2094634 14.0042232,38.684439 11.4736744,37.9748537 C12.6773329,37.0801341 14.1584061,36.586061 15.4549183,35.8770488"
+                              id="Fill-16" fill="#467C45"></path>
+                      </g>
+                  </g>
+              </g>
+          </svg>
+      </div>
+      <div id="text">
+        Please wait while your request is being verified...
+      </div>
+    </div>
+  </div>
+  <div id="kjyp1js0afgu"></div>
+  <script>
 
-#EXTINF:-1 tvg-id="4024547" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/isl_kbfc_vs_ebfc_highlights_horizontal_carousel-1727021718101.jpg",Kerala Blasters FC vs East Bengal FC - Highlights
-#EXTHTTP:{"cookie":"hdnts=st=1727044459~exp=1727045059~acl=/jcvod/video/cac/s18_isl2024_m11_kbfcvsebfs_hls_hin_22092024_ott/hindi/fhd/h264/stereo/1727023245/jiocinemanondrmdashiecis-cafb139fed904ad193f16bf910dc678d/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=d1d541a2-96ce-491c-9b06-d386bf0722be~hmac=44f79f5847dc37f35075273a777eab52f22ece8aff66f5f532d513b0d25102f9"}
-https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_isl2024_m11_kbfcvsebfs_hls_hin_22092024_ott/hindi/fhd/h264/stereo/1727023245/jiocinemanondrmdashiecis-cafb139fed904ad193f16bf910dc678d/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+(function(w){var x=function(){try{return !!w['\x61\x64\x64\x45\x76\x65\x6e\x74\x4c\x69\x73\x74\x65\x6e\x65\x72'];}catch(e){return !!0;} },o={},y=function(y,z){x()?w['\x64\x6f\x63\x75\x6d\x65\x6e\x74']['\x61\x64\x64\x45\x76\x65\x6e\x74\x4c\x69\x73\x74\x65\x6e\x65\x72']('\x44\x4f\x4d\x43\x6f\x6e\x74\x65\x6e\x74\x4c\x6f\x61\x64\x65\x64',y,z):w['\x64\x6f\x63\x75\x6d\x65\x6e\x74']['\x61\x74\x74\x61\x63\x68\x45\x76\x65\x6e\x74']('\x6f\x6e\x72\x65\x61\x64\x79\x73\x74\x61\x74\x65\x63\x68\x61\x6e\x67\x65',y);};o['\x69\x39\x71\x31\x61\x65\x6e\x68\x6f\x64\x38\x61']=+((+!+[]+!![]+!![]+!![]+!![]+!![])+(+!+[]+!![]+!![]+[])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![])+(+![]+[])+(+!+[])+(+!+[]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![]));o['\x70']='\x51\x65\x66\x56\x47\x75\x77\x4d\x55\x48\x6e\x71\x62\x67\x42\x7a\x56\x31\x62\x38\x4c\x51\x65\x64\x78\x41\x69\x55\x52\x39\x79\x75\x72\x36\x42\x4a\x41\x51\x70\x2d\x4e\x7a\x4b\x77\x44\x54\x49\x2d\x57\x54\x67\x45\x61\x2d\x37\x45\x79\x69\x71\x76\x30\x55\x54\x68\x69\x2d\x4b\x39\x45\x48\x38\x65\x52\x4f\x36\x55\x43\x6d\x78\x73\x73\x4a\x67\x52\x79\x75\x35\x5a\x61\x6f\x57\x55\x64\x76\x4e\x77\x65\x31\x2d\x4e\x59\x6d\x5a\x4e\x58\x5f\x72\x4e\x37\x61\x56\x6e\x6e\x71\x4d\x35\x41\x68\x73\x77\x43\x55\x43\x70\x42\x71\x50\x56\x33\x61\x45\x78\x51\x67\x35\x59\x47\x66\x4b\x2d\x69\x77\x47\x41\x36\x49\x52\x4d\x6d\x72\x78\x30\x70\x68\x35\x36\x4e\x48\x33\x5f\x35\x5a\x30\x49\x34\x7a\x41\x76\x33\x41\x35\x56\x76\x47\x78\x2d\x63\x56\x53\x30\x73\x43\x57\x65\x45\x46\x4a\x75\x5f\x35\x4a\x63\x54\x76\x66\x45\x37\x79\x6f\x5a\x76\x5f\x4a\x34\x47\x46\x4f\x70\x73\x2d\x73\x54\x41\x42\x78\x39\x58\x44\x64\x59\x4f\x44\x63\x47\x72\x57\x38\x48\x4e\x67\x3d\x3d';o['\x74\x33\x66\x73\x76\x6c\x67\x73\x33\x37\x79\x70']=+((+!+[]+!![]+!![])+(+!+[]+!![]+!![]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![])+(+![]+[])+(+!+[]+!![]+!![]+!![]+!![]+!![])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![]));y(function(){setTimeout(function(){var d=w['\x64\x6f\x63\x75\x6d\x65\x6e\x74'],a=d['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64']('kjyp1js0afgu'),f=d['\x63\x72\x65\x61\x74\x65\x45\x6c\x65\x6d\x65\x6e\x74']('\x66\x6f\x72\x6d'),i=d['\x63\x72\x65\x61\x74\x65\x45\x6c\x65\x6d\x65\x6e\x74']('\x69\x6e\x70\x75\x74'),j=d['\x63\x72\x65\x61\x74\x65\x45\x6c\x65\x6d\x65\x6e\x74']('\x69\x6e\x70\x75\x74'),m=d['\x63\x72\x65\x61\x74\x65\x45\x6c\x65\x6d\x65\x6e\x74']('\x69\x6e\x70\x75\x74'),c=['\x77\x65\x62\x64\x72\x69\x76\x65\x72' in w,!!w['\x6e\x61\x76\x69\x67\x61\x74\x6f\x72']['\x77\x65\x62\x64\x72\x69\x76\x65\x72']]['\x66\x69\x6c\x74\x65\x72']((k)=>k)['\x6c\x65\x6e\x67\x74\x68']!=0;if(c){var r=new w['\x58\x4d\x4c\x48\x74\x74\x70\x52\x65\x71\x75\x65\x73\x74']();r['\x6f\x70\x65\x6e']('\x47\x45\x54','\x2f\x7a\x30\x66\x37\x36\x61\x31\x64\x31\x34\x66\x64\x32\x31\x61\x38\x66\x62\x35\x66\x64\x30\x64\x30\x33\x65\x30\x66\x64\x63\x33\x64\x33\x63\x65\x64\x61\x65\x35\x32\x66'+'\x3f\x69\x64\x3d\x61\x36\x31\x30\x35\x63\x30\x61\x36\x31\x31\x62\x34\x31\x62\x30\x38\x66\x31\x32\x30\x39\x35\x30\x36\x33\x35\x30\x32\x37\x39\x65\x26'+'\x70\x64\x61\x74\x61'+'\x3d'+o['\x70']+'\x26'+'\x77\x73\x69\x64\x63\x68\x6b'+'\x3d'+(o['\x69\x39\x71\x31\x61\x65\x6e\x68\x6f\x64\x38\x61']+o['\x74\x33\x66\x73\x76\x6c\x67\x73\x33\x37\x79\x70']));r['\x73\x65\x6e\x64'](null)}else{f['\x69\x64']='\x70\x62\x78\x65\x6a\x62\x71\x67\x76\x79\x34\x75';i['\x76\x61\x6c\x75\x65']=o['\x69\x39\x71\x31\x61\x65\x6e\x68\x6f\x64\x38\x61']+o['\x74\x33\x66\x73\x76\x6c\x67\x73\x33\x37\x79\x70'];i['\x69\x64']='\x68\x77\x30\x6b\x69\x69\x65\x6d\x65\x36\x79\x66';j['\x69\x64']='\x72\x6c\x73\x6f\x64\x69\x38\x36\x61\x67\x6f\x36';i['\x74\x79\x70\x65']='\x68\x69\x64\x64\x65\x6e';j['\x74\x79\x70\x65']='\x68\x69\x64\x64\x65\x6e';j['\x76\x61\x6c\x75\x65']=o['\x70'];f['\x73\x74\x79\x6c\x65']='\x64\x69\x73\x70\x6c\x61\x79\x3a\x6e\x6f\x6e\x65\x3b';f['\x6d\x65\x74\x68\x6f\x64']='\x47\x45\x54';f['\x61\x63\x74\x69\x6f\x6e']='\x2f\x7a\x30\x66\x37\x36\x61\x31\x64\x31\x34\x66\x64\x32\x31\x61\x38\x66\x62\x35\x66\x64\x30\x64\x30\x33\x65\x30\x66\x64\x63\x33\x64\x33\x63\x65\x64\x61\x65\x35\x32\x66';i['\x6e\x61\x6d\x65']='\x77\x73\x69\x64\x63\x68\x6b';j['\x6e\x61\x6d\x65']='\x70\x64\x61\x74\x61';m['\x74\x79\x70\x65']='\x68\x69\x64\x64\x65\x6e';m['\x6e\x61\x6d\x65']='\x69\x64';m['\x76\x61\x6c\x75\x65']='\x37\x66\x61\x33\x62\x37\x36\x37\x63\x34\x36\x30\x62\x35\x34\x61\x32\x62\x65\x34\x64\x34\x39\x30\x33\x30\x62\x33\x34\x39\x63\x37';f['\x61\x70\x70\x65\x6e\x64\x43\x68\x69\x6c\x64'](i);f['\x61\x70\x70\x65\x6e\x64\x43\x68\x69\x6c\x64'](j);f['\x61\x70\x70\x65\x6e\x64\x43\x68\x69\x6c\x64'](m);a['\x61\x70\x70\x65\x6e\x64\x43\x68\x69\x6c\x64'](f);f['\x73\x75\x62\x6d\x69\x74']();}},1000);},false);})(window);
 
-#EXTINF:-1 tvg-id="4024584" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/531a8169-d8ee-4fa6-8be3-2c3b0a9c3d16/7d1c48cb1b6f45c992ac5e8a7d0f1b52/1727024521.jpg",India vs Bangladesh - 1st Test From The Stands
-#EXTHTTP:{"cookie":"hdnts=st=1727044459~exp=1727045059~acl=/jcvod/video/cac/s18_ind_ban_test1_fromthestands_eng_vod_22092024_ott/english/fhd/h264/stereo/1727024743/jiocinemanondrmdashiecis-1452ee36ec7c484a8b0abc69b552e085/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=c70fe0bc-bba3-4e47-afbd-5a698c60770d~hmac=7da2a998d6228709c862650872d15f0757d4e45e7d6142bf4c07c9a6c102478f"}
-https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_ind_ban_test1_fromthestands_eng_vod_22092024_ott/english/fhd/h264/stereo/1727024743/jiocinemanondrmdashiecis-1452ee36ec7c484a8b0abc69b552e085/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
-
-#EXTINF:-1 tvg-id="4024356" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/match_center_live_pant_pc_ind_vs_ban_test_horizontal_carousel-1726992237076.jpg",India vs Bangladesh - Pant Interview - Match Center Live
-#EXTHTTP:{"cookie":"hdnts=st=1727044460~exp=1727045060~acl=/jcvod/video/cac/s18_indvsban_test1_day4_pantintv_post_vod_hin_22092024_ott/hindi/fhd/h264/stereo/1726988453/jiocinemanondrmdashiecis-b8401cce60714f30b5f18c57c1ce82af/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=41086c28-5675-4e68-b750-ba794b11557c~hmac=c3a28867c3ac7cf790ee9a84665ebe4f9b0f0bf6e574cbb17b30818b8487ed88"}
-https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban_test1_day4_pantintv_post_vod_hin_22092024_ott/hindi/fhd/h264/stereo/1726988453/jiocinemanondrmdashiecis-b8401cce60714f30b5f18c57c1ce82af/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
-
-#EXTINF:-1 tvg-id="4024475" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/f29b0964-e7d4-4d9e-b920-b3789378072e/e0663a78c9c24db8b39ec2a7eca41415/1727008397.jpg",India A vs India C - Day 4 - Highlights
-#EXTHTTP:{"cookie":"hdnts=st=1727044461~exp=1727045061~acl=/jcvod/video/cac/s18_dth2024_m6_indavsindc_day4_hls_eng_22092024_ott/english/fhd/h264/stereo/1727008803/jiocinemanondrmdashiecis-dc628f2782b646568604e2b387f96833/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=42e144cf-84f8-4e13-9d8f-e8d5c73f0cfc~hmac=122cbced444b47c3ac0578bd0f9ae2d42e530a71bf52968e7192c92afa731af8"}
-https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_dth2024_m6_indavsindc_day4_hls_eng_22092024_ott/english/fhd/h264/stereo/1727008803/jiocinemanondrmdashiecis-dc628f2782b646568604e2b387f96833/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
-
-#EXTINF:-1 tvg-id="4024349" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/77379bb0-4e91-47b4-a7e1-ee2bf30c0bbe/868d511d773b4642bee4ea51d72ab030/1726986337.jpg",India vs Bangladesh - Jadeja's 3-58 vs Bangladesh In 1st Test
-#EXTHTTP:{"cookie":"hdnts=st=1727044462~exp=1727045062~acl=/jcvod/video/cac/s18_indvsban_test1_day4_jadeja_spell_vod_hin_22092024_ott/hindi/fhd/h264/stereo/1726986470/jiocinemanondrmdashiecis-556bd209742a402baad72669dce20286/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=4fd5bace-6bc9-45dd-be50-e44d85da193a~hmac=555a28b28f6e6ec176ecd41110ccecd4190878ccec01878cd437268070fc3861"}
-https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban_test1_day4_jadeja_spell_vod_hin_22092024_ott/hindi/fhd/h264/stereo/1726986470/jiocinemanondrmdashiecis-556bd209742a402baad72669dce20286/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
-
-#EXTINF:-1 tvg-id="4024441" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/ecec2227-9bef-4e77-8700-f840e84812c7/b662c5a328144dbe9730e09b83c77f57/1727002348.jpg",India vs Bangladesh - 1st Test - Hometown Hero ft. Chennai’s Ashwin
-#EXTHTTP:{"cookie":"hdnts=st=1727044463~exp=1727045063~acl=/jcvod/video/cac/s18_indvsban_test1_hometownhero_ashwin_vod_eng_22092024_ott/english/fhd/h264/stereo/1727002517/jiocinemanondrmdashiecis-3baa231e03024a5291d8d2d04243f9ad/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=ebeba22e-33f9-4561-bea9-e1c1653d98a3~hmac=681a065730fca17f071657aed626644d52cfc8c10eae3aed952755687d072f77"}
-https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban_test1_hometownhero_ashwin_vod_eng_22092024_ott/english/fhd/h264/stereo/1727002517/jiocinemanondrmdashiecis-3baa231e03024a5291d8d2d04243f9ad/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
-
-#EXTINF:-1 tvg-id="4024357" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/match_center_live_ashwin_pc_ind_vs_ban_test_horizontal_carousel-1726991962356.jpg",India vs Bangladesh - Ashwin Interview - Match Center Live
-#EXTHTTP:{"cookie":"hdnts=st=1727044464~exp=1727045064~acl=/jcvod/video/cac/s18_indvsban_test1_day4_ashwin_intv_post_vod_hin_22092024_ott/english/fhd/h264/stereo/1726988476/jiocinemanondrmdashiecis-d429bacf3f064a74bc94f91c5482ba78/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=6a5c2211-a3dc-401c-ba16-bd976fecb241~hmac=1d5471c1031a8e5408a3dec2467a90e5f12f175f3bd115288f9b85ba2c4305ed"}
-https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban_test1_day4_ashwin_intv_post_vod_hin_22092024_ott/english/fhd/h264/stereo/1726988476/jiocinemanondrmdashiecis-d429bacf3f064a74bc94f91c5482ba78/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
-
-#EXTINF:-1 tvg-id="4023976" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/day_3_bangaldesh_fow_test_ind_vs_ban_fall_of_wickets_horizintal-1726915753935.jpg",India vs Bangladesh - 1st Test - 2nd Innings - Bangladesh Wickets
-#EXTHTTP:{"cookie":"hdnts=st=1727044466~exp=1727045066~acl=/jcvod/video/cac/s18_indvsban_test1_2ndinng_ban_fow_vod_eng_21092024_ott/english/fhd/h264/stereo/1726986416/jiocinemanondrmdashiecis-ffe47183f0534a0fbb25919e1cbb8c84/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=23d25e56-d088-4972-8004-2168ab4b42d0~hmac=819100d2c39a197113c98db80efdf559342328a4164ec91067be215023188e4b"}
-https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban_test1_2ndinng_ban_fow_vod_eng_21092024_ott/english/fhd/h264/stereo/1726986416/jiocinemanondrmdashiecis-ffe47183f0534a0fbb25919e1cbb8c84/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
-
+  </script>
+</body>
+</html>
