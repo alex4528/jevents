@@ -1,1 +1,41 @@
-Error decoding JSON file
+#EXTM3U
+#playlist by @yuvraj824
+
+#EXTINF:-1 tvg-id="4024691" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/isl_2024_live_bfc_vs_mbsg_horizontal_carousel-1727496634735.jpg",Bengaluru FC vs Mohun Bagan Super Giant
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2112600/hd_akamai_merged_avc_isl_eng_m2280924/mobile_master.m3u8
+
+#EXTINF:-1 tvg-id="4024683" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/isl_2024_live_ofc_vs_jfc_horizontal_carousel-1727498843106.jpg",Odisha FC vs Jamshedpur FC
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2112600/hd_akamai_merged_avc_isl_eng_m1280924/mobile_master.m3u8
+
+#EXTINF:-1 tvg-id="4026876" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/test_ind_vs_ban_horizontal_carousel-1727430971617.jpg",India vs Bangladesh - 2nd Test - Day 1 Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1727530573~exp=1727531173~acl=/jcvod/video/cac/s18_indvsban_2ndtest_day1_hls_english_20240927/english/uhd/h264/stereo/1727440406/jiocinemauhdnondrmdashiecis-167c1af9f01b4adba6592ef9a5c90324/dash-web-premium-plain-cc645a983d7242e9bf32537ff9b769e4/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=a052b593-b609-45c4-b84e-84d993116978~hmac=05850efc5803fa45ffcb3c925cbc967bd10632fb7cf5ce301362ea950a10b8a1"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban_2ndtest_day1_hls_english_20240927/english/uhd/h264/stereo/1727440406/jiocinemauhdnondrmdashiecis-167c1af9f01b4adba6592ef9a5c90324/dash-web-premium-plain-cc645a983d7242e9bf32537ff9b769e4/master.mpd
+
+#EXTINF:-1 tvg-id="4026906" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/3f00f41e-488f-474b-a7cb-1739dd8b3892/8bcdea6819b24f71beec5261d93724f8/1727425065.jpg",India vs Bangladesh - 2nd Test - 1st Innings - Bangladesh Wickets
+#EXTHTTP:{"cookie":"hdnts=st=1727530574~exp=1727531174~acl=/jcvod/video/cac/s18_indvsban_2ndtest_1stinng_fow_ban_vod_english_20240927/english/fhd/h264/stereo/1727425331/jiocinemanondrmdashiecis-db0e36b6c05149aa8e68dade5f681dbe/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=a4c71bc7-52c7-4138-a372-3f0e702629b4~hmac=2f1abbd38d2927f32539ce7717404a771892835b1de22cb372ce9d7aefd49f5e"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban_2ndtest_1stinng_fow_ban_vod_english_20240927/english/fhd/h264/stereo/1727425331/jiocinemanondrmdashiecis-db0e36b6c05149aa8e68dade5f681dbe/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4027387" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/599c7ed0-3b67-4753-a608-8c29fc088f65/421e5628f880435db2cb1c85483f1181/1727527475.jpg",Odisha FC vs Jamshedpur FC - Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1727530575~exp=1727531175~acl=/jcvod/video/cac/s18_isl2024_m16_ofcvsjfc_hls_hindi_20240928/hindi/fhd/h264/stereo/1727527652/jiocinemanondrmdashiecis-6dee7a39819f482cae2b7df81046c8fa/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=eb06f0e5-4450-4268-90c5-d7189c981056~hmac=b8c8e81ff46e86917cbbb1a4dc60ddd3e9bbf6a0141ee1ac3f824318fef31f7b"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_isl2024_m16_ofcvsjfc_hls_hindi_20240928/hindi/fhd/h264/stereo/1727527652/jiocinemanondrmdashiecis-6dee7a39819f482cae2b7df81046c8fa/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4026376" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sa20_promo_horizontal_carousel-1727356951880.jpg",SA20 2025 Auction
+#EXTHTTP:{"cookie":"hdnts=st=1727530575~exp=1727531175~acl=/jcvod/video/cac/s18_sa20_sa202025_auction_promo_vod_eng_26092024_ott_english_20240926/english/fhd/h264/stereo/1727337090/jiocinemanondrmdashiecis-a9e402ba2a5148a0a88e7b7dc294050f/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=5932ebf6-b9a2-4a5a-ab6b-0e9eab50e0f2~hmac=fe836f1c9376d7429f5aa5046f0844287fb46166e197807fc2351c30909e4967"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_sa20_sa202025_auction_promo_vod_eng_26092024_ott_english_20240926/english/fhd/h264/stereo/1727337090/jiocinemanondrmdashiecis-a9e402ba2a5148a0a88e7b7dc294050f/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4027223" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/c16649f9-9c8b-4203-8437-c7d1d685feef/f70446d1da8a4c28b58dee2d979fb9fe/1727455528.jpg",East Bengal FC vs FC Goa - Player Of The Match
+#EXTHTTP:{"cookie":"hdnts=st=1727530577~exp=1727531177~acl=/jcvod/video/cac/s18_isl2024_m15_ebfcvsfcg_potm_herrera_vod_20240927_english_20240927/english/fhd/h264/stereo/1727458036/jiocinemanondrmdashiecis-411b1c15fef643ee96bf8533838c347a/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=eb3965d7-1cf7-431e-bff9-4cebf85a824a~hmac=45b210da299893664f398d699590146331fbc5a258a2cb17fd0881508ff3f1ab"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_isl2024_m15_ebfcvsfcg_potm_herrera_vod_20240927_english_20240927/english/fhd/h264/stereo/1727458036/jiocinemanondrmdashiecis-411b1c15fef643ee96bf8533838c347a/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4024474" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/test_ind_vs_ban_full_match_hls_horizontal_carousel-1727015338798.jpg",India vs Bangladesh - 1st Test - Full Match Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1727530577~exp=1727531177~acl=/jcvod/video/cac/s18_indvsban_test1_fullhs_hls_eng_22092024_ott/english/uhd/h264/stereo/1727010675/jiocinemauhdnondrmdashiecis-25a903fda7c847f1a1f49d72e0e1582d/dash-web-premium-plain-cc645a983d7242e9bf32537ff9b769e4/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=568e1759-b3df-46fb-b8d9-73b02315ab46~hmac=55cc312339c6214d52d932723e08439d45f731e6ac429e7f7920611c32b374c0"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban_test1_fullhs_hls_eng_22092024_ott/english/uhd/h264/stereo/1727010675/jiocinemauhdnondrmdashiecis-25a903fda7c847f1a1f49d72e0e1582d/dash-web-premium-plain-cc645a983d7242e9bf32537ff9b769e4/master.mpd
+
+#EXTINF:-1 tvg-id="4024441" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/ecec2227-9bef-4e77-8700-f840e84812c7/b662c5a328144dbe9730e09b83c77f57/1727002348.jpg",India vs Bangladesh - 1st Test - Hometown Hero ft. Chennai’s Ashwin
+#EXTHTTP:{"cookie":"hdnts=st=1727530578~exp=1727531178~acl=/jcvod/video/cac/s18_indvsban_test1_hometownhero_ashwin_vod_eng_22092024_ott/english/fhd/h264/stereo/1727002517/jiocinemanondrmdashiecis-3baa231e03024a5291d8d2d04243f9ad/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=fcf61d82-ccf6-459f-8aae-d77fb7b24ff4~hmac=f90c557836fc1b3ceff7c8339b3331d04f037506d8d1e3cf8feccef30ee08d31"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban_test1_hometownhero_ashwin_vod_eng_22092024_ott/english/fhd/h264/stereo/1727002517/jiocinemanondrmdashiecis-3baa231e03024a5291d8d2d04243f9ad/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4024584" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/531a8169-d8ee-4fa6-8be3-2c3b0a9c3d16/7d1c48cb1b6f45c992ac5e8a7d0f1b52/1727024521.jpg",India vs Bangladesh - 1st Test From The Stands
+#EXTHTTP:{"cookie":"hdnts=st=1727530579~exp=1727531179~acl=/jcvod/video/cac/s18_ind_ban_test1_fromthestands_eng_vod_22092024_ott/english/fhd/h264/stereo/1727085547/jiocinemanondrmdashiecis-6ff46575be724d06ac574810fe78ce8b/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=499f9757-d097-4ebf-9241-af55fbe0e956~hmac=e52588b16dc6a8da5e4c557ef60c9192a63f11924ff094e15e321da2887a27a6"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_ind_ban_test1_fromthestands_eng_vod_22092024_ott/english/fhd/h264/stereo/1727085547/jiocinemanondrmdashiecis-6ff46575be724d06ac574810fe78ce8b/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
