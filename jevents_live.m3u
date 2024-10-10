@@ -1,1 +1,41 @@
-Error decoding JSON file
+#EXTM3U
+#playlist by @yuvraj824
+
+#EXTINF:-1 tvg-id="4034938" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/2nd_t20i_ind_vs_ban_hls_horizontal_carousel-1728493595783.jpg",India vs Bangladesh - 2nd T20I - Highlights - Nitish Reddy Makes His Mark As India Seal Series
+#EXTHTTP:{"cookie":"hdnts=st=1728567895~exp=1728568495~acl=/jcvod/video/cac/s18_indvsban2024_2ndt20_4k_hls_english_20241009/english/uhd/h264/stereo/1728508454/jiocinemauhdnondrmdashiecis-1b48ac28352e4bfd8e733e17117cb4f3/dash-web-premium-plain-cc645a983d7242e9bf32537ff9b769e4/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=905129be-42a7-49c8-9f90-d81b18df0430~hmac=ed50862551646ebee5ab71e4ef096ffabad8ebee2e4ad51b2a4e51363947cb00"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban2024_2ndt20_4k_hls_english_20241009/english/uhd/h264/stereo/1728508454/jiocinemauhdnondrmdashiecis-1b48ac28352e4bfd8e733e17117cb4f3/dash-web-premium-plain-cc645a983d7242e9bf32537ff9b769e4/master.mpd
+
+#EXTINF:-1 tvg-id="4031521" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/global_chess_league_horizontal_carousel-1728545771216.jpg",Global Chess League 2024 - Day 8
+https://prod-sportsp-north.jiocinema.com/hls/live/2109528/hd_akamai_merged_avc_eng_adhoc_m5_101024/mobile_master.m3u8
+
+#EXTINF:-1 tvg-id="4035207" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/b627ee71-e44f-44bc-b62e-a445f96704d1/92a8f91fd21449d49cd85554474ca1d7/1728496762.jpg",India vs Bangladesh - 2nd T20I - Player Of The Day ft. Nitish Kumar Reddy
+#EXTHTTP:{"cookie":"hdnts=st=1728567896~exp=1728568496~acl=/jcvod/video/cac/s18_indvsban_2ndt20_nitish_playeroftheday_english_20241009/english/fhd/h264/stereo/1728496962/jiocinemanondrmdashiecis-365c65a28682474b8cfe9e7358c00104/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=50088c93-272a-41e8-969b-aa4ac6bc32ab~hmac=49dd73e98d493d6d35d63bbb2d07625947d7cc228482da6e7aa6dfe3926dfa83"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban_2ndt20_nitish_playeroftheday_english_20241009/english/fhd/h264/stereo/1728496962/jiocinemanondrmdashiecis-365c65a28682474b8cfe9e7358c00104/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4032610" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/arctc_open_rd_16_live_horizontal_carousel-1728506645270.jpg",BWF Arctic Open - Round Of 16
+https://prod-sportsp-south.jiocinema.com/hls/live/2109981/hd_akamai_merged_avc_eng_bwf_m1_101024/mobile_master.m3u8
+
+#EXTINF:-1 tvg-id="4035237" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/94b82f3c-adc1-41bb-aff1-8497b81f7413/5cb414e83f8b4f149b03b1bbab90053b/1728497282.jpg",India vs Bangladesh - 2nd T20I - Thrilling Player Of The Match ft. Rinku Singh
+#EXTHTTP:{"cookie":"hdnts=st=1728567898~exp=1728568498~acl=/jcvod/video/cac/s18_indvsban_2ndt20_rinku_playerofthematch_english_20241009/english/fhd/h264/stereo/1728497452/jiocinemanondrmdashiecis-94db2d4794b54fde9819dba3ea25aae9/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=24c37588-b8e6-4239-a67d-29d51cb433b0~hmac=301bb0c19f9ece8722fb81f89408aad041b7361554d86bfb3d2c8d8164ffe1f0"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban_2ndt20_rinku_playerofthematch_english_20241009/english/fhd/h264/stereo/1728497452/jiocinemanondrmdashiecis-94db2d4794b54fde9819dba3ea25aae9/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4035177" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/2nd_t20i_ind_vs_ban_nitish_match_center_live_horizontal_carousel-1728499836747.jpg",India vs Bangladesh - 2nd T20I - Nitish Post-Match Interview
+#EXTHTTP:{"cookie":"hdnts=st=1728567899~exp=1728568499~acl=/jcvod/video/cac/s18_indvsban_2ndt20_nitish_interview_english_20241009/english/fhd/h264/stereo/1728496590/jiocinemanondrmdashiecis-751802775805478a9605825e2cb7e7dc/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=475daf09-5cf3-462e-94e2-ff6c0894154e~hmac=2cb03f6f0e8f9937f37fda7aaa81b97133356b442e97975282009e63b31d1a64"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban_2ndt20_nitish_interview_english_20241009/english/fhd/h264/stereo/1728496590/jiocinemanondrmdashiecis-751802775805478a9605825e2cb7e7dc/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4035128" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/63a7b8fc-91da-48ef-b6f2-6acc86ee09bb/dac247fa1da14286a5d8f3dded7c236a/1728490574.jpg",India vs Bangladesh - Hardik Pandya's 32 vs Bangladesh In 2nd T20I
+#EXTHTTP:{"cookie":"hdnts=st=1728567900~exp=1728568500~acl=/jcvod/video/cac/s18_indvsban2024_2ndt20_hardikknock_vod_english_20241009/english/fhd/h264/stereo/1728491997/jiocinemanondrmdashiecis-cc109bac517f479995284305f533cab8/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=e54512b9-48f7-4dda-9b1e-7f95a565f880~hmac=44518b8faea98708369ba375aeb052e3a96fd2509369821cd704df8dd02386c2"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsban2024_2ndt20_hardikknock_vod_english_20241009/english/fhd/h264/stereo/1728491997/jiocinemanondrmdashiecis-cc109bac517f479995284305f533cab8/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4035277" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/american_gambits_vs_alpine_sg_highlights_horizontal_carousel-1728558752276.jpg",Global Chess League - American Gambits vs Alpine Sg Pipers
+#EXTHTTP:{"cookie":"hdnts=st=1728567901~exp=1728568501~acl=/jcvod/video/cac/s18_gcl2024_day7_m3_agvsasp_hls_english_20241009/english/fhd/h264/stereo/1728499292/jiocinemanondrmdashiecis-a23ce8a60bfb49649d1542385c1208c9/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=e13619d8-d49c-430d-a1ea-464dd65cb567~hmac=f58361e5c04f65e8c992d5e8653b07665bc09e91b001f7a64a378bc7d4d2bfda"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_gcl2024_day7_m3_agvsasp_hls_english_20241009/english/fhd/h264/stereo/1728499292/jiocinemanondrmdashiecis-a23ce8a60bfb49649d1542385c1208c9/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="3902314" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jioimage/newcpp/65bb4912dd24a579ec3273eb/65bb4912dd24a579ec3273eb_1706772765324_aa.jpg",IPL Mega Comps - Top Stumpings
+#EXTHTTP:{"cookie":"hdnts=st=1728567902~exp=1728568502~acl=/bpkvod/jcsports/default/65bb4912dd24a579ec3273eb_v2/65bb4912dd24a579ec3273eb_v2/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=cefaf12e-4628-4f1c-bbef-7d34604de373~hmac=72a47dc46ad0de56007215da04e59d076097004fb8489a4e03576426bff2c1cc"}
+https://ak-mediavod.jiocinema.com/bpkvod/jcsports/default/65bb4912dd24a579ec3273eb_v2/65bb4912dd24a579ec3273eb_v2/index_sjc_web_premium.m3u8
+
+#EXTINF:-1 tvg-id="4035592" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/99035787-aea7-4896-9f11-55ca03c4698e/faf0af4720f44e0db9e0c11b9b5f64cc/1728553897.jpg",ISL - Performer Of The Week 4 ft. Subhasish Bose
+#EXTHTTP:{"cookie":"hdnts=st=1728567903~exp=1728568503~acl=/jcvod/video/cac/s18_isl2024_week4_performeroftheweek_vod_english_20241010/english/fhd/h264/stereo/1728554146/jiocinemanondrmdashiecis-d9c5a4e0eff4475c9a806c7dabaf0464/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=f7105f44-44fe-476f-8472-ea53a757f91b~hmac=8dd3f66cf83d3b9ed2f352e17fbb7d9615bacd8510fe29e1ddefccec7f8f87e9"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_isl2024_week4_performeroftheweek_vod_english_20241010/english/fhd/h264/stereo/1728554146/jiocinemanondrmdashiecis-d9c5a4e0eff4475c9a806c7dabaf0464/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
