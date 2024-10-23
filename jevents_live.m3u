@@ -1,14 +1,43 @@
-<!DOCTYPE html>
-<html style="height:100%">
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-<title> 404 Not Found
-</title></head>
-<body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
-<div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: -400px; position:absolute; top: 30%; left:50%;">
-        <h1 style="margin:0; font-size:150px; line-height:150px; font-weight:bold;">404</h1>
-<h2 style="margin-top:20px;font-size: 30px;">Not Found
-</h2>
-<p>The resource requested could not be found on this server!</p>
-</div></div><div style="color:#f0f0f0; font-size:12px;margin:auto;padding:0px 30px 0px 30px;position:relative;clear:both;height:100px;margin-top:-101px;background-color:#474747;border-top: 1px solid rgba(0,0,0,0.15);box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;">
-<br>Proudly powered by  <a style="color:#fff;" href="http://www.litespeedtech.com/error-page">LiteSpeed Web Server</a><p>Please be advised that LiteSpeed Technologies Inc. is not a web hosting company and, as such, has no control over content found on this site.</p></div></body></html>
+#EXTM3U
+#playlist by @yuvraj824
+
+#EXTINF:-1 tvg-id="4043091" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/14_10_2024_ind_vs_nz_1st_test_tomorrow_horizontal_carousel-1729658608092.jpg",India vs New Zealand - 2nd Test Preview
+#EXTHTTP:{"cookie":"hdnts=st=1729702509~exp=1729703109~acl=/jcvod/video/cac/s18_ind_vs_nz_2nd_test_preview_vod_english_20241022/english/fhd/h264/stereo/1729631684/jiocinemanondrmdashiecis-68cc111326ce4a36bb41196746f96981/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=83ec8570-4006-442c-9f7f-e19d0f30dc61~hmac=83b71dfcae20f9e50991cccf5f326411c2d8921013456779094e54864b54fa45"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_ind_vs_nz_2nd_test_preview_vod_english_20241022/english/fhd/h264/stereo/1729631684/jiocinemanondrmdashiecis-68cc111326ce4a36bb41196746f96981/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4042977" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/isl_ofc_vs_ebfc_highlights_horizontal_carousel-1729613039524.jpg",Odisha FC vs East Bengal FC - Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1729702511~exp=1729703111~acl=/jcvod/video/cac/s18_isl2024_m31_ofcvsebfc_hls_hindi_20241022/hindi/fhd/h264/stereo/1729615550/jiocinemanondrmdashiecis-53351e52beb24eb2ab7ccdfd948f9fd3/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=4fc2e782-3050-48be-b127-62c6236881a9~hmac=f492814d0320d7b9b70c18f1994b161ece281cf25c82d96da561c47192cb4f8d"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_isl2024_m31_ofcvsebfc_hls_hindi_20241022/hindi/fhd/h264/stereo/1729615550/jiocinemanondrmdashiecis-53351e52beb24eb2ab7ccdfd948f9fd3/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4043341" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/e5bd1d2f-ff97-4997-8c60-9a91a2ad2d30/debd28f71eaf4c8fa3e78921b0e2a2d6/1729683219.jpg",India vs New Zealand - 2nd Test - Gautam Gambhir Press Conference
+#EXTHTTP:{"cookie":"hdnts=st=1729702513~exp=1729703113~acl=/jcvod/video/cac/s18_ind_vs_nz_2nd_test_gautam_gambhir_pc_vod_english_20241023/english/fhd/h264/stereo/1729683372/jiocinemanondrmdashiecis-f06016f271744a9ba393af40a644fed7/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=dc740a7a-bb62-4d63-81a1-ddc2a5f4e915~hmac=0761cb06a396e472acf9155976e59a334ebeddfb02be96c78e5ae0012cfab39f"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_ind_vs_nz_2nd_test_gautam_gambhir_pc_vod_english_20241023/english/fhd/h264/stereo/1729683372/jiocinemanondrmdashiecis-f06016f271744a9ba393af40a644fed7/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="3908209" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/top_10_patnerships_carousel-1707566947276.jpg",IPL Mega Comps - Top 10 Partnerships - Part 2
+#EXTHTTP:{"cookie":"hdnts=st=1729702515~exp=1729703115~acl=/bpkvod/jcsports/default/65c75aabc963056b8cf27f0f_v2/65c75aabc963056b8cf27f0f_v2/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=14ea6c02-517b-4a2e-8c2b-6311ec5cd4b1~hmac=5e1b7703857be66a3af78c6f295d8a15e76e8d7f60b882a2659a27bf3f8232e9"}
+https://ak-mediavod.jiocinema.com/bpkvod/jcsports/default/65c75aabc963056b8cf27f0f_v2/65c75aabc963056b8cf27f0f_v2/index_sjc_web_premium.m3u8
+
+#EXTINF:-1 tvg-id="4043425" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/ead0a10a-36b6-4e03-9f84-7f93511fda90/7fa6c596be594638a77e4fa2a745aa10/1729691484.jpg",India vs New Zealand - 2nd Test - Tom Latham Press Conference
+#EXTHTTP:{"cookie":"hdnts=st=1729702517~exp=1729703117~acl=/jcvod/video/cac/s18_ind_vs_nz_2nd_test_tom_latham_pc_vod_english_20241023/english/fhd/h264/stereo/1729691769/jiocinemanondrmdashiecis-d5f41023909c4a8d8457f6b6cac325aa/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=fbefbca4-f233-44ae-b412-5b97b645edf3~hmac=1d866d9f8b5e8ecc31ceaff6c1707bcb40360cda639026e40ac3fab6df81d5e3"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_ind_vs_nz_2nd_test_tom_latham_pc_vod_english_20241023/english/fhd/h264/stereo/1729691769/jiocinemanondrmdashiecis-d5f41023909c4a8d8457f6b6cac325aa/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="3980007" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/e8d2ebf6-92b6-43bc-9534-0930b3af171b/45cb6872026b4b6a8bf387598e74d741/1716662560.jpg",TATA IPL 2024 Top 10 Innovative Shots
+#EXTHTTP:{"cookie":"hdnts=st=1729702519~exp=1729703119~acl=/jcvod/video/cac/s18_ipl2024_ss_top10innovative_vod_hin_20240525_ott/hindi/fhd/h264/stereo/1716662811/jiocinemanondrmdash-70d4e37f5d5d4f8ea8e92ab3355c652b/dash-web-premium-plain-a9b3bb9d2a6941b1b18622616fbad3dd/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=dba5bcd4-eaa7-42af-9669-349e7d62432d~hmac=b06e19260f705a9bb00156502afc1c83ef53faa4ca9d7bee344546695e418bfe"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_ipl2024_ss_top10innovative_vod_hin_20240525_ott/hindi/fhd/h264/stereo/1716662811/jiocinemanondrmdash-70d4e37f5d5d4f8ea8e92ab3355c652b/dash-web-premium-plain-a9b3bb9d2a6941b1b18622616fbad3dd/master.mpd
+
+#EXTINF:-1 tvg-id="4040596" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/1st_test_ind_vs_nz_full_match_highlights_horizontal_carousel-1729420349478.jpg",India vs New Zealand - 1st Test - Full Match Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1729702521~exp=1729703121~acl=/jcvod/video/cac/s18_indvsnz_test1_fullmatch_hls_hindi_20241018/hindi/uhd/h264/stereo/1729427018/jiocinemauhdnondrmdashiecis-b8d7de83ecc6462ebdd79e7ba2d35d77/dash-web-premium-plain-cc645a983d7242e9bf32537ff9b769e4/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=f985004b-3717-438b-9428-70a5c522ec74~hmac=e4c43677734f07ced1301b8c63845c28acb3e4c35f22d1f54cee621c2154bc4e"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz_test1_fullmatch_hls_hindi_20241018/hindi/uhd/h264/stereo/1729427018/jiocinemauhdnondrmdashiecis-b8d7de83ecc6462ebdd79e7ba2d35d77/dash-web-premium-plain-cc645a983d7242e9bf32537ff9b769e4/master.mpd
+
+#EXTINF:-1 tvg-id="4043041" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/5d556d41-85ab-45a7-8d55-ee3f3db6388d/5abe91b699ab4c7b952ffb679809db9b/1729614500.jpg",ISL - Performer Of The Week 5 ft. Yoell Van Nieff
+#EXTHTTP:{"cookie":"hdnts=st=1729702523~exp=1729703123~acl=/jcvod/video/cac/s18_isl_special_performeroftheweek5_yoell_vod_english_20241022/english/fhd/h264/stereo/1729614671/jiocinemanondrmdashiecis-0ea5ba49460045c1bded297e71739944/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=5ad6a3f4-9555-44f5-a4cd-fdd209f9fbd7~hmac=0f0edc848e668d690ce7beed5c481a6448ed8a1b51619dd8fbfc42092c3c4675"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_isl_special_performeroftheweek5_yoell_vod_english_20241022/english/fhd/h264/stereo/1729614671/jiocinemanondrmdashiecis-0ea5ba49460045c1bded297e71739944/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="3979889" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ipl_biggest_sixes_carousel-1716589291525.jpg",TATA IPL 2024 Top 10 Biggest Sixes
+#EXTHTTP:{"cookie":"hdnts=st=1729702525~exp=1729703125~acl=/jcvod/video/cac/s18_ipl2024_ss_top10_biggestsixes_vod_hin_20240524_ott/hindi/fhd/h264/stereo/1716588575/jiocinemanondrmdash-ffccc124f78c4970ab470a2ed8887a7f/dash-web-premium-plain-a9b3bb9d2a6941b1b18622616fbad3dd/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=d4839063-d54a-4786-9e1e-0847ad4416ba~hmac=412a2af399a2af5b0acb7e7676d08e0fd7837c1b707fbd78528144e3b25ca3a2"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_ipl2024_ss_top10_biggestsixes_vod_hin_20240524_ott/hindi/fhd/h264/stereo/1716588575/jiocinemanondrmdash-ffccc124f78c4970ab470a2ed8887a7f/dash-web-premium-plain-a9b3bb9d2a6941b1b18622616fbad3dd/master.mpd
+
+#EXTINF:-1 tvg-id="4043042" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/fb433a81-f733-4d13-a854-6e1177e9d877/302c56e936194b2f8def73b80bb0f56d/1729614508.jpg",ISL - Match Of The Week 5 ft. Wilmar Jordan Gil
+#EXTHTTP:{"cookie":"hdnts=st=1729702528~exp=1729703128~acl=/jcvod/video/cac/s18_isl_special_matchoftheweek_neufcvscfc_vod_english_20241022/english/fhd/h264/stereo/1729614673/jiocinemanondrmdashiecis-200e1e12a16249a5bb9ac5f6f5a45284/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=4ea1ef95-a909-4fec-9392-e22d920e04da~hmac=f50aa88209848f5d2b27feaced026d8ed8a40955f4c6768f2b29ec2a4ad0ffe5"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_isl_special_matchoftheweek_neufcvscfc_vod_english_20241022/english/fhd/h264/stereo/1729614673/jiocinemanondrmdashiecis-200e1e12a16249a5bb9ac5f6f5a45284/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
