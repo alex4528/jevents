@@ -1,7 +1,7 @@
 name: Update jevents_live.m3u
 on:
   schedule:
-    - cron: '*/10 * * * *' # Runs every 20 minutes
+    - cron: '*/20 * * * *' # Runs every 20 minutes
 
 jobs:
   update-file:
