@@ -1,1 +1,41 @@
-Error decoding JSON file
+#EXTM3U
+#playlist by @yuvraj824
+
+#EXTINF:-1 tvg-id="4033132" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ind_vs_nz_test_horizontal_carousel-1729493514057.jpg",India vs New Zealand - 2nd Test - Day 3
+https://prod-sports-hin-cf.jiocinema.com/hls/live/2100322/hd_akamai_iosmob_avc_hin_indvsnz_261024/master.m3u8
+
+#EXTINF:-1 tvg-id="4045329" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/803becc7-eaed-44bc-8d13-6632694665eb/44d5f77066b448899b23909c3998f760/1729919369.jpg",India vs New Zealand - 2nd Test - Day 3 Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1729920921~exp=1729921521~acl=/jcvod/video/cac/s18_indvsnz2024_2nd_test_4k_day3_hls_hindi_20241026/hindi/fhd/h264/stereo/1729919719/jiocinemanondrmdashiecis-e70f0b1280a54b76a443da7aa0933437/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=44e8ad82-4d0c-4288-89bb-626caa3a3aea~hmac=484ecba34a0f89cc8f14fceb8422179a1f92dc77c7a41178ff29ea62dee7a225"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_2nd_test_4k_day3_hls_hindi_20241026/hindi/fhd/h264/stereo/1729919719/jiocinemanondrmdashiecis-e70f0b1280a54b76a443da7aa0933437/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4034483" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ranji_trohy_punjab_vs_up_horizontal_carousel-1729845629316.jpg",Punjab vs Uttar Pradesh - Day 1
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m1_261024/mobile_master.m3u8
+
+#EXTINF:-1 tvg-id="4045298" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/aus_vs_ind_bgt_2024_25_squad_horizontal_carousel-1729917697432.jpg",India Squad Selected for 5 Test Series against Australia
+#EXTHTTP:{"cookie":"hdnts=st=1729920927~exp=1729921527~acl=/jcvod/video/cac/s18_indvsnz2024_2nd_test_day3_squadanalyses_ausvsind_vod_hindi_20241026/hindi/fhd/h264/stereo/1729914877/jiocinemanondrmdashiecis-a24da5d3cb69424ead8c6cebb7d536d7/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=7df98839-4871-4e71-ac46-a9d280212323~hmac=6b915affd5c98a9ed0c268fe891103708f6f8cfce08757f671c65c16cbf3a51b"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_2nd_test_day3_squadanalyses_ausvsind_vod_hindi_20241026/hindi/fhd/h264/stereo/1729914877/jiocinemanondrmdashiecis-a24da5d3cb69424ead8c6cebb7d536d7/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4044985" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/washington_2nd_day_2_test_ind_vs_nz_best_spells_horizontal_carousel-1729857439818.jpg",India vs New Zealand - Washington Sundar's 4-56 vs New Zealand In 2nd Test
+#EXTHTTP:{"cookie":"hdnts=st=1729920929~exp=1729921529~acl=/jcvod/video/cac/s18_indvsnz2024_2nd_test_day2_topspell_washington_vod_hindi_20241025/hindi/fhd/h264/stereo/1729857231/jiocinemanondrmdashiecis-9d556dd1a8d74ee1a07ff55c2eac86fc/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=b9213ff4-b4c7-44fb-bcd1-308997d4b041~hmac=2470af91e77f1af441d847eb486839ecf8ede3604e00785b3954602eba6fc642"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_2nd_test_day2_topspell_washington_vod_hindi_20241025/hindi/fhd/h264/stereo/1729857231/jiocinemanondrmdashiecis-9d556dd1a8d74ee1a07ff55c2eac86fc/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4045299" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ind_vs_sa_t20i_squad_horizontal_carousel-1729917906786.jpg",India Squad Picked For 4 T20Is against South Africa
+#EXTHTTP:{"cookie":"hdnts=st=1729920931~exp=1729921531~acl=/jcvod/video/cac/s18_indvsnz2024_2nd_test_day3_savsind2024_vod_hindi_20241026/hindi/fhd/h264/stereo/1729915243/jiocinemanondrmdashiecis-06f10357288844218554843378cd6f64/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=18b4a377-4880-4274-bfdc-f15be5a7907d~hmac=1597186f0262a2b62ce69b9f506b857d3493a44c7bc73639eb1c8b521a2e6de4"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_2nd_test_day3_savsind2024_vod_hindi_20241026/hindi/fhd/h264/stereo/1729915243/jiocinemanondrmdashiecis-06f10357288844218554843378cd6f64/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4044744" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/36988de6-60ba-4cab-8763-6f17182e3a34/bbfc400ecc694036a4468a3c60422e28/1729842255.jpg",India vs New Zealand - Mitchell Santner's 7-53 vs India In 2nd Test
+#EXTHTTP:{"cookie":"hdnts=st=1729920933~exp=1729921533~acl=/jcvod/video/cac/s18_indvsnz2024_2nd_test_day2_santner_spell_vod_hindi_20241025/hindi/fhd/h264/stereo/1729842443/jiocinemanondrmdashiecis-d716a3afa3ab497abe5a0cd21b16be5e/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=c1b2ebe1-3840-4c6a-a13a-738c19a846e3~hmac=ccf527de773a0428db7a814a3a3762d8d3111c8116c04c77fb0980268a6917c7"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_2nd_test_day2_santner_spell_vod_hindi_20241025/hindi/fhd/h264/stereo/1729842443/jiocinemanondrmdashiecis-d716a3afa3ab497abe5a0cd21b16be5e/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4044672" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/2_day_test_ind_vs_nz_highlights_horizontal_carousel-1729855633062.jpg",India vs New Zealand - 2nd Test - Day 2 Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1729920935~exp=1729921535~acl=/jcvod/video/cac/s18_indvsnz2024_2nd_test_4k_day2_hls_hindi_20241025/hindi/uhd/h264/stereo/1729869169/jiocinemauhdnondrmdashiecis-b18c7e8ae75943a1bc276b508f90f5cf/dash-web-premium-plain-cc645a983d7242e9bf32537ff9b769e4/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=56b43071-6556-484a-930d-2bfa78e1b243~hmac=677bd45dca2f4d3fec6c89d470cc8735f35cdbbe2499d60de69edbd0173d3b61"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_2nd_test_4k_day2_hls_hindi_20241025/hindi/uhd/h264/stereo/1729869169/jiocinemauhdnondrmdashiecis-b18c7e8ae75943a1bc276b508f90f5cf/dash-web-premium-plain-cc645a983d7242e9bf32537ff9b769e4/master.mpd
+
+#EXTINF:-1 tvg-id="4045210" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/kbfc_vs_bfc_isl_highlights_horizontal_carousel-1729873362102.jpg",Kerala Blasters FC vs Bengaluru FC - Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1729920937~exp=1729921537~acl=/jcvod/video/cac/s18_isl_m33_kbfc_bfc_hls_hindi_20241025/hindi/fhd/h264/stereo/1729876729/jiocinemanondrmdashiecis-bae055e6adc644f9bdac665a818e48e2/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=79a61012-c852-42be-b9e4-9f7b34357ed3~hmac=3d2bac6cf9b581940e8389e3ef3f73ae4c7bcd508ce76647a69a0126752b089c"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_isl_m33_kbfc_bfc_hls_hindi_20241025/hindi/fhd/h264/stereo/1729876729/jiocinemanondrmdashiecis-bae055e6adc644f9bdac665a818e48e2/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4045212" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/dea4e165-e821-4c03-8d4d-2a2776cdc4fc/0d34ce9c22f44566acef8f6b1b40a081/1729869083.jpg",India vs New Zealand - 2nd Test - Mitchell Santner Press Conference
+#EXTHTTP:{"cookie":"hdnts=st=1729920939~exp=1729921539~acl=/jcvod/video/cac/s18_indvsnz2024_2nd_test_day2_pc_santner_vod_english_20241025/english/fhd/h264/stereo/1729869271/jiocinemanondrmdashiecis-855105ec30c046f7965a0e02d6181f9a/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=706be943-cb92-4e90-9755-3603b7b45486~hmac=b650a0a3eeb2cbe4474968dfff2b357821766a79d580fc2ffff1345ae2f5a247"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_2nd_test_day2_pc_santner_vod_english_20241025/english/fhd/h264/stereo/1729869271/jiocinemanondrmdashiecis-855105ec30c046f7965a0e02d6181f9a/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
