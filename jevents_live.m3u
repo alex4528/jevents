@@ -1,1 +1,41 @@
-Error decoding JSON file
+#EXTM3U
+#playlist by @yuvraj824
+
+#EXTINF:-1 tvg-id="4033132" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ind_vs_nz_test_horizontal_carousel-1729493514057.jpg",India vs New Zealand - 2nd Test - Day 3
+https://prod-sports-hin-cf.jiocinema.com/hls/live/2100322/hd_akamai_iosmob_avc_hin_indvsnz_261024/master.m3u8
+
+#EXTINF:-1 tvg-id="4045329" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/2nd_test_day_3_ind_vs_nz_action_recap_horizontal_carousel-1729930027241.jpg",India vs New Zealand - 2nd Test - Day 3 Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1729934363~exp=1729934963~acl=/jcvod/video/cac/s18_indvsnz2024_2nd_test_4k_day3_hls_hindi_20241026/hindi/fhd/h264/stereo/1729933385/jiocinemanondrmdashiecis-27bfe21ffa1c4f3bb9ed012aaf60727b/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=c95cbb59-2d0b-4785-98f9-3a3214343683~hmac=c01c1a4182486fe1b22111cb56cdf401efdb18b2dcfc763fd14924e984a2014d"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_2nd_test_4k_day3_hls_hindi_20241026/hindi/fhd/h264/stereo/1729933385/jiocinemanondrmdashiecis-27bfe21ffa1c4f3bb9ed012aaf60727b/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4034483" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ranji_trohy_punjab_vs_up_horizontal_carousel-1729845629316.jpg",Punjab vs Uttar Pradesh - Day 1
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m1_261024/mobile_master.m3u8
+
+#EXTINF:-1 tvg-id="4045429" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/6f8f9d15-180f-41c0-a427-3db14f18f9bb/0c22e3b317d54ce1963665dcb987dd2a/1729928638.jpg",India vs New Zealand - Yashasvi Jaiswal's 77 vs New Zealand In 2nd Test
+#EXTHTTP:{"cookie":"hdnts=st=1729934367~exp=1729934967~acl=/jcvod/video/cac/s18_indvsnz2024_2nd_test_day3_jaiswal_knock_vod_hindi_20241026/hindi/fhd/h264/stereo/1729928809/jiocinemanondrmdashiecis-1e1ef1d163ee444ab3e066e50d1871ff/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=5aedf669-ee7c-4e1a-8836-1cd0209d5b99~hmac=5936093564ed0cb779a3f0489343d67fab0779f781a907b15bc9b314cceb27e4"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_2nd_test_day3_jaiswal_knock_vod_hindi_20241026/hindi/fhd/h264/stereo/1729928809/jiocinemanondrmdashiecis-1e1ef1d163ee444ab3e066e50d1871ff/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4045336" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/f257466b-7ae8-4f6c-828e-25df08974df1/5e559a10788a40c89c3dda84b732cdba/1729920574.jpg",India vs New Zealand - Ravindra Jadeja's 3-72 vs New Zealand In 2nd Test
+#EXTHTTP:{"cookie":"hdnts=st=1729934369~exp=1729934969~acl=/jcvod/video/cac/s18_indvsnz2024_2nd_test_day3_jadeja_spell_vod_hindi_20241026/hindi/fhd/h264/stereo/1729920736/jiocinemanondrmdashiecis-22812d16c51a4b59b029657be2a9bb95/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=a64f7a23-5378-4b24-bcd7-3174206214d6~hmac=6ccbe4b7757e6391346c3e031c16397bc93985b6cf9decda68045d2932f99b2a"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_2nd_test_day3_jadeja_spell_vod_hindi_20241026/hindi/fhd/h264/stereo/1729920736/jiocinemanondrmdashiecis-22812d16c51a4b59b029657be2a9bb95/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4045298" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/aus_vs_ind_bgt_2024_25_squad_horizontal_carousel-1729917697432.jpg",India Squad Selected for 5 Test Series against Australia
+#EXTHTTP:{"cookie":"hdnts=st=1729934371~exp=1729934971~acl=/jcvod/video/cac/s18_indvsnz2024_2nd_test_day3_squadanalyses_ausvsind_vod_hindi_20241026/hindi/fhd/h264/stereo/1729914877/jiocinemanondrmdashiecis-a24da5d3cb69424ead8c6cebb7d536d7/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=2f5075df-4b7f-4255-8c89-46569e7df6bb~hmac=c392580022c0a3b70b9e07d749c8519e02a48caba893be051d3514bff3bcc03b"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_2nd_test_day3_squadanalyses_ausvsind_vod_hindi_20241026/hindi/fhd/h264/stereo/1729914877/jiocinemanondrmdashiecis-a24da5d3cb69424ead8c6cebb7d536d7/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4045370" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/207d30a8-f9d7-40a9-852e-ad03b8f50241/9789a4dab0d2416381c8cbd1c3f6c018/1729924075.jpg",India vs New Zealand - 2nd Test - Day 3 - 1st Session Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1729934373~exp=1729934973~acl=/jcvod/video/cac/s18_indvsnz2024_2nd_test_day3_1stsess_hls_hindi_20241026/hindi/fhd/h264/stereo/1729924276/jiocinemanondrmdashiecis-dec2f82127b64860a13cea3bd36d4026/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=f2883d46-c447-4c89-8683-8367a18ff906~hmac=d047ad7036ab48aebf8ddbe7f57187ee0e2a6a059814d41f7d7c9bab7d6dad8f"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_2nd_test_day3_1stsess_hls_hindi_20241026/hindi/fhd/h264/stereo/1729924276/jiocinemanondrmdashiecis-dec2f82127b64860a13cea3bd36d4026/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4044809" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/2nd_test_nz_fall_of_wickets_horizontal_carousel-1729849720111.jpg",India vs New Zealand - 2nd Test - 2nd Innings - New Zealand Wickets
+#EXTHTTP:{"cookie":"hdnts=st=1729934375~exp=1729934975~acl=/jcvod/video/cac/s18_indvsnz2024_2nd_test_day2_2ndinng_nzfow_vod_hindi_20241025/hindi/fhd/h264/stereo/1729920572/jiocinemanondrmdashiecis-8d62e9ba844f4062a993ec5d23747a21/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=390ec74c-5dd6-475f-8716-962d643faefd~hmac=e7a38c47a5742da6e4e72a026e44758852941138d9c656abbb6155df8aa66c60"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_2nd_test_day2_2ndinng_nzfow_vod_hindi_20241025/hindi/fhd/h264/stereo/1729920572/jiocinemanondrmdashiecis-8d62e9ba844f4062a993ec5d23747a21/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4045299" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ind_vs_sa_t20i_squad_horizontal_carousel-1729917906786.jpg",India Squad Picked For 4 T20Is against South Africa
+#EXTHTTP:{"cookie":"hdnts=st=1729934377~exp=1729934977~acl=/jcvod/video/cac/s18_indvsnz2024_2nd_test_day3_savsind2024_vod_hindi_20241026/hindi/fhd/h264/stereo/1729915243/jiocinemanondrmdashiecis-06f10357288844218554843378cd6f64/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=16d0c6f7-0566-41d5-bdaa-2c98a0bf8626~hmac=a701643299b6567a3c0288ada391880aabf0171971e2ff38faf041e271f6f0a8"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_2nd_test_day3_savsind2024_vod_hindi_20241026/hindi/fhd/h264/stereo/1729915243/jiocinemanondrmdashiecis-06f10357288844218554843378cd6f64/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4045210" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/kbfc_vs_bfc_isl_highlights_horizontal_carousel-1729873362102.jpg",Kerala Blasters FC vs Bengaluru FC - Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1729934379~exp=1729934979~acl=/jcvod/video/cac/s18_isl_m33_kbfc_bfc_hls_hindi_20241025/hindi/fhd/h264/stereo/1729876729/jiocinemanondrmdashiecis-bae055e6adc644f9bdac665a818e48e2/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=1290b329-c6af-4406-8a6f-b66ea1e41a2b~hmac=396f957984bce453188b9a459c182d2a34b568fc7e92a671fe8f6d539a27d85c"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_isl_m33_kbfc_bfc_hls_hindi_20241025/hindi/fhd/h264/stereo/1729876729/jiocinemanondrmdashiecis-bae055e6adc644f9bdac665a818e48e2/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
