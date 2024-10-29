@@ -1,1 +1,42 @@
-Error decoding JSON file
+#EXTM3U
+#playlist by @yuvraj824
+
+#EXTINF:-1 tvg-id="4041105" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/3_odi_womens_ind_v_nz_live_horizontal_carousel-1730171969029.jpg",India Women vs New Zealand Women - 3rd ODI
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100307/hd_akamai_merged_avc_eng_cricket_m4_291024/mobile_master.m3u8
+
+#EXTINF:-1 tvg-id="4047568" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/odi_womens_ind_vs_nz_action_recap_horizontal_carousel-1730206328457.jpg",India Women vs New Zealand Women - 3rd ODI Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1730212723~exp=1730213323~acl=/jcvod/video/cac/s18_indwvsnzw_3rd_odi_hls_english_20241029/english/fhd/h264/stereo/1730211426/jiocinemanondrmdashiecis-b76e58e6f24f4e159c1a5324c546568f/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=9c03c6ec-9053-4158-ab8f-1848a9f8d0a3~hmac=1ce8ed9994f9ce106541d250f9cec86cc7cf088b26871c6df103f5c6068822e1"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indwvsnzw_3rd_odi_hls_english_20241029/english/fhd/h264/stereo/1730211426/jiocinemanondrmdashiecis-b76e58e6f24f4e159c1a5324c546568f/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4045785" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ipl_retention_special_live_horizontal_carousel-1730106072720.jpg",Experts Discuss TATA IPL 2025 Retention
+#EXTHTTP:{"cookie":"hdnts=st=1730212726~exp=1730213326~acl=/jcvod/video/cac/s18_ipl2025_retention_promo_vod_english_20241026/english/fhd/h264/stereo/1729946121/jiocinemanondrmdashiecis-05084c6d2c2b4490b9ae7e530714bd92/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=ef910f00-82e5-491b-9d54-963c8e0e97d0~hmac=66a2cc0fc844df8f5b680f3914261b219f7cb67c42d0235108298e350f83aa52"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_ipl2025_retention_promo_vod_english_20241026/english/fhd/h264/stereo/1729946121/jiocinemanondrmdashiecis-05084c6d2c2b4490b9ae7e530714bd92/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4047773" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/9ef6949d-616e-4900-9923-7335fdc102d6/efbca4a26cf74a0aa7456cd878b41cf9/1730203872.jpg",India Women vs New Zealand Women - Deepti Sharma's 3-39 vs New Zealand Women In 3rd ODI
+#EXTHTTP:{"cookie":"hdnts=st=1730212729~exp=1730213329~acl=/jcvod/video/cac/s18_indwvsnzw_3rd_odi_top_spell_deepti_vod_english_20241029/english/fhd/h264/stereo/1730204032/jiocinemanondrmdashiecis-8657a4ab5b61412ebeab14a3a11a1a02/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=505a2b90-8950-4ead-ac50-c3a04e52d2e2~hmac=cd2e7e5c5e3fda204b9035b2f169266f034569c9f1769b7a66b9dcb888bb2f6b"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indwvsnzw_3rd_odi_top_spell_deepti_vod_english_20241029/english/fhd/h264/stereo/1730204032/jiocinemanondrmdashiecis-8657a4ab5b61412ebeab14a3a11a1a02/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4047584" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/odi_womens_nz_fow_horizontal_carousel-1730193051218.jpg",India Women vs New Zealand Women - 3rd ODI - New Zealand Women Wickets
+#EXTHTTP:{"cookie":"hdnts=st=1730212732~exp=1730213332~acl=/jcvod/video/cac/s18_indwvsnzw_3rd_odi_nz_fow_english_20241029/english/fhd/h264/stereo/1730204374/jiocinemanondrmdashiecis-6808a1330a2b453db4305b861652de62/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=ee839d76-2ddd-4d7c-b1d2-a00066af1e99~hmac=9c82fb1c366f83bc446f3701db97dfaf002cc651c1fdb1dd3a9eb3afa20c7956"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indwvsnzw_3rd_odi_nz_fow_english_20241029/english/fhd/h264/stereo/1730204374/jiocinemanondrmdashiecis-6808a1330a2b453db4305b861652de62/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="3979890" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ipl_top_catches_carousel-1716590694563.jpg",TATA IPL 2024 Top 10 Catches
+#EXTHTTP:{"cookie":"hdnts=st=1730212734~exp=1730213334~acl=/jcvod/video/cac/s18_ipl2024_ss_top10_catches_vod_hin_20240524_ott/hindi/fhd/h264/stereo/1716588638/jiocinemanondrmdash-fe5d1aed25cb4ce28e6fb56157f0ccef/dash-web-premium-plain-a9b3bb9d2a6941b1b18622616fbad3dd/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=c6f7c3a8-10a7-40e0-a4db-c1eaf03b3fdb~hmac=c56169ba3e227e1abca496f4350256ccd43c5fcb0125802fb33629ecf3a502f3"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_ipl2024_ss_top10_catches_vod_hin_20240524_ott/hindi/fhd/h264/stereo/1716588638/jiocinemanondrmdash-fe5d1aed25cb4ce28e6fb56157f0ccef/dash-web-premium-plain-a9b3bb9d2a6941b1b18622616fbad3dd/master.mpd
+
+#EXTINF:-1 tvg-id="4047587" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/46366b46-6fbf-456c-8da0-0cb930953694/5113336280924f80ad906141940142f6/1730193623.jpg",Jharkhand vs Chandigarh - Day 4 - Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1730212737~exp=1730213337~acl=/jcvod/video/cac/s18_ranjitrophy_jhavscha_day3_hls_english_20241029/english/fhd/h264/stereo/1730193856/jiocinemanondrmdashiecis-3a0ac7f93969471997b419036d1e259b/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=b63ee137-bb28-43ca-a16f-bf90f9afad2b~hmac=f9fc258a87ecb4d09ca4b2ab69edbaf5253620b2aae5c559446cb5be11933cee"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_ranjitrophy_jhavscha_day3_hls_english_20241029/english/fhd/h264/stereo/1730193856/jiocinemanondrmdashiecis-3a0ac7f93969471997b419036d1e259b/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4046690" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/84bb68a4-28c3-41dd-9707-8c5634e9d792/224bc0d9c44a4c1dbdf30e66aa16a779/1730053735.jpg",ISL - Top Goals - Matchweek 6 ft. Alaeddine Ajaraie
+#EXTHTTP:{"cookie":"hdnts=st=1730212740~exp=1730213340~acl=/jcvod/video/cac/s18_isl_2024_week6_top_goals_vod_hindi_20241027/hindi/fhd/h264/stereo/1730053975/jiocinemanondrmdashiecis-2cca2b77b142434bb1e2514b39cca248/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=9ed38b25-e4da-4580-8cfb-19672dabd390~hmac=c2f9d7f0cfe1083c2784561622ef05129b074f338bfa328f7d00f0140adfe0a1"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_isl_2024_week6_top_goals_vod_hindi_20241027/hindi/fhd/h264/stereo/1730053975/jiocinemanondrmdashiecis-2cca2b77b142434bb1e2514b39cca248/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="3943703" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ipl_direct_hits_carousel-1716590094393.jpg",TATA IPL 2024 Best Direct-Hits
+#EXTHTTP:{"cookie":"hdnts=st=1730212745~exp=1730213345~acl=/bpkvod/jcsports/default/660f239989a3bfee128705ba_v2/660f239989a3bfee128705ba_v2/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=3df4f5e6-618d-494a-aa6e-9081f6dc10cf~hmac=337dcddd7e79d69d6eecfe18b1d13bcfa54add4eb2f0fa384758ee56edb6231a"}
+https://ak-mediavod.jiocinema.com/bpkvod/jcsports/default/660f239989a3bfee128705ba_v2/660f239989a3bfee128705ba_v2/index_sjc_web_premium.m3u8
+
+#EXTINF:-1 tvg-id="4045168" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/2nd_test_ind_vs_nz_full_match_hls_horizontal_carousel-1729947320202.jpg",India vs New Zealand - 2nd Test - Full Match Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1730212747~exp=1730213347~acl=/jcvod/video/cac/s18_indvsnz2024_2nd_test_fullmatch_hls_hindi_20241025/hindi/uhd/h264/stereo/1729953473/jiocinemauhdnondrmdashiecis-367c66da977d4ae488825b82ed44028d/dash-web-premium-plain-cc645a983d7242e9bf32537ff9b769e4/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=179e12bf-381d-4583-8360-2a26cceeec07~hmac=57cce62c65ad7103dd66f106372abebc8ddf71319e5556d244ffa6d8c327acce"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_2nd_test_fullmatch_hls_hindi_20241025/hindi/uhd/h264/stereo/1729953473/jiocinemauhdnondrmdashiecis-367c66da977d4ae488825b82ed44028d/dash-web-premium-plain-cc645a983d7242e9bf32537ff9b769e4/master.mpd
+
