@@ -1,1 +1,42 @@
-Service is not available between 10 PM and 8 AM IST
+#EXTM3U
+#playlist by @yuvraj824
+
+#EXTINF:-1 tvg-id="4033144" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ind_vs_nz_test_horizontal_carousel-1729493514057.jpg",India vs New Zealand - 3rd Test - Day 1
+https://prod-sports-hin-cf.jiocinema.com/hls/live/2100322/hd_akamai_iosmob_avc_hin_indvsnz_011124/master.m3u8
+
+#EXTINF:-1 tvg-id="4049514" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ipl_retention_revel_special_2025_live_horizontal_carousel-1730378031690.jpg",TATA IPL 2025 Retentions Revealed
+#EXTHTTP:{"cookie":"hdnts=st=1730430066~exp=1730430666~acl=/jcvod/video/cac/s18_ipl2025_retention_revealed_vod_hindi_20241031/hindi/fhd/h264/stereo/1730378130/jiocinemanondrmdashiecis-a5a68d6a3a674592bd079d0661f2fdc1/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=a43eee82-342f-4076-b946-d24dca38e9b7~hmac=2295cf95a4508dbbacacc158ef467b4b0ffdc1649d15b389646f3236b85f5f38"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_ipl2025_retention_revealed_vod_hindi_20241031/hindi/fhd/h264/stereo/1730378130/jiocinemanondrmdashiecis-a5a68d6a3a674592bd079d0661f2fdc1/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4049522" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mi_ipl_retention_special_2025_live_horizontal_carousel-1730382014774.jpg",TATA IPL 2025 - MI Retention Review
+#EXTHTTP:{"cookie":"hdnts=st=1730430068~exp=1730430668~acl=/jcvod/video/cac/s18_ipl2025_retention_mi_review_vod_hindi_20241031/hindi/fhd/h264/stereo/1730390731/jiocinemanondrmdashiecis-96e735bc7e3442f595b7a3733c5dcba1/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=82c2118e-63d4-4011-81ad-5b6fa970feb8~hmac=6b27f8cedb784ba3a483dc869b78d6652d680925c3a838b8e91fc6fd99150335"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_ipl2025_retention_mi_review_vod_hindi_20241031/hindi/fhd/h264/stereo/1730390731/jiocinemanondrmdashiecis-96e735bc7e3442f595b7a3733c5dcba1/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4049604" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/pfc_vs_cfc_isl_highlights_horizontal_carousel-1730393110877.jpg",Punjab FC vs Chennaiyin FC - Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1730430070~exp=1730430670~acl=/jcvod/video/cac/s18_isl_m38_pfc_cfc_hls_hindi_20241031/hindi/fhd/h264/stereo/1730392584/jiocinemanondrmdashiecis-083a8212b5314d939a1c67c0b79414ee/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=ac0b9485-484c-4164-bd00-f3b803134cfa~hmac=018faadcd9ee99447aa49f1ca8e73e457353a03e29bdff80b9a860386bae7dbd"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_isl_m38_pfc_cfc_hls_hindi_20241031/hindi/fhd/h264/stereo/1730392584/jiocinemanondrmdashiecis-083a8212b5314d939a1c67c0b79414ee/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4049203" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ind_vs_nz_pre_pc_gambhir_horizontal_carousel-1730363030911.jpg",India vs New Zealand - 3rd Test -  Gautam Gambhir Press Conference
+#EXTHTTP:{"cookie":"hdnts=st=1730430073~exp=1730430673~acl=/jcvod/video/cac/s18_indvsnz2024_3rd_test_pre_pc_gautam_vod_english_20241031/english/fhd/h264/stereo/1730362218/jiocinemanondrmdashiecis-7a1127444c4f470b9894b389f6470233/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=8014efac-bfd8-44fd-bd81-2a3bd8b01f46~hmac=519a97de7348a070468c6a5e35465a366f7896f725348a0d74f67da21c566a24"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_3rd_test_pre_pc_gautam_vod_english_20241031/english/fhd/h264/stereo/1730362218/jiocinemanondrmdashiecis-7a1127444c4f470b9894b389f6470233/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4049527" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/csk_ipl_retention_team_analysis_2025_live_horizontal_carousel-1730382536081.jpg",TATA IPL 2025 - CSK Retention Review
+#EXTHTTP:{"cookie":"hdnts=st=1730430076~exp=1730430676~acl=/jcvod/video/cac/s18_ipl2025_retention_csk_review_vod_hindi_20241031/hindi/fhd/h264/stereo/1730390675/jiocinemanondrmdashiecis-98b7a043a3ee4659be3de41e6cac03fc/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=60b109b1-49ec-46ca-9644-981a433c7abe~hmac=82ff2db31457b7c276adb1de205dc07506dd18d97e4a53298c8cedd26e4ddbc0"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_ipl2025_retention_csk_review_vod_hindi_20241031/hindi/fhd/h264/stereo/1730390675/jiocinemanondrmdashiecis-98b7a043a3ee4659be3de41e6cac03fc/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4049530" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/rcb_ipl_retention_team_analysis_2025_live_horizontal_carousel-1730383460457.jpg",TATA IPL 2025 - RCB Retention Review
+#EXTHTTP:{"cookie":"hdnts=st=1730430078~exp=1730430678~acl=/jcvod/video/cac/s18_ipl2025_retention_rcb_review_vod_hindi_20241031/hindi/fhd/h264/stereo/1730390634/jiocinemanondrmdashiecis-e9222fde8be34a53949a2c791afff68a/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=ff441de1-c7a3-4fd9-a99a-9e260b31676f~hmac=ab9bb40a9947c58251215dc3525dfebd4b036728e1d3740418129e1d448fc034"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_ipl2025_retention_rcb_review_vod_hindi_20241031/hindi/fhd/h264/stereo/1730390634/jiocinemanondrmdashiecis-e9222fde8be34a53949a2c791afff68a/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4049590" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/highest_bid_in_the_auction_horizontal_carousel-1730388235391.jpg",Who Will Bag The Highest Bid In TATA IPL 2025 Auction?
+#EXTHTTP:{"cookie":"hdnts=st=1730430081~exp=1730430681~acl=/jcvod/video/cac/s18_ipl2025_retention_higghest_bid_who_vod_english_20241031/english/fhd/h264/stereo/1730392021/jiocinemanondrmdashiecis-71537aa83de2483d8e3c1b7e03d78a68/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=4677e65b-2d60-4e5d-b850-d9fd2d7da041~hmac=2dcc46188ae2cddc5f2f8a0e7963bbae5d0baf4a4a01871a66a496b05524abff"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_ipl2025_retention_higghest_bid_who_vod_english_20241031/english/fhd/h264/stereo/1730392021/jiocinemanondrmdashiecis-71537aa83de2483d8e3c1b7e03d78a68/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="3900830" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/top_10_caught_bowled_carousel-1706735270871.jpg",IPL Mega Comps - Top 10 Caught And Bowled
+#EXTHTTP:{"cookie":"hdnts=st=1730430084~exp=1730430684~acl=/bpkvod/jcsports/default/65b8f65fba99a5ab0f992e35_v1/65b8f65fba99a5ab0f992e35_v1/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=6344c248-e2ea-4bcd-8f09-5461e4f26e60~hmac=804904679aa39341d13ef757f8ee02b0e6f82d2dbebaa65d01eefdd478b57427"}
+https://ak-mediavod.jiocinema.com/bpkvod/jcsports/default/65b8f65fba99a5ab0f992e35_v1/65b8f65fba99a5ab0f992e35_v1/index_sjc_web_premium.m3u8
+
+#EXTINF:-1 tvg-id="4049549" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/kkr_ipl_retention_team_analysis_2025_live_horizontal_carousel-1730383858331.jpg",TATA IPL 2025 - KKR Retention Review
+#EXTHTTP:{"cookie":"hdnts=st=1730430086~exp=1730430686~acl=/jcvod/video/cac/s18_ipl2025_retention_kkr_review_vod_hindi_20241031/hindi/fhd/h264/stereo/1730390686/jiocinemanondrmdashiecis-3edd4269e0254b5884372b4ede333bb5/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=a4c39b23-fc5a-4427-8335-234ef9849e0c~hmac=6079da448aff39a26ce16f87f0b6955e31ad17c69b3a846140350aa2fa6fb20a"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_ipl2025_retention_kkr_review_vod_hindi_20241031/hindi/fhd/h264/stereo/1730390686/jiocinemanondrmdashiecis-3edd4269e0254b5884372b4ede333bb5/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
