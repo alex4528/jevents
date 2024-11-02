@@ -1,1 +1,41 @@
-Error decoding JSON file
+#EXTM3U
+#playlist by @yuvraj824
+
+#EXTINF:-1 tvg-id="4024868" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/isl_2024_live_fcg_vs_bfc_horiozntal_carousel-1730520872948.jpg",FC Goa vs Bengaluru FC
+https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1021124/mobile_master.m3u8
+
+#EXTINF:-1 tvg-id="4050514" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/test_d2_ind_vs_nz_highlights_horizontal_carousel-1730547519975.jpg",India vs New Zealand - 3rd Test - Day 2 Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1730562441~exp=1730563041~acl=/jcvod/video/cac/s18_indvsnz2024_3rdtest_day2_hls_hindi_20241102/hindi/fhd/h264/stereo/1730548394/jiocinemanondrmdashiecis-214ba768e4b34cceb08ce29c3dcf3d53/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=5de0b3da-4036-460a-91e7-fac9b0dba8d0~hmac=0a37d78be7fbe0cf391f5b222268bc7fdfcff8a6c136a988a7f79d31851348ef"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_3rdtest_day2_hls_hindi_20241102/hindi/fhd/h264/stereo/1730548394/jiocinemanondrmdashiecis-214ba768e4b34cceb08ce29c3dcf3d53/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4050641" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/3rd_test_day_2_ind_vs_nz_fall_of_wickets_horizontal_carousel-1730541374432.jpg",India vs New Zealand - 3rd Test - 2nd Innings - New Zealand Wickets
+#EXTHTTP:{"cookie":"hdnts=st=1730562444~exp=1730563044~acl=/jcvod/video/cac/s18_indvsnz2024_3rdtest_day2_2ndinngs_nzfow_vod_hindi_20241102/hindi/fhd/h264/stereo/1730548554/jiocinemanondrmdashiecis-03d180ad79ce4654bed003cfd3d6862b/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=9042dc9f-fcb8-4bbb-9af1-f01d5e12c057~hmac=0d235162fb2cfcc73ec4aca510c9e068ee22faee9f47fbfc93c478f83bb411a9"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_3rdtest_day2_2ndinngs_nzfow_vod_hindi_20241102/hindi/fhd/h264/stereo/1730548554/jiocinemanondrmdashiecis-03d180ad79ce4654bed003cfd3d6862b/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4051087" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/d0d6b4d7-efb2-4e58-a29b-e19a3c0bf518/e1dbc03d1e0d4898a0a7bd06dc6f921c/1730559531.jpg",FC Goa vs Bengaluru FC - Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1730562447~exp=1730563047~acl=/jcvod/video/cac/s18_isl_m39_fcg_bfc_hls_hindi_20241102/hindi/fhd/h264/stereo/1730559717/jiocinemanondrmdashiecis-58da2997e5f2422bbb546766ea3dda72/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=e6dd7e78-4c1e-428b-96e5-04913a680945~hmac=33a76ca24d3004cab63cacb7fbdc30a50aee780c13c38d54166028db0a892c32"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_isl_m39_fcg_bfc_hls_hindi_20241102/hindi/fhd/h264/stereo/1730559717/jiocinemanondrmdashiecis-58da2997e5f2422bbb546766ea3dda72/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4049385" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/hylo_open_sf_horizontal_carousel-1730530046069.jpg",BWF Hylo Open - Semi-finals
+https://prod-sportsp-south.jiocinema.com/hls/live/2109981/hd_akamai_merged_avc_eng_bwf_m1_021124/mobile_master.m3u8
+
+#EXTINF:-1 tvg-id="4051063" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/31bc45a4-e662-4cb9-98f5-7b82699641d6/0ab5d4ceb43349acbf2fffcd6e14389e/1730556265.jpg",India vs New Zealand - 3rd Test - Day 2 - Shubman Gill Press Conference
+#EXTHTTP:{"cookie":"hdnts=st=1730562452~exp=1730563052~acl=/jcvod/video/cac/s18_indvsnz2024_3rdtest_day2_shubman_gill_pc_vod_english_20241102/english/fhd/h264/stereo/1730556423/jiocinemanondrmdashiecis-51b89b41fc4a4d738aef1b92b5848a03/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=72338323-bd73-4392-bbc9-b4699c606d16~hmac=b6c2cc68914054bda3a320c1c1e2bbbb21e656ca245d0218f68c32d33152ee02"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_3rdtest_day2_shubman_gill_pc_vod_english_20241102/english/fhd/h264/stereo/1730556423/jiocinemanondrmdashiecis-51b89b41fc4a4d738aef1b92b5848a03/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4050956" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/12a58086-e391-4bcb-8f15-7c958d6c981e/d476c64aaac94a36aed397240e2ba73e/1730551786.jpg",India vs New Zealand - Ravindra Jadeja's 4-52 vs New Zealand In 3rd Test
+#EXTHTTP:{"cookie":"hdnts=st=1730562454~exp=1730563054~acl=/jcvod/video/cac/s18_indvsnz2024_3rdtest_day2_top_spell_jadeja_vod_hindi_20241102/hindi/fhd/h264/stereo/1730551950/jiocinemanondrmdashiecis-5cdfef2134c64cefa5399b4461761827/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=0290347a-9c3c-4c92-951a-0a29f56a7925~hmac=8abf0864fbb9537bf6629e4944d566848f091ab2031f8252e7898768c30c47dc"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_3rdtest_day2_top_spell_jadeja_vod_hindi_20241102/hindi/fhd/h264/stereo/1730551950/jiocinemanondrmdashiecis-5cdfef2134c64cefa5399b4461761827/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4050564" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/e59489a0-d52d-42af-8955-e696a8a2076c/253b967516fe42b8812cbcb031bd97e5/1730532674.jpg",India vs New Zealand - Shubman Gill's 90 vs New Zealand In 3rd Test
+#EXTHTTP:{"cookie":"hdnts=st=1730562458~exp=1730563058~acl=/jcvod/video/cac/s18_indvsnz2024_3rdtest_day2_gillknock_vod_hindi_20241102/hindi/fhd/h264/stereo/1730535267/jiocinemanondrmdashiecis-268b6fbccf7c4b5d819352c443ff7af3/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=69a8a367-0a5a-4dc6-b6fe-eea60750df11~hmac=b2c015e172fd85db98fe77ba3570f8939837c4ba5804790fba804f62cd014130"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_3rdtest_day2_gillknock_vod_hindi_20241102/hindi/fhd/h264/stereo/1730535267/jiocinemanondrmdashiecis-268b6fbccf7c4b5d819352c443ff7af3/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4050951" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/5b81b5a6-10cd-435e-92cf-82ad5f778b2d/cf6d6bab4d184a5c8298111520f00e61/1730551774.jpg",India vs New Zealand - Ravichandran Ashwin's 3-63 vs New Zealand In 3rd Test
+#EXTHTTP:{"cookie":"hdnts=st=1730562460~exp=1730563060~acl=/jcvod/video/cac/s18_indvsnz2024_3rdtest_day2_top_spell_ashwin_vod_hindi_20241102/hindi/fhd/h264/stereo/1730551947/jiocinemanondrmdashiecis-a0814c7f450240e2859a4262c24cb105/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=a01f1101-d677-4768-bf59-312e3c959078~hmac=d424fe19a7e7fd4b9435c83624d1666c1e5fc0360d2127315ba283fcb5d7553b"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_3rdtest_day2_top_spell_ashwin_vod_hindi_20241102/hindi/fhd/h264/stereo/1730551947/jiocinemanondrmdashiecis-a0814c7f450240e2859a4262c24cb105/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="3923991" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jioimage/newcpp/65e747e063321a251bd3f2c4/65e747e063321a251bd3f2c4_1709656041232_aa.jpg",IPL Mega Comps - Top 10 Catches
+#EXTHTTP:{"cookie":"hdnts=st=1730562463~exp=1730563063~acl=/bpkvod/jcsports/default/65e747e063321a251bd3f2c4_v1/65e747e063321a251bd3f2c4_v1/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=7c034a18-da25-4dda-86d4-35ddce666647~hmac=d12e78e0d7f89845e2469b05bc14e50125fffa71cf352503a8d5569675bef630"}
+https://ak-mediavod.jiocinema.com/bpkvod/jcsports/default/65e747e063321a251bd3f2c4_v1/65e747e063321a251bd3f2c4_v1/index_sjc_web_premium.m3u8
+
