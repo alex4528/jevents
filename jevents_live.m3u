@@ -1,1 +1,41 @@
-Error decoding JSON file
+#EXTM3U
+#playlist by @yuvraj824
+
+#EXTINF:-1 tvg-id="4024876" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/isl_2024_live_neufc_vs_fcg_horiozntal_carousel-1730618464977.jpg",NorthEast United FC vs Odisha FC
+https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1031124/mobile_master.m3u8
+
+#EXTINF:-1 tvg-id="4051252" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/3rd_test_d3_ind_vs_nz_highlights_horizontal_carousel-1730620020461.jpg",India vs New Zealand - 3rd Test - Day 3 Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1730640702~exp=1730641302~acl=/jcvod/video/cac/s18_indvsnz2024_3rdtest_day3_hls_hindi_20241103/hindi/fhd/h264/stereo/1730620746/jiocinemanondrmdashiecis-c6ef2bda4aef4411a63389fb839b4588/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=fcf99721-970f-432b-96a5-d8a3d700bb86~hmac=14a5fdc7ed17d7aa71382a2a8c9d3f3618d9333e99859578dbec63eee6ab5ea8"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_3rdtest_day3_hls_hindi_20241103/hindi/fhd/h264/stereo/1730620746/jiocinemanondrmdashiecis-c6ef2bda4aef4411a63389fb839b4588/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4049386" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/hylo_open_final_horizontal_carousel-1730619227606.jpg",BWF Hylo Open - Finals
+https://prod-sportsp-south.jiocinema.com/hls/live/2109981/hd_akamai_merged_avc_eng_bwf_m1_031124/mobile_master.m3u8
+
+#EXTINF:-1 tvg-id="4051244" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/8ee89667-667b-4fac-958d-55231482488b/1a94de99b2c74738b1335698b763db99/1730610203.jpg",India vs New Zealand - 3rd Test - 2nd Innings - India Wickets
+#EXTHTTP:{"cookie":"hdnts=st=1730640707~exp=1730641307~acl=/jcvod/video/cac/s18_indvsnz2024_3rdtest_day3_2ndinngs_indfow_hindi_20241103/hindi/fhd/h264/stereo/1730620694/jiocinemanondrmdashiecis-b07769af8e924a04a2656c46da782fba/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=f563c2c8-5a7f-4229-89e0-19fa3e632c16~hmac=c08947cb4a803ec9e13e43ce277e11bb7a93b348f8ee80afe701ef9a70c8d494"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_3rdtest_day3_2ndinngs_indfow_hindi_20241103/hindi/fhd/h264/stereo/1730620694/jiocinemanondrmdashiecis-b07769af8e924a04a2656c46da782fba/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4051414" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/3rd_test_3d_rohit_pc_ind_vs_nz_horizontal_carousel-1730624179326.jpg",India vs New Zealand - 3rd Test - Day 3 - Rohit Sharma Press Conference
+#EXTHTTP:{"cookie":"hdnts=st=1730640710~exp=1730641310~acl=/jcvod/video/cac/s18_indvsnz2024_3rdtest_day3_rohitsharmapresser_english_20241103/english/fhd/h264/stereo/1730624435/jiocinemanondrmdashiecis-b8126f7b402741e1bbd2afd003d8bf7a/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=6d78fe63-89dc-4f56-87c0-3cc9fd386512~hmac=548df2a5adbc6784d5f87d691cfade1739861301727f19b2233be200ed41b69f"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_3rdtest_day3_rohitsharmapresser_english_20241103/english/fhd/h264/stereo/1730624435/jiocinemanondrmdashiecis-b8126f7b402741e1bbd2afd003d8bf7a/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4051099" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/3rd_test_d3_ind_vs_nz_ful_match_highlights_horizontal_carousel-1730639229897.jpg",India vs New Zealand - 3rd Test - Full Match Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1730640712~exp=1730641312~acl=/jcvod/video/cac/s18_indvsnz2024_3rdtest_fullmatch_hls_hindi_20241102/hindi/fhd/h264/stereo/1730637500/jiocinemanondrmdashiecis-9c251e3ccc27450db4ab7ad68cf6d4d5/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=2e18a4ed-87ad-40b4-959b-e6099cfc3491~hmac=758eac112bdd40653a261562c7b93bff93c56f89258ae2dd36324f16a9b746f5"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_3rdtest_fullmatch_hls_hindi_20241102/hindi/fhd/h264/stereo/1730637500/jiocinemanondrmdashiecis-9c251e3ccc27450db4ab7ad68cf6d4d5/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4051440" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/4002df44-b46e-4d40-b4dc-0efed83bcfb4/87cc77e87b2945eeaaf22e73b4784ced/1730625009.jpg",India vs New Zealand - 3rd Test - Player Of The Match - Ajaz Patel
+#EXTHTTP:{"cookie":"hdnts=st=1730640715~exp=1730641315~acl=/jcvod/video/cac/s18_indvsnz2024_3rdtest_potm_ajazpatel_hindi_20241103/hindi/fhd/h264/stereo/1730625425/jiocinemanondrmdashiecis-33c6c2d50e65449985aedc5e21b06b8d/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=e12d7b0d-3aa9-4c3a-acba-a61fa33d10e6~hmac=8c0308111b42f0cda6f1b469961d513c01b75b45cac87243bd859790b5a8351e"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_3rdtest_potm_ajazpatel_hindi_20241103/hindi/fhd/h264/stereo/1730625425/jiocinemanondrmdashiecis-33c6c2d50e65449985aedc5e21b06b8d/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4051285" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/3rd_test_d3_ind_vs_nz_pant_top_knocks_horizontal_carousel-1730615450018.jpg",India vs New Zealand - Rishabh Pant's 64 vs New Zealand In 3rd Test
+#EXTHTTP:{"cookie":"hdnts=st=1730640717~exp=1730641317~acl=/jcvod/video/cac/s18_indvsnz2024_3rdtest_day3_2ndinn_pantknock_hindi_20241103/hindi/fhd/h264/stereo/1730618294/jiocinemanondrmdashiecis-a7aa88f7ccf2406ea61d3ea3b6fb15a6/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=32005a97-0b8a-4e3e-9b93-604529691b12~hmac=010738b08e3ee38b10dbfe346dc885c9994ed1a68326418d798848276654a1d3"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_3rdtest_day3_2ndinn_pantknock_hindi_20241103/hindi/fhd/h264/stereo/1730618294/jiocinemanondrmdashiecis-a7aa88f7ccf2406ea61d3ea3b6fb15a6/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="3900831" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/top_10_direct_hits_horizontal_carousel-1725979506834.jpg",IPL Mega Comps - Top 10 Direct Hits
+#EXTHTTP:{"cookie":"hdnts=st=1730640720~exp=1730641320~acl=/bpkvod/jcsports/default/65b8f65f9e3246e85a70fe26_v2/65b8f65f9e3246e85a70fe26_v2/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=15bed025-2238-46c2-8ae2-164171fe6d48~hmac=72db26ca221096c4c13b06d1c1968be31a6d377af27dfbc4ed7c8f9d3a1b3918"}
+https://ak-mediavod.jiocinema.com/bpkvod/jcsports/default/65b8f65f9e3246e85a70fe26_v2/65b8f65f9e3246e85a70fe26_v2/index_sjc_web_premium.m3u8
+
+#EXTINF:-1 tvg-id="4051124" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/hylo_open_malvika_highlights_horizontal_carousel-1730604226280.jpg",BWF Hylo Open - Malvika Bansod vs Julie Dawall Jakobsen - Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1730640722~exp=1730641322~acl=/jcvod/video/cac/s18_bwf_hylo_open_ws_sf_bansod_hulie_hls_english_20241102/english/fhd/h264/stereo/1730568907/jiocinemanondrmdashiecis-de761387d1b642faad1bb5b2bc8d040d/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=a1660ad1-94fb-4298-bb43-fd84517f1fa0~hmac=b0fdf1f6e321b7b9b7c0ffb0ce3ae86c4b3d851074e44abb1c55dd18bfd579ea"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_bwf_hylo_open_ws_sf_bansod_hulie_hls_english_20241102/english/fhd/h264/stereo/1730568907/jiocinemanondrmdashiecis-de761387d1b642faad1bb5b2bc8d040d/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
