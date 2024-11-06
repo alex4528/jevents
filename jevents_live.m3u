@@ -1,1 +1,48 @@
-Error decoding JSON file
+#EXTM3U
+#playlist by @yuvraj824
+
+#EXTINF:-1 tvg-id="4046949" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ranji_trohy_haryana_vs_punjab_horizontal_carousel-1730861136099.jpg",Haryana vs Punjab - Day 1
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m3_061124/mobile_master.m3u8
+
+#EXTINF:-1 tvg-id="4051461" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/3rd_t20i_ind_vs_ban_best_partnership_clean_ctv-1728747366200.jpg",South Africa vs India - Insiders' Preview - Looking Ahead To SA T20I Series
+#EXTHTTP:{"cookie":"hdnts=st=1730867132~exp=1730867732~acl=/jcvod/video/cac/s18_indvsnz2024_3rdtest_insiderspreview_sa_t20series_english_20241103/english/fhd/h264/stereo/1730626711/jiocinemanondrmdashiecis-0455c7d555bd4597851afbb9328d5d6c/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=dbd46723-9baa-4879-afa8-511d1622cf50~hmac=9f645f196d3ad9d18debf662f36756f34cb3cf51fee52fc914a7ff2fddaee707"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_3rdtest_insiderspreview_sa_t20series_english_20241103/english/fhd/h264/stereo/1730626711/jiocinemanondrmdashiecis-0455c7d555bd4597851afbb9328d5d6c/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4051469" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/aus_vs_ind_experts_preview_clean_ctv-1730735510288.jpg",Australia vs India - Insiders' Preview - What India Need To Qualify For WTC Final
+#EXTHTTP:{"cookie":"hdnts=st=1730867135~exp=1730867735~acl=/jcvod/video/cac/s18_indvsnz2024_3rdtest_roadtowtcfinal_english_20241103/english/fhd/h264/stereo/1730626835/jiocinemanondrmdashiecis-56e401c5940a4127b09e8710cb0d0221/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=2a44bd05-3c30-4109-82d5-8c0c72c0a4f4~hmac=7cd20d10f0213895f220c98bcdd3fddfbd0318bfb446d9063ac2c4779b79966e"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_3rdtest_roadtowtcfinal_english_20241103/english/fhd/h264/stereo/1730626835/jiocinemanondrmdashiecis-56e401c5940a4127b09e8710cb0d0221/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4052603" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/76265e86-4fde-437f-acfc-81d799f5487d/583104f0bf4a44f0808317b48ac49fd2/1730746085.jpg",ISL - Top Goals - Matchweek 7 ft. Diego Mauricio
+#EXTHTTP:{"cookie":"hdnts=st=1730867138~exp=1730867738~acl=/jcvod/video/cac/s18_isl2024_top_goals_wk7_mauricio_vod_hindi_20241104/hindi/fhd/h264/stereo/1730746249/jiocinemanondrmdashiecis-38597eb2785c41e8ae29a24550960f96/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=f21a9254-f1b5-464f-be0a-b6509ece94e9~hmac=944ce0870f6e5350e933ef5d26f27b9b1c66d04f4ba345a021d8cf23faf3bb54"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_isl2024_top_goals_wk7_mauricio_vod_hindi_20241104/hindi/fhd/h264/stereo/1730746249/jiocinemanondrmdashiecis-38597eb2785c41e8ae29a24550960f96/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4051099" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/3rd_test_d3_ind_vs_nz_ful_match_highlights_horizontal_carousel-1730639229897.jpg",India vs New Zealand - 3rd Test - Full Match Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1730867141~exp=1730867741~acl=/jcvod/video/cac/s18_indvsnz2024_3rdtest_fullmatch_hls_hindi_20241102/hindi/fhd/h264/stereo/1730640779/jiocinemanondrmdashiecis-1b217417751c4d4c9bf7b20e4169af4b/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=81cc54f9-fa88-476e-8403-3124894c649a~hmac=7e797be9d8c38aa2777c96735a33cad90d1405b66d0896d61af32016cf9070f6"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_3rdtest_fullmatch_hls_hindi_20241102/hindi/fhd/h264/stereo/1730640779/jiocinemanondrmdashiecis-1b217417751c4d4c9bf7b20e4169af4b/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4052391" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/jfc_vs_cfc_isl_highlights_horizontal_carousel-1730740720118.jpg",Jamshedpur FC vs Chennaiyin FC - Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1730867143~exp=1730867743~acl=/jcvod/video/cac/s18_isl2024_m42_jfc_vs_cfc_hls_hindi_20241104/hindi/fhd/h264/stereo/1730738506/jiocinemanondrmdashiecis-11c84d942558443cba64fd12a12d9831/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=a63884ed-398a-4ed6-8a6e-710be7e6470e~hmac=a2188f9a1cd016d02d9c91757d08fdfeae5b7ccb3f72a9e239bfb2ee9681eab4"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_isl2024_m42_jfc_vs_cfc_hls_hindi_20241104/hindi/fhd/h264/stereo/1730738506/jiocinemanondrmdashiecis-11c84d942558443cba64fd12a12d9831/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4052510" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ajaz_patel_ind_vs_nz_inside_out_horizontal_carousel-1730822525088.jpg",Inside Out ft. Ajaz Patel - Interview
+#EXTHTTP:{"cookie":"hdnts=st=1730867146~exp=1730867746~acl=/jcvod/video/cac/s18_indvnz_test_inside_out_ajaz_patel_vod_english_20241104/english/fhd/h264/stereo/1730795811/jiocinemanondrmdashiecis-d5369083b95140e9b7e8f0196c783eea/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=881658a3-9441-41f4-b4d5-e7e5ad4b3d8e~hmac=4aa67dd51cbba7f7669072214de8a34799bf04c9fbe2050e5789d2e91466fbfb"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvnz_test_inside_out_ajaz_patel_vod_english_20241104/english/fhd/h264/stereo/1730795811/jiocinemanondrmdashiecis-d5369083b95140e9b7e8f0196c783eea/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4052617" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/in_the_stands_dimitri_horizontal_carousel-1730789677989.jpg",In The Stands ft. Dimitri Petratos
+#EXTHTTP:{"cookie":"hdnts=st=1730867149~exp=1730867749~acl=/jcvod/video/cac/s18_isl2024_in_the_stands_petratos_vod_english_20241104/english/fhd/h264/stereo/1730747008/jiocinemanondrmdashiecis-f987f246519f42e5b61ef84eb30c9b60/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=7dd33903-aeef-48d6-b3ee-2cb1e79ac36e~hmac=2771e127744ce30dc8150a1bd3b1f40767a9133f550c138dcafe8b2e9da35b29"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_isl2024_in_the_stands_petratos_vod_english_20241104/english/fhd/h264/stereo/1730747008/jiocinemanondrmdashiecis-f987f246519f42e5b61ef84eb30c9b60/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="3901368" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/top_10_horizontal_carousel-1726043055858.jpg",IPL Mega Comps - Top 10 Fastest 50s
+#EXTHTTP:{"cookie":"hdnts=st=1730867152~exp=1730867752~acl=/bpkvod/jcsports/default/65b941fec8ddb720d3afcfda_v2/65b941fec8ddb720d3afcfda_v2/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=667f3b1b-4f7e-428f-b7b9-13eb61033a49~hmac=94364b4354713cd968f9accc3504a15505af7f4007596747dd229eb842ba2c7f"}
+https://ak-mediavod.jiocinema.com/bpkvod/jcsports/default/65b941fec8ddb720d3afcfda_v2/65b941fec8ddb720d3afcfda_v2/index_sjc_web_premium.m3u8
+
+#EXTINF:-1 tvg-id="4051414" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/3rd_test_3d_rohit_pc_ind_vs_nz_horizontal_carousel-1730624179326.jpg",India vs New Zealand - 3rd Test - Day 3 - Rohit Sharma Press Conference
+#EXTHTTP:{"cookie":"hdnts=st=1730867154~exp=1730867754~acl=/jcvod/video/cac/s18_indvsnz2024_3rdtest_day3_rohitsharmapresser_english_20241103/english/fhd/h264/stereo/1730624435/jiocinemanondrmdashiecis-b8126f7b402741e1bbd2afd003d8bf7a/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=74719e60-3f5f-48b4-9409-85001829745c~hmac=1806290ea159f11762d75b03aef13bc31486fef9411a5c617d548e5320053931"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_3rdtest_day3_rohitsharmapresser_english_20241103/english/fhd/h264/stereo/1730624435/jiocinemanondrmdashiecis-b8126f7b402741e1bbd2afd003d8bf7a/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4046948" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ranji_trohy_mah_vs_ser_horizontal_carousel-1730802604059.jpg",Maharashtra vs Services - Day 1
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m2_061124/mobile_master.m3u8
+
+#EXTINF:-1 tvg-id="4046947" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ranji_trohy_raj_vs_hyd_horizontal_carousel-1730802407571.jpg",Rajasthan vs Hyderabad - Day 1
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m1_061124/mobile_master.m3u8
+
