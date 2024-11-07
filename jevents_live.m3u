@@ -1,1 +1,42 @@
-Error decoding JSON file
+#EXTM3U
+#playlist by @yuvraj824
+
+#EXTINF:-1 tvg-id="4024908" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/isl_2024_live_kbfc_vs_hfc_horiozntal_carousel-1730967444760.jpg",Kerala Blasters FC vs Hyderabad FC
+https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1071124/mobile_master.m3u8
+
+#EXTINF:-1 tvg-id="4053562" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sa_ind_t20_tomorrow_horizontal_carousel-1730978760051.jpg",South Africa vs India - T20I Series Preview
+#EXTHTTP:{"cookie":"hdnts=st=1730990840~exp=1730991440~acl=/jcvod/video/cac/s18_rsavsind2024_1stt20i_preview_vod_hindi_20241106/hindi/fhd/h264/stereo/1730988331/jiocinemanondrmdashiecis-563cc26a362541aaba1b951aa9bee623/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=e7581008-3ad8-4296-a85f-3965ea2499d6~hmac=95cb9eae44fa1da84d31281fdd7abef9dafb321466c7e7230cd3bc6c2d150b84"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_rsavsind2024_1stt20i_preview_vod_hindi_20241106/hindi/fhd/h264/stereo/1730988331/jiocinemanondrmdashiecis-563cc26a362541aaba1b951aa9bee623/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4053968" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/wpl_mi_retention_team_analysis_2025_live_horizontal_carousel-1730984253283.jpg",TATA WPL 2025 - MI Retention Analysis
+#EXTHTTP:{"cookie":"hdnts=st=1730990842~exp=1730991442~acl=/jcvod/video/cac/s18_wpl2025_retention_mi_review_vod_english_20241107/english/fhd/h264/stereo/1730982261/jiocinemanondrmdashiecis-27956ab21d9d435e9fab22275051e7bd/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=341729dc-37bd-47e8-8de2-3832ca24b501~hmac=b675e36cfc675186d7a2ed6a85e578d734a58c42f438e603001a895aad8c3bc1"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_wpl2025_retention_mi_review_vod_english_20241107/english/fhd/h264/stereo/1730982261/jiocinemanondrmdashiecis-27956ab21d9d435e9fab22275051e7bd/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4053959" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/3babeb0c-dc3b-4c26-a61b-75e4353bebb6/c9c7b1f26b0f472dace36c6289c89b4c/1730980698.jpg",Haryana vs Punjab - Day 2 - Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1730990845~exp=1730991445~acl=/jcvod/video/cac/s18_ranji_har_vs_punj_day2_hls_english_20241107/english/fhd/h264/stereo/1730981097/jiocinemanondrmdashiecis-ae9ab826c20342189abba8c6c333f649/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=ef403573-235a-408d-9d42-34565023753e~hmac=bc3104e99c59b4db66bff46635d6fb0b9bda4f9ac49cafdf11c407dbb3c43db7"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_ranji_har_vs_punj_day2_hls_english_20241107/english/fhd/h264/stereo/1730981097/jiocinemanondrmdashiecis-ae9ab826c20342189abba8c6c333f649/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4053962" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/wpl_rcb_retention_team_analysis_2025_live_horizontal_carousel_2-1730983763357.jpg",TATA WPL 2025 - RCB Retention Analysis
+#EXTHTTP:{"cookie":"hdnts=st=1730990848~exp=1730991448~acl=/jcvod/video/cac/s18_wpl2025_retention_rcb_review_vod_hindi_20241107/hindi/fhd/h264/stereo/1730981631/jiocinemanondrmdashiecis-d734d30f56ae4100b10cc93fdf229259/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=52fd6564-d4af-439d-b6b3-0e6d9a5e56f0~hmac=feb64436b9915ad4fe57393be95e8198b6cd8c3aedae1133a1cd12eeed9cbd47"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_wpl2025_retention_rcb_review_vod_hindi_20241107/hindi/fhd/h264/stereo/1730981631/jiocinemanondrmdashiecis-d734d30f56ae4100b10cc93fdf229259/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4053992" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/wpl_dc_retention_team_analysis_2025_live_horizontal_carousel-1730984379519.jpg",TATA WPL 2025 - DC Retention Analysis
+#EXTHTTP:{"cookie":"hdnts=st=1730990851~exp=1730991451~acl=/jcvod/video/cac/s18_wpl2025_retention_dc_review_vod_english_20241107/english/fhd/h264/stereo/1730983605/jiocinemanondrmdashiecis-b64e8e3534b74162954fb7f913b972e0/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=fa4fed43-f822-4c0e-affe-f2c3d21e4cfd~hmac=af8a99e49890f1c155eba88c07c5345dc67ed1c8728f94cbbeb694edaad58184"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_wpl2025_retention_dc_review_vod_english_20241107/english/fhd/h264/stereo/1730983605/jiocinemanondrmdashiecis-b64e8e3534b74162954fb7f913b972e0/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4054059" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/11025765-89fd-4c02-a7b4-56ad7b9e19f6/35d13a657a8f4b70bd04364a5f313985/1730985599.jpg",South Africa vs India - In Conversation With Sanju Samson
+#EXTHTTP:{"cookie":"hdnts=st=1730990853~exp=1730991453~acl=/jcvod/video/cac/s18_sa_ind_jc_intv_ft_sanju_samson_vod_english_20241107/english/fhd/h264/stereo/1730985759/jiocinemanondrmdashiecis-a1fd1bced5e34696bd662778b12c9410/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=397e7116-0ca9-46ff-a17f-33ca3c2272ff~hmac=5115b7542c852ecc3cba759aa6f0b224615b9b36e9684161100e2d5c3189ac0f"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_sa_ind_jc_intv_ft_sanju_samson_vod_english_20241107/english/fhd/h264/stereo/1730985759/jiocinemanondrmdashiecis-a1fd1bced5e34696bd662778b12c9410/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="4053960" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/0205ebc2-40e1-4bca-aae3-1d6a761a0d51/005db252bae64a998225110b0627e3d3/1730980707.jpg",Maharashtra vs Services - Day 2 - Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1730990858~exp=1730991458~acl=/jcvod/video/cac/s18_ranji_mah_vs_ser_day2_hls_english_20241107/english/fhd/h264/stereo/1730980970/jiocinemanondrmdashiecis-94279819e41d463abf4cc16daed62801/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=4c2e3772-050a-41b6-a0f4-6ad2956618fd~hmac=7e7cabcdaa8cec9c86f04a3ef3eeeb0f0451978ebff95c7e2e46121d186f4454"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_ranji_mah_vs_ser_day2_hls_english_20241107/english/fhd/h264/stereo/1730980970/jiocinemanondrmdashiecis-94279819e41d463abf4cc16daed62801/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
+#EXTINF:-1 tvg-id="3940727" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jioimage/newcpp/660bda7ad757d0338cfee84e/660bda7ad757d0338cfee84e_1712052878957_aa.jpg",In The Nets ft. Maxwell
+#EXTHTTP:{"cookie":"hdnts=st=1730990860~exp=1730991460~acl=/bpkvod/jcsports/default/660bda7ad757d0338cfee84e_v1/660bda7ad757d0338cfee84e_v1/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=d6aa26d5-3344-45cd-9c90-0ec68db2fff9~hmac=501880d51f7aec0f20cb12324601c661588014d948a8df8a203c8a9ce52dd7b9"}
+https://ak-mediavod.jiocinema.com/bpkvod/jcsports/default/660bda7ad757d0338cfee84e_v1/660bda7ad757d0338cfee84e_v1/index_sjc_web_premium.m3u8
+
+#EXTINF:-1 tvg-id="4051461" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sa_vs_ind_promo_clean_ctv-1730894597181.jpg",South Africa vs India - Insiders' Preview - Looking Ahead To SA T20I Series
+#EXTHTTP:{"cookie":"hdnts=st=1730990863~exp=1730991463~acl=/jcvod/video/cac/s18_indvsnz2024_3rdtest_insiderspreview_sa_t20series_english_20241103/english/fhd/h264/stereo/1730626711/jiocinemanondrmdashiecis-0455c7d555bd4597851afbb9328d5d6c/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=10d23b0f-ddff-4dd9-8e13-c974e0308826~hmac=cd17c0564f0bb3aac85e144fa40183e29c25d7e5db3e162618110eddfa31e83c"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsnz2024_3rdtest_insiderspreview_sa_t20series_english_20241103/english/fhd/h264/stereo/1730626711/jiocinemanondrmdashiecis-0455c7d555bd4597851afbb9328d5d6c/dash-web-premium-plain-999ce03f863c49fc8f77191e447f2913/master.mpd
+
