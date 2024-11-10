@@ -1,1 +1,37 @@
-Error decoding JSON file
+#EXTM3U
+#playlist by @yuvraj824
+
+#EXTINF:-1 tvg-id="4052273" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sa_v_ind_t20_live_horizontal_carousel-1730809519595.jpg",South Africa vs India - 2nd T20I
+https://prod-sportsp-hin-m.jiocinema.com/v1/master/ffdfae0224d40a4388960cf2d684c29838df6555/prod-ssai-emt-with-cache-moloco-dolby/hls/live/2100324/uhd__akamai__ctv__avc__ssaispot__indvssa__hin__m1__101124__5d882b6b-a27f-456c-bec2-abd8ed895cf2/master.m3u8
+
+#EXTINF:-1 tvg-id="4024940" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/isl_2024_live_ofc_vs_mbsc_horiozntal_carousel-1731210403173.jpg",Odisha FC vs Mohun Bagan Super Giant
+https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1101124/tv_master.m3u8
+
+#EXTINF:-1 tvg-id="4055273" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/m47_ebfc_vs_msc_isl_highlights_horizontal_carousel-1731165577918.jpg",East Bengal FC vs Mohammedan SC - Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1731248194~exp=1731248794~acl=/jcvod/video/cac/s18_isl2024_m47_ebfc_vs_msc_hls_hindi_20241109/hindi/fhd/h264/stereo/1731170125/jiocinemanondrmdashiecis-e004e9b9ae09412ab8822f2a8516b4d4/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=80a66ff5-99a1-4d82-b24a-d758a1856120~hmac=690cabfec958c595e57d69db80b80a5b4239d3a20242e4572e39c11c6a2031ab"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_isl2024_m47_ebfc_vs_msc_hls_hindi_20241109/hindi/fhd/h264/stereo/1731170125/jiocinemanondrmdashiecis-e004e9b9ae09412ab8822f2a8516b4d4/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
+#EXTINF:-1 tvg-id="4054600" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/1_t20_sa_ind_highlights_horizontal_carousel-1731092504023.jpg",South Africa vs India  - 1st T20I Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1731248196~exp=1731248796~acl=/jcvod/video/cac/s18_sa_vs_ind_1stt20_hls_hindi_20241108/hindi/uhd/h264/stereo/1731144914/jiocinemauhdnondrmdashiecis-a6002333b01e49e485bcde931b006372/dash-tv-premium-plain-b9808e5ea1aa462b9970adca4a666b41/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=9dc248f2-90a2-43bf-9f85-a07d160cb5a7~hmac=659300ad99c2b549cc79254681f3ecb11b266e5cbc49bf910a7795bd36ac43fd"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_sa_vs_ind_1stt20_hls_hindi_20241108/hindi/uhd/h264/stereo/1731144914/jiocinemauhdnondrmdashiecis-a6002333b01e49e485bcde931b006372/dash-tv-premium-plain-b9808e5ea1aa462b9970adca4a666b41/master.mpd
+
+#EXTINF:-1 tvg-id="4054862" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/ee64c490-2719-40da-bf4a-79e58fe64a86/6f5c843779d94c50a1471f0d35b14749/1731095565.jpg",South Africa vs India - 1st T20I - Player Of The Day ft. Sanju Samson
+#EXTHTTP:{"cookie":"hdnts=st=1731248198~exp=1731248798~acl=/jcvod/video/cac/s18_sa_vs_ind_1stt20_player_of_day_sanju_vod_hindi_20241109/hindi/fhd/h264/stereo/1731095881/jiocinemanondrmdashiecis-3a699e0e11754395a6509f6373160eaf/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=c2112f5a-8d4b-4dda-8c3c-00da77b109c6~hmac=d03fa79ebde876aebd0a7f5c8c22005f800882ece8c047cc61b8040048e93f38"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_sa_vs_ind_1stt20_player_of_day_sanju_vod_hindi_20241109/hindi/fhd/h264/stereo/1731095881/jiocinemanondrmdashiecis-3a699e0e11754395a6509f6373160eaf/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
+#EXTINF:-1 tvg-id="3900835" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/top_10_bouncers_carousel-1706624186537.jpg",IPL Mega Comps - Top 10 Bouncers
+#EXTHTTP:{"cookie":"hdnts=st=1731248201~exp=1731248801~acl=/bpkvod/jcsports/default/65b8f6af93225b0568e840f0_v1/65b8f6af93225b0568e840f0_v1/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=a2407a71-7ccd-429a-af72-60a4991f0358~hmac=c4e0eb935d2cac162aeeaf42ba6100bc4f00fb13fb712504f1d3ab2548289a08"}
+https://ak-mediavod.jiocinema.com/bpkvod/jcsports/default/65b8f6af93225b0568e840f0_v1/65b8f6af93225b0568e840f0_v1/index_sjc_androidtv_premium.m3u8
+
+#EXTINF:-1 tvg-id="4055089" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/isl_cfc_vs_mcfc_highlights_horizontal_carousel-1731159666349.jpg",Chennaiyin FC vs Mumbai City FC - Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1731248203~exp=1731248803~acl=/jcvod/video/cac/s18_isl2024_m46_cfc_vs_mcfc_hls_hindi_20241109/hindi/fhd/h264/stereo/1731162582/jiocinemanondrmdashiecis-ac0bae9a47fa4b4cbf6fdc763d95f79f/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=c6057a43-a4c7-4da7-9882-7f5056dabf30~hmac=a649503175a570e8949027871e7092603836be643ad9fc1778dd95e6c724c25d"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_isl2024_m46_cfc_vs_mcfc_hls_hindi_20241109/hindi/fhd/h264/stereo/1731162582/jiocinemanondrmdashiecis-ac0bae9a47fa4b4cbf6fdc763d95f79f/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
+#EXTINF:-1 tvg-id="4055548" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mumbai_vs_uttarakhand_wommens_sr_highlights_horizontal_carousel-1731234709846.jpg",Mumbai vs Uttarakhand - Semi-Final 1 - Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1731248205~exp=1731248805~acl=/jcvod/video/cac/s18_senior_womens_t20_mumbai_vs_uttarakhan_hls_english_20241110/english/fhd/h264/stereo/1731234190/jiocinemanondrmdashiecis-98e704ec05d8403881a9ae599753aaba/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=1cf86eb6-5339-4b9f-aea9-3616f2451997~hmac=9f534194a828be6b27cd966b9c0b6b87ca839deddcacff78a8c4ec7a777b710f"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_senior_womens_t20_mumbai_vs_uttarakhan_hls_english_20241110/english/fhd/h264/stereo/1731234190/jiocinemanondrmdashiecis-98e704ec05d8403881a9ae599753aaba/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
+#EXTINF:-1 tvg-id="4054780" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/59bd06e3-78fa-49e7-ae45-37e1310301ee/c2a37560fc204d68bd891ad6ab6f436a/1731091403.jpg",South Africa vs India - Varun Chakaravarthy's 3-25 vs South Africa In 1st T20I
+#EXTHTTP:{"cookie":"hdnts=st=1731248208~exp=1731248808~acl=/jcvod/video/cac/s18_sa_vs_ind_1stt20_top_spell_varun_vod_hindi_20241108/hindi/fhd/h264/stereo/1731091560/jiocinemanondrmdashiecis-892c399c40884ca789c15122d0ec63ef/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=5c5796d7-c31c-47f1-9fb1-3650b7358ca0~hmac=d2654e6793ed1eb02a7314f92ebc3b47ef148420c529aad4b35df83ae92f396d"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_sa_vs_ind_1stt20_top_spell_varun_vod_hindi_20241108/hindi/fhd/h264/stereo/1731091560/jiocinemanondrmdashiecis-892c399c40884ca789c15122d0ec63ef/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
