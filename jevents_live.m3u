@@ -1,1 +1,41 @@
-Error decoding JSON file
+#EXTM3U
+#playlist by @yuvraj824
+
+#EXTINF:-1 tvg-id="4052273" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sa_v_ind_t20_live_horizontal_carousel-1730809519595.jpg",South Africa vs India - 2nd T20I
+https://prod-sportsp-hin-m.jiocinema.com/v1/master/ffdfae0224d40a4388960cf2d684c29838df6555/prod-ssai-emt-with-cache-moloco-dolby/hls/live/2100324/uhd__akamai__ctv__avc__ssaispot__indvssa__hin__m1__101124__5d882b6b-a27f-456c-bec2-abd8ed895cf2/master.m3u8
+
+#EXTINF:-1 tvg-id="4055285" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sr_womens_t20_trophy_himachal_pradesh_vs_bengal_horizontal_carousel-1731168902163.jpg",Himachal Pradesh vs Bengal
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100307/hd_akamai_merged_avc_eng_cricket_m6_101124/tv_master.m3u8
+
+#EXTINF:-1 tvg-id="4055273" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/m47_ebfc_vs_msc_isl_highlights_horizontal_carousel-1731165577918.jpg",East Bengal FC vs Mohammedan SC - Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1731242141~exp=1731242741~acl=/jcvod/video/cac/s18_isl2024_m47_ebfc_vs_msc_hls_hindi_20241109/hindi/fhd/h264/stereo/1731170125/jiocinemanondrmdashiecis-e004e9b9ae09412ab8822f2a8516b4d4/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=ea3fcbb8-85dd-43ec-afe8-1aef340e4e68~hmac=fd384c8342e9d031b47726a52b11dde825900ef767fa0dccb364ffcbd95bb3bf"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_isl2024_m47_ebfc_vs_msc_hls_hindi_20241109/hindi/fhd/h264/stereo/1731170125/jiocinemanondrmdashiecis-e004e9b9ae09412ab8822f2a8516b4d4/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
+#EXTINF:-1 tvg-id="4054600" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/1_t20_sa_ind_highlights_horizontal_carousel-1731092504023.jpg",South Africa vs India  - 1st T20I Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1731242143~exp=1731242743~acl=/jcvod/video/cac/s18_sa_vs_ind_1stt20_hls_hindi_20241108/hindi/uhd/h264/stereo/1731144914/jiocinemauhdnondrmdashiecis-a6002333b01e49e485bcde931b006372/dash-tv-premium-plain-b9808e5ea1aa462b9970adca4a666b41/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=cbdc5ee6-5fc2-4a63-abd4-d0b81e6085c7~hmac=71c57049393c47a2dfdb0eb898277c7cf9df3353be64262b42eb78904da17967"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_sa_vs_ind_1stt20_hls_hindi_20241108/hindi/uhd/h264/stereo/1731144914/jiocinemauhdnondrmdashiecis-a6002333b01e49e485bcde931b006372/dash-tv-premium-plain-b9808e5ea1aa462b9970adca4a666b41/master.mpd
+
+#EXTINF:-1 tvg-id="4054862" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/ee64c490-2719-40da-bf4a-79e58fe64a86/6f5c843779d94c50a1471f0d35b14749/1731095565.jpg",South Africa vs India - 1st T20I - Player Of The Day ft. Sanju Samson
+#EXTHTTP:{"cookie":"hdnts=st=1731242145~exp=1731242745~acl=/jcvod/video/cac/s18_sa_vs_ind_1stt20_player_of_day_sanju_vod_hindi_20241109/hindi/fhd/h264/stereo/1731095881/jiocinemanondrmdashiecis-3a699e0e11754395a6509f6373160eaf/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=9ed15b0e-a1d2-45a5-8b44-b052eb4f8ec8~hmac=21c8e7eca2bead14c8323b068e21627ad10477a0de798f0b579212c007719fdd"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_sa_vs_ind_1stt20_player_of_day_sanju_vod_hindi_20241109/hindi/fhd/h264/stereo/1731095881/jiocinemanondrmdashiecis-3a699e0e11754395a6509f6373160eaf/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
+#EXTINF:-1 tvg-id="3900835" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/top_10_bouncers_carousel-1706624186537.jpg",IPL Mega Comps - Top 10 Bouncers
+#EXTHTTP:{"cookie":"hdnts=st=1731242148~exp=1731242748~acl=/bpkvod/jcsports/default/65b8f6af93225b0568e840f0_v1/65b8f6af93225b0568e840f0_v1/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=007e03a4-f94b-4da3-859e-e7c494fd0972~hmac=44a8d774b8541f0d242a56ae17c9b6270a20480591ed5cae19a39e6d767d49c0"}
+https://ak-mediavod.jiocinema.com/bpkvod/jcsports/default/65b8f6af93225b0568e840f0_v1/65b8f6af93225b0568e840f0_v1/index_sjc_androidtv_premium.m3u8
+
+#EXTINF:-1 tvg-id="4055089" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/isl_cfc_vs_mcfc_highlights_horizontal_carousel-1731159666349.jpg",Chennaiyin FC vs Mumbai City FC - Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1731242150~exp=1731242750~acl=/jcvod/video/cac/s18_isl2024_m46_cfc_vs_mcfc_hls_hindi_20241109/hindi/fhd/h264/stereo/1731162582/jiocinemanondrmdashiecis-ac0bae9a47fa4b4cbf6fdc763d95f79f/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=60325da5-0aa1-403a-a17a-2d016635da23~hmac=289b42dcfc0e8d5faeddfb0e9405a4eb00eb5cc3c6383c91599bc942972e5d00"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_isl2024_m46_cfc_vs_mcfc_hls_hindi_20241109/hindi/fhd/h264/stereo/1731162582/jiocinemanondrmdashiecis-ac0bae9a47fa4b4cbf6fdc763d95f79f/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
+#EXTINF:-1 tvg-id="4055548" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mumbai_vs_uttarakhand_wommens_sr_highlights_horizontal_carousel-1731234709846.jpg",Mumbai vs Uttarakhand - Semi-Final 1 - Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1731242152~exp=1731242752~acl=/jcvod/video/cac/s18_senior_womens_t20_mumbai_vs_uttarakhan_hls_english_20241110/english/fhd/h264/stereo/1731234190/jiocinemanondrmdashiecis-98e704ec05d8403881a9ae599753aaba/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=0dea6e9f-34ed-4165-a737-b9f771791e37~hmac=bb8a78c6d942086ccfe088d09473edf09645f6bfa40636bda8cc9018356ebe72"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_senior_womens_t20_mumbai_vs_uttarakhan_hls_english_20241110/english/fhd/h264/stereo/1731234190/jiocinemanondrmdashiecis-98e704ec05d8403881a9ae599753aaba/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
+#EXTINF:-1 tvg-id="4054780" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/59bd06e3-78fa-49e7-ae45-37e1310301ee/c2a37560fc204d68bd891ad6ab6f436a/1731091403.jpg",South Africa vs India - Varun Chakaravarthy's 3-25 vs South Africa In 1st T20I
+#EXTHTTP:{"cookie":"hdnts=st=1731242155~exp=1731242755~acl=/jcvod/video/cac/s18_sa_vs_ind_1stt20_top_spell_varun_vod_hindi_20241108/hindi/fhd/h264/stereo/1731091560/jiocinemanondrmdashiecis-892c399c40884ca789c15122d0ec63ef/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=b37694ae-ca10-4b68-a5d2-dc80ad5bedd3~hmac=2c496ac7bd3d7027164f890cbf1faa5d280315c28e122b4298baf5d0ddbefdef"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_sa_vs_ind_1stt20_top_spell_varun_vod_hindi_20241108/hindi/fhd/h264/stereo/1731091560/jiocinemanondrmdashiecis-892c399c40884ca789c15122d0ec63ef/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
+#EXTINF:-1 tvg-id="4055243" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/c131d484-1c30-40eb-abc3-56c4743ec0e9/d48dd636d9ad4e9e871a0bf93062b8ef/1731160249.jpg",Chennaiyin FC vs Mumbai City FC - All Goals
+#EXTHTTP:{"cookie":"hdnts=st=1731242157~exp=1731242757~acl=/jcvod/video/cac/s18_isl2024_m46_cfc_vs_mcfc_ag_vod_hindi_20241109/hindi/fhd/h264/stereo/1731160519/jiocinemanondrmdashiecis-030155e41a9a4e62a3d925a5a60b2bc8/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=cd31befe-9f60-461f-8a80-681d7d396e5d~hmac=0c3067684171137bba32e61e7c4a876120e0cb007a04974ca4616718772a9569"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_isl2024_m46_cfc_vs_mcfc_ag_vod_hindi_20241109/hindi/fhd/h264/stereo/1731160519/jiocinemanondrmdashiecis-030155e41a9a4e62a3d925a5a60b2bc8/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
