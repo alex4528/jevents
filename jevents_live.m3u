@@ -1,1 +1,48 @@
-Error decoding JSON file
+#EXTM3U
+#playlist by @yuvraj824
+
+#EXTINF:-1 tvg-id="4057271" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/3_t20_sa_ind_t20_tonight_horizontal_carousel-1731436228551.jpg",South Africa vs India - 3rd T20I Preview
+#EXTHTTP:{"cookie":"hdnts=st=1731486398~exp=1731486998~acl=/jcvod/video/cac/s18_sa_ind_3rd_t20_preview_vod_hindi_20241112/hindi/fhd/h264/stereo/1731430308/jiocinemanondrmdashiecis-82a14f53a9e74b2b9dbd6e278a80f36b/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=0334dd4b-ee55-4fdf-9f30-77a5255729eb~hmac=1c5d4fbe88d005fb1d81c79a0fa0cef0cc237d1df9e2a19084c0e98ae9bec922"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_sa_ind_3rd_t20_preview_vod_hindi_20241112/hindi/fhd/h264/stereo/1731430308/jiocinemanondrmdashiecis-82a14f53a9e74b2b9dbd6e278a80f36b/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
+#EXTINF:-1 tvg-id="4046951" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ranji_trohy_live_up_vs_kar_horizontal_carousel-1731473279986.jpg",Uttar Pradesh vs Karnataka - Day 1
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m2_131124/tv_master.m3u8
+
+#EXTINF:-1 tvg-id="4057242" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/39615312-e152-45f6-bcd3-34a6ee91e177/0c62d6ae4537416b93dae2cfec8bcdfa/1731420103.jpg",South Africa vs India - 3rd T20I - Arshdeep Singh Press Conference
+#EXTHTTP:{"cookie":"hdnts=st=1731486403~exp=1731487003~acl=/jcvod/video/cac/s18_sa_ind_3rd_t20_arshdeep_pc_vod_english_20241112/english/fhd/h264/stereo/1731420383/jiocinemanondrmdashiecis-3280c7f851fe47a096effad0d4eef959/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=7a620807-6cd3-4729-ba11-c2e4ef225772~hmac=420284d590d8e2804472d82e6d7a28513de2ddadf36a91d013146c8156cb81f6"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_sa_ind_3rd_t20_arshdeep_pc_vod_english_20241112/english/fhd/h264/stereo/1731420383/jiocinemanondrmdashiecis-3280c7f851fe47a096effad0d4eef959/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
+#EXTINF:-1 tvg-id="4057255" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/a3e709e2-2a72-4a42-9273-0acf37f4b8bd/3df036a26b6a47009d7dbd8461214c8b/1731422045.jpg",Final - Mumbai vs Bengal - Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1731486406~exp=1731487006~acl=/jcvod/video/cac/s18_senior_womens_t20_final_bengal_vs_mumbai_hls_english_20241112/english/fhd/h264/stereo/1731422277/jiocinemanondrmdashiecis-e4e918853aa14cdeb4bca668f0ae2b9d/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=29a5f4e3-1729-484b-b6f9-a1b81614ddf4~hmac=f142811e62d2c86c47d463a44b448f4967a52b6a87574124af5230614cff7c43"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_senior_womens_t20_final_bengal_vs_mumbai_hls_english_20241112/english/fhd/h264/stereo/1731422277/jiocinemanondrmdashiecis-e4e918853aa14cdeb4bca668f0ae2b9d/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
+#EXTINF:-1 tvg-id="4057266" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/f3ec775c-0aed-4135-bf51-a0c9002dcb32/10f0742f14f6483fb54204a782339791/1731423714.jpg",South Africa vs India - 3rd T20I - Marco Jansen Press Conference
+#EXTHTTP:{"cookie":"hdnts=st=1731486409~exp=1731487009~acl=/jcvod/video/cac/s18_sa_ind_3rd_t20_jansen_pc_vod_english_20241112/english/fhd/h264/stereo/1731423929/jiocinemanondrmdashiecis-df01e73c4ca24252bd4fded969c5f325/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=61e1eb3a-c5f5-49cc-919b-93689e4427c8~hmac=a78f33b1b892f4af1792a30b39d9c2e81f246714d3899bfc31140c5e618c2ffd"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_sa_ind_3rd_t20_jansen_pc_vod_english_20241112/english/fhd/h264/stereo/1731423929/jiocinemanondrmdashiecis-df01e73c4ca24252bd4fded969c5f325/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
+#EXTINF:-1 tvg-id="4056300" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/777081cf-5c06-47e7-9b22-6027ad38d3af/0eae9dc2d7214cc890921447c200875b/1731334522.jpg",ISL - Top Goals - Matchweek 8 ft. Alberto Noguera
+#EXTHTTP:{"cookie":"hdnts=st=1731486412~exp=1731487012~acl=/jcvod/video/cac/s18_isl2024_top_goals_week8_alberto_vod_hindi_20241111/hindi/fhd/h264/stereo/1731334754/jiocinemanondrmdashiecis-021578f3a6e2444bb576139e560b67ab/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=c54f9bab-e595-4861-9bbb-457dfa26a881~hmac=cd1d4c91806d13cf1887b0630578688f5c79fd60837e9a8420325941583e3c82"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_isl2024_top_goals_week8_alberto_vod_hindi_20241111/hindi/fhd/h264/stereo/1731334754/jiocinemanondrmdashiecis-021578f3a6e2444bb576139e560b67ab/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
+#EXTINF:-1 tvg-id="3900830" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/top_10_caught_bowled_carousel-1706735270871.jpg",IPL Mega Comps - Top 10 Caught And Bowled
+#EXTHTTP:{"cookie":"hdnts=st=1731486414~exp=1731487014~acl=/bpkvod/jcsports/default/65b8f65fba99a5ab0f992e35_v1/65b8f65fba99a5ab0f992e35_v1/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=057a7c4e-9f57-4560-a7f4-5bbf9ee5f887~hmac=254af12a03f09cb5fae5964ffbeea34822e262a1d396d18486cb1ca08fcb1584"}
+https://ak-mediavod.jiocinema.com/bpkvod/jcsports/default/65b8f65fba99a5ab0f992e35_v1/65b8f65fba99a5ab0f992e35_v1/index_sjc_androidtv_premium.m3u8
+
+#EXTINF:-1 tvg-id="4055944" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ind_vs_aus_bcci_press_conference_horizontal_carousel-1731305904647.jpg",Australia vs India - Border Gavaskar Trophy - Gautam Gambhir Press Conferece
+#EXTHTTP:{"cookie":"hdnts=st=1731486417~exp=1731487017~acl=/jcvod/video/cac/s18_indvsaus_bgt_pc_gambhir_vod_english_20241111/english/fhd/h264/stereo/1731409148/jiocinemanondrmdashiecis-cd4f03b0da6e4ee6bf3975f280fea563/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=081ce9ec-4287-440f-94b8-ba971ed88d20~hmac=76febb1197a38067a7801745c8364dc3c79410e582ed6c66c59e2967c77108d8"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_indvsaus_bgt_pc_gambhir_vod_english_20241111/english/fhd/h264/stereo/1731409148/jiocinemanondrmdashiecis-cd4f03b0da6e4ee6bf3975f280fea563/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
+#EXTINF:-1 tvg-id="4055631" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/2nd_t20_sa_ind_highlights_horizontal_carousel-1731260638501.jpg",South Africa vs India - 2nd T20I Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1731486420~exp=1731487020~acl=/jcvod/video/cac/s18_sa_vs_ind_2nd_t20i_4k_hls_hindi_20241110/hindi/uhd/h264/stereo/1731273964/jiocinemauhdnondrmdashiecis-7ead7d0a774d4754b1104375e74b0cf5/dash-tv-premium-plain-b9808e5ea1aa462b9970adca4a666b41/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=78eac43c-44ab-4db6-b69a-a5d6b1d800fb~hmac=1001751382dd2126ef4a6033867849d398db2fba6c9d63b6eb6b70434ce58eae"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_sa_vs_ind_2nd_t20i_4k_hls_hindi_20241110/hindi/uhd/h264/stereo/1731273964/jiocinemauhdnondrmdashiecis-7ead7d0a774d4754b1104375e74b0cf5/dash-tv-premium-plain-b9808e5ea1aa462b9970adca4a666b41/master.mpd
+
+#EXTINF:-1 tvg-id="3900831" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/top_10_direct_hits_horizontal_carousel-1725979506834.jpg",IPL Mega Comps - Top 10 Direct Hits
+#EXTHTTP:{"cookie":"hdnts=st=1731486422~exp=1731487022~acl=/bpkvod/jcsports/default/65b8f65f9e3246e85a70fe26_v2/65b8f65f9e3246e85a70fe26_v2/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=37a16931-9ed8-4b4b-8c0a-758a15aa536b~hmac=ea97830bffd7cbd7c37cb20d33d034e8861e5f2761f4b2338b7cd76496e56ecb"}
+https://ak-mediavod.jiocinema.com/bpkvod/jcsports/default/65b8f65f9e3246e85a70fe26_v2/65b8f65f9e3246e85a70fe26_v2/index_sjc_androidtv_premium.m3u8
+
+#EXTINF:-1 tvg-id="4046950" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ranji_trohy_live_vidarbha_vs_gujarat_horizontal_carousel-1731232044102.jpg",Vidarbha vs Gujarat - Day 1
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m1_131124/tv_master.m3u8
+
+#EXTINF:-1 tvg-id="4046952" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ranji_trohy_live_himachal_pradesh_vs_pondicherry_horizontal_carousel-1731430785651.jpg",Himachal Pradesh vs Pondicherry - Day 1
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m3_131124/tv_master.m3u8
+
