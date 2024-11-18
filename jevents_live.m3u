@@ -1,1 +1,42 @@
-Error decoding JSON file
+#EXTM3U
+#playlist by @yuvraj824
+
+#EXTINF:-1 tvg-id="4058881" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/international_friendly_ind_v_mal_horizontal_carousel-1731669238163.jpg",International Friendlies 2024 - India vs Malaysia
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100308/hd_akamai_merged_avc_eng_football_m3_181124/tv_master.m3u8
+
+#EXTINF:-1 tvg-id="4059704" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/experts_top_5_wicketkeepers_horizontal_carousel-1731826010412.jpg",TATA IPL 2025 Auction - Top 5 Wicket-Keepers
+#EXTHTTP:{"cookie":"hdnts=st=1731937693~exp=1731938293~acl=/jcvod/video/cac/s18_ipl_2025_auction_top_10_wicketkeeer_vod_hindi_20241116/hindi/fhd/h264/stereo/1731775887/jiocinemanondrmdashiecis-97abe6d2b76247dfa608598914c2b71b/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=784fab55-3010-41ac-ac17-351ee66abe16~hmac=6afaa6273dc45dba93f9c49458d82935481e900cc9d2303a4de045fe1e4e926d"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_ipl_2025_auction_top_10_wicketkeeer_vod_hindi_20241116/hindi/fhd/h264/stereo/1731775887/jiocinemanondrmdashiecis-97abe6d2b76247dfa608598914c2b71b/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
+#EXTINF:-1 tvg-id="4060214" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/aus_vs_ind_buildup_india_iconic_series_win_at_the_gabba_horizontal_carousel-1731920334498.jpg",India's Toughest Wins - Iconic Series Win At The Gabba, 2020-21
+#EXTHTTP:{"cookie":"hdnts=st=1731937695~exp=1731938295~acl=/jcvod/video/cac/s18_bgt_toughest_win_comabackindia_2020_21_gabba_vod_hindi_20241117/hindi/fhd/h264/stereo/1731853326/jiocinemanondrmdashiecis-f8b83f7120334066866edad563ab9caa/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=88a4f8d6-5f98-4085-8779-4cd5ae2a3b6d~hmac=2f2cd1f866719dad15e801730bd3fa393b88ae80e9247c454f7b25ec470b2aa2"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_bgt_toughest_win_comabackindia_2020_21_gabba_vod_hindi_20241117/hindi/fhd/h264/stereo/1731853326/jiocinemanondrmdashiecis-f8b83f7120334066866edad563ab9caa/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
+#EXTINF:-1 tvg-id="4059073" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/t20_sa_vs_ind_highlights_horizontal_carousel-1731697487185.jpg",South Africa vs India - 4th T20I Highlights
+#EXTHTTP:{"cookie":"hdnts=st=1731937697~exp=1731938297~acl=/jcvod/video/cac/s18_sa_vs_ind_4th_t20_4k_hls_hindi_20241115/hindi/uhd/h264/stereo/1731706795/jiocinemauhdnondrmdashiecis-ec1c25a428fc4e1d8744a1673bcadbd8/dash-tv-premium-plain-b9808e5ea1aa462b9970adca4a666b41/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=59134963-9f20-4df4-b0ca-3fb779c5d34c~hmac=54fc6e01fd18950d7edb47afa6dcfda53358a7023782acd5642ff8445be11aa0"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_sa_vs_ind_4th_t20_4k_hls_hindi_20241115/hindi/uhd/h264/stereo/1731706795/jiocinemauhdnondrmdashiecis-ec1c25a428fc4e1d8744a1673bcadbd8/dash-tv-premium-plain-b9808e5ea1aa462b9970adca4a666b41/master.mpd
+
+#EXTINF:-1 tvg-id="4060301" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ipl_auction_mi_team_preview_horizontal_carousel-1731918715497.jpg",TATA IPL 2025 Auction - MI Preview
+#EXTHTTP:{"cookie":"hdnts=st=1731937699~exp=1731938299~acl=/jcvod/video/cac/s18_ipl2025_auction_preview_mi_hindi_20241117/hindi/fhd/h264/stereo/1731864807/jiocinemanondrmdashiecis-fbc69becc4ee4e0ea252db96cfabc910/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=c4a67196-dfc6-4b55-ab76-6d417454e481~hmac=a5ed2a350416677ee565492af393ff614604e3925a377705ef91cf145eedefd3"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_ipl2025_auction_preview_mi_hindi_20241117/hindi/fhd/h264/stereo/1731864807/jiocinemanondrmdashiecis-fbc69becc4ee4e0ea252db96cfabc910/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
+#EXTINF:-1 tvg-id="4059489" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/t20_sa_vs_ind_pos_horizontal_carousel-1731740705011.jpg",South Africa vs India - Player Of The T20I Series - Tilak Varma
+#EXTHTTP:{"cookie":"hdnts=st=1731937701~exp=1731938301~acl=/jcvod/video/cac/s18_sa_vs_ind_4th_t20_pots_tilak_vod_hindi_20241116/hindi/fhd/h264/stereo/1731702010/jiocinemanondrmdashiecis-8911a5d06ef943a8abb48140921c7418/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=aad527ac-04a8-4bef-8b8e-9fd44fb98437~hmac=8d8e124640e835364430698f04fe4f44f15224e6dc02d3390812a5b3a51dcc53"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_sa_vs_ind_4th_t20_pots_tilak_vod_hindi_20241116/hindi/fhd/h264/stereo/1731702010/jiocinemanondrmdashiecis-8911a5d06ef943a8abb48140921c7418/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
+#EXTINF:-1 tvg-id="3900833" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/top_10_yorkers_carousel-1706622147642.jpg",IPL Mega Comps - Top 10 Yorkers
+#EXTHTTP:{"cookie":"hdnts=st=1731937704~exp=1731938304~acl=/bpkvod/jcsports/default/65b8f65fd15ee5d0d0ba7ae5_v3/65b8f65fd15ee5d0d0ba7ae5_v3/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=087b9348-f00a-4cfe-a597-e531e68f7a26~hmac=8ab8cf6d3e05d711a5c29bb34b2d95ee93057eea0fc477507dab08b64a6197d8"}
+https://ak-mediavod.jiocinema.com/bpkvod/jcsports/default/65b8f65fd15ee5d0d0ba7ae5_v3/65b8f65fd15ee5d0d0ba7ae5_v3/index_sjc_androidtv_premium.m3u8
+
+#EXTINF:-1 tvg-id="4060306" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ipl_auction_rcb_team_preview_horizontal_carousel-1731935114351.jpg",TATA IPL 2025 Auction - RCB Preview
+#EXTHTTP:{"cookie":"hdnts=st=1731937706~exp=1731938306~acl=/jcvod/video/cac/s18_ipl2025_auction_preview_rcb_hindi_20241117/hindi/fhd/h264/stereo/1731930867/jiocinemanondrmdashiecis-03b4334053154dc99542cf8fb1eec697/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=57299023-d66d-4a55-a11e-9501ddb8a4e3~hmac=15329658327a9019f5c8ac3871fa01d07edf34b1b6ef21d32dea774a34d1e0c1"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_ipl2025_auction_preview_rcb_hindi_20241117/hindi/fhd/h264/stereo/1731930867/jiocinemanondrmdashiecis-03b4334053154dc99542cf8fb1eec697/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
+#EXTINF:-1 tvg-id="4060158" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/jcvod/image/78901bea-1887-450f-af64-30d2958945a7/156e1bbea4e142299811621df475ff1f/1731845466.jpg",Awesome In Australia - The Best Of Virat Kohli
+#EXTHTTP:{"cookie":"hdnts=st=1731937708~exp=1731938308~acl=/jcvod/video/cac/s18_bgt_awesome_in_aus_best_of_virat_vod_english_20241117/english/fhd/h264/stereo/1731846103/jiocinemanondrmdashiecis-58d33a47f1a944739eed34e43342f60f/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=c2a95a28-48d1-47c4-993c-a2b30868b374~hmac=585441eff136a739b3237367c0f9b33bdca647e9f6c91495c37fcae799a6172c"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_bgt_awesome_in_aus_best_of_virat_vod_english_20241117/english/fhd/h264/stereo/1731846103/jiocinemanondrmdashiecis-58d33a47f1a944739eed34e43342f60f/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
+#EXTINF:-1 tvg-id="4059702" group-title="Live Events" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/experts-_top_5_spinners_horizontal_carousel-1731829415058.jpg",TATA IPL 2025 Auction - Top 5 Spinners
+#EXTHTTP:{"cookie":"hdnts=st=1731937711~exp=1731938311~acl=/jcvod/video/cac/s18_ipl_2025_auction_top_10_spinners_vod_hindi_20241116/hindi/fhd/h264/stereo/1731775873/jiocinemanondrmdashiecis-01ce158480344d5ea1fcf783926007f2/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=rqId=65da51f1-b78c-4a03-9c7b-af6ed622e5f0~hmac=5a501b6be064b2f66c7a7e9f293a0257fb4bbd320cc829b3b501b80fcd29ab1b"}
+https://ak-mediavod.jiocinema.com/jcvod/video/cac/s18_ipl_2025_auction_top_10_spinners_vod_hindi_20241116/hindi/fhd/h264/stereo/1731775873/jiocinemanondrmdashiecis-01ce158480344d5ea1fcf783926007f2/dash-tv-premium-plain-4fb582d38fbc4db9867f2f2c1d9150c7/master.mpd
+
